@@ -17,11 +17,28 @@ I'm broadly interested in physics-based animation, geometry processing, numerica
 
 Previously, I've explored different research areas with Prof. [Ken Jackson](http://www.cs.toronto.edu/~krj/) on numerical analysis and Prof. [Fanny Chevalier](http://fannychevalier.net/) on HCI / visualization. I also did research in geometric modeling with Prof. [Marc Alexa](https://www.eecs.tu-berlin.de/cg-archiv/menue/team/alexa/) and physics-based animation with Prof. [David Levin](http://diwlevin.webfactional.com/researchdb/) and Prof. [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/). It's my honor to be selected as a finalist for [CRA Outstanding Undergraduate Researcher Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/) 2020 and an awardee for [Adobe Research Women-in Technology Scholarship](https://adoberesearch.ctlprojects.com/scholarship/previous-scholarship-award-winners/) 2020.
 
-Here is my full [CV](https://eriszhang.github.io/files/Jiayi-Eris-Zhang-CV.pdf).
+You can download my full [CV](https://eriszhang.github.io/files/Jiayi-Eris-Zhang-CV.pdf) here.
 
 Publications
 ======
-Under construction
+
+<img width="150" height="115" align="left" src="https://ErisZhang.github.io/images/comp-dynamics-representative-image.jpg"/>
+
+&nbsp; __Complementary Dynamics__  
+&nbsp;  __Jiayi Eris Zhang__, [Seungbae Bang](https://sites.google.com/view/seungbaebang/home), [David I.W. Levin](http://diwlevin.webfactional.com/researchdb/), [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/)  
+&nbsp;  *ACM SIGGRAPH ASIA 2020*  
+&nbsp;  [project page](https://ChrisWu1997.github.io/files/multimodal-pc/index.html) | [paper](http://arxiv.org/abs/2003.07717) | [code](https://github.com/ChrisWu1997/Multimodal-Shape-Completion)  
+
+<br>
+
+<img width="150" height="115" align="left" src="https://ErisZhang.github.io/images/comp-dynamics-representative-image.jpg"/>
+
+&nbsp; __Complementary Dynamics__  
+&nbsp;  __Jiayi Eris Zhang__, [Seungbae Bang](https://sites.google.com/view/seungbaebang/home), [David I.W. Levin](http://diwlevin.webfactional.com/researchdb/), [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/)  
+&nbsp;  *ACM SIGGRAPH ASIA 2020*  
+&nbsp;  [project page](https://ChrisWu1997.github.io/files/multimodal-pc/index.html) | [paper](http://arxiv.org/abs/2003.07717) | [code](https://github.com/ChrisWu1997/Multimodal-Shape-Completion)  
+
+<br/>
 
 
 
