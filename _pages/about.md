@@ -31,7 +31,7 @@ Publications
 
 <br>
 
-<img width="150" height="115" align="left" src="https://ErisZhang.github.io/images/dataquilt-representative-image.jpg"/>
+<img width="150" height="115" align="left" src="https://ErisZhang.github.io/images/teaser-1.jpg"/>
 
 &nbsp; __Complementary Dynamics__  
 &nbsp;  __Jiayi Eris Zhang__, [Nicole Sultanum](https://nicksultanum.github.io/web/), [Anastasia Bezerianos](https://www.lri.fr/~anab/), [Fanny Chevalier](http://fannychevalier.net/) 
