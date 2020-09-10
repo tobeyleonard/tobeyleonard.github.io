@@ -31,14 +31,23 @@ Publications
 
 <br>
 
-<img width="150" height="115" align="left" src="https://ErisZhang.github.io/images/comp-dynamics-representative-image.jpg"/>
+<img width="150" height="115" align="left" src="https://ErisZhang.github.io/images/dataquilt-representative-image.jpg"/>
 
 &nbsp; __Complementary Dynamics__  
-&nbsp;  __Jiayi Eris Zhang__, [Seungbae Bang](https://sites.google.com/view/seungbaebang/home), [David I.W. Levin](http://diwlevin.webfactional.com/researchdb/), [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/)  
-&nbsp;  *ACM SIGGRAPH ASIA 2020*  
+&nbsp;  __Jiayi Eris Zhang__, [Nicole Sultanum](https://nicksultanum.github.io/web/), [Anastasia Bezerianos](https://www.lri.fr/~anab/), [Fanny Chevalier](http://fannychevalier.net/) 
+&nbsp;  *ACM Conference on Human Factors in Computing Systems (CHI), 2020*  
 &nbsp;  [project page](https://ChrisWu1997.github.io/files/multimodal-pc/index.html) | [paper](http://arxiv.org/abs/2003.07717) | [code](https://github.com/ChrisWu1997/Multimodal-Shape-Completion)  
 
 <br/>
+
+<!-- <img width="150" height="115" align="left" src="https://ErisZhang.github.io/images/comp-dynamics-representative-image.jpg"/>
+
+&nbsp; __Complementary Dynamics__ 
+&nbsp;  __Jiayi Eris Zhang__, [Nicole Sultanum](https://nicksultanum.github.io/web/), [Anastasia Bezerianos](https://www.lri.fr/~anab/), [Fanny Chevalier](https://www.cs.toronto.edu/~jacobson/)
+&nbsp;  *ACM SIGGRAPH ASIA 2020*
+&nbsp;  [project page](https://ChrisWu1997.github.io/files/multimodal-pc/index.html) | [paper](http://arxiv.org/abs/2003.07717) | [code](https://github.com/ChrisWu1997/Multimodal-Shape-Completion)  
+
+<br/> -->
 
 
 
