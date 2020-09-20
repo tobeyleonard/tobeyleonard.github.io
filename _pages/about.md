@@ -42,7 +42,11 @@ Publications
 
 Selected Projects
 ======
-<img width="100%" align="left" src="https://ErisZhang.github.io/images/fast.jpg"/>
+<div>
+<div style="font-size:12pt"><strong>Fast Updates for Least-Squares Rotational Alignment</strong></div>
+<div style="font-size:10pt">Across computer graphics, vision, robotics and simulation, many applications rely on determining the 3D rotation that aligns two objects or sets of points. The de facto solution is to use singular value decomposition (SVD), where the optimal rotation is recovered as the product of the singular vectors. While correct, we observe that SVD computes much more information than necessary to build the optimal rotation. In this project, we propose a novel way for efficiently computing updates for least-squares rotational alignment problems. We show that a single Newton-like step is sufficient for small-rotation settings and further optimize implementation using AVX vectorization. </div>
+</div>
+<img width="100%" src="https://ErisZhang.github.io/images/fast-fitting.jpg"/>
 
 
 
