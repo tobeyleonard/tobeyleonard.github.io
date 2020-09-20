@@ -49,5 +49,3 @@ Selected Projects
 <img width="100%" src="https://ErisZhang.github.io/images/fast-fitting.jpg"/>
 
 
-<a style="font-size:6pt" href="https://ErisZhang.github.io/files/googled3ec341b0165ba55.html">Google Verification</a>
-
