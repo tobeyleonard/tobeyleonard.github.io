@@ -42,7 +42,7 @@ Publications
 
 Selected Projects
 ======
-<img width="100%" align="left" src="https://ErisZhang.github.io/images/fast-rotation.jpg"/>
+<img width="100%" align="left" src="https://ErisZhang.github.io/images/fast.jpg"/>
 
 
 
