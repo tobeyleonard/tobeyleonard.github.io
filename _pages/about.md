@@ -22,7 +22,7 @@ Previously, I've explored different research areas with Prof. [Ken Jackson](http
 Publications
 ======
 
-<img width="150" height="115" align="left" src="https://ErisZhang.github.io/images/comp-dynamics-representative-image.jpg"/>
+<img width="175" align="left" src="https://ErisZhang.github.io/images/comp-dynamics-representative-image.jpg"/>
 
 &nbsp; __Complementary Dynamics__  
 &nbsp;  __Jiayi Eris Zhang__, [Seungbae Bang](https://sites.google.com/view/seungbaebang/home), [David I.W. Levin](http://diwlevin.webfactional.com/researchdb/), [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/)  
@@ -31,7 +31,7 @@ Publications
 
 <br/>
 
-<img width="150" height="130" align="left" src="https://ErisZhang.github.io/images/teaser-1.jpg"/>
+<img width="175" align="left" src="https://ErisZhang.github.io/images/teaser-1.jpg"/>
 
 &nbsp; __DataQuilt: Extracting Visual Elements from Images to Craft Pictorial__<br/>
 &nbsp; __Visualizations__<br/>
