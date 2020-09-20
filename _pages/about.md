@@ -39,7 +39,10 @@ Publications
 &nbsp;  *ACM Conference on Human Factors in Computing Systems (CHI), 2020*<br/>
 &nbsp;  [Paper](https://eriszhang.github.io/files/dataquilt-paper.pdf) | [Project Page](https://dataquilt.github.io/)
 
-<br/>
+
+Selected Projects
+======
+<img width="100%" align="left" src="https://ErisZhang.github.io/images/fast-rotation.jpg"/>
 
 
 
