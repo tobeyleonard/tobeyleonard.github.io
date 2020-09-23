@@ -51,9 +51,6 @@
 <loc>https://eriszhang.github.io/publications/</loc>
 </url>
 <url>
-<loc>https://eriszhang.github.io/sitemap/</loc>
-</url>
-<url>
 <loc>https://eriszhang.github.io/tags/</loc>
 </url>
 <url>
@@ -70,6 +67,9 @@
 </url>
 <url>
 <loc>https://eriszhang.github.io/year-archive/</loc>
+</url>
+<url>
+<loc>https://eriszhang.github.io/_pages/sitemap/</loc>
 </url>
 <url>
 <loc>https://eriszhang.github.io/markdown_generator/</loc>
