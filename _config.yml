@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "Toronto, Canada"
 title                    : "Jiayi Eris Zhang"
 title_separator          : "-"
 name                     : &name "Jiayi Eris Zhang"
-description              : &description "Personal Page"
+description              : &description "Homepage of Jiayi Eris Zhang, University of Toronto"
 url                      : https://ErisZhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ErisZhang/ErisZhang.github.io"
