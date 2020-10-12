@@ -262,7 +262,7 @@
 <p>Hi! I’m a senior undergraduate student at the University of Toronto, majoring in Computer Science and Mathematics.
 In parallel, I’ve been working as a research assistant at the <a href="https://www.dgp.toronto.edu/">Dynamic Graphics Project</a> Lab, advised by Prof. <a href="https://www.cs.toronto.edu/~jacobson/">Alec Jacobson</a>. Currently I’m doing a summer internship at <a href="https://research.adobe.com/">Adobe Research</a> under Dr. <a href="https://qisun.me/">Qi Sun</a> and Dr. <a href="http://www.sunxin.name/">Xin Sun</a>.</p>
 
-<p>I’m broadly interested in physics-based animation, geometry processing, computational fabrication, interactive graphics and user interfaces that augment creativity and productivity.</p>
+<p>I’m broadly interested in physics-based animation, geometry processing, computational fabrication, interactive graphics and novel interfaces that augment creativity and productivity.</p>
 
 <p>Previously, I’ve explored different research areas with Prof. <a href="http://www.cs.toronto.edu/~krj/">Ken Jackson</a> on numerical analysis and with Prof. <a href="http://fannychevalier.net/">Fanny Chevalier</a> on HCI / visualization. I also did research in geometric modeling with Prof. <a href="https://www.eecs.tu-berlin.de/cg-archiv/menue/team/alexa/">Marc Alexa</a> and physics-based animation with Prof. <a href="http://diwlevin.webfactional.com/researchdb/">David Levin</a> and Prof. <a href="https://www.cs.toronto.edu/~jacobson/">Alec Jacobson</a>. It’s my great honour to be selected as a finalist for <a href="https://cra.org/about/awards/outstanding-undergraduate-researcher-award/">CRA Outstanding Undergraduate Researcher Award</a> 2020 and an awardee for <a href="https://adoberesearch.ctlprojects.com/scholarship/previous-scholarship-award-winners/">Adobe Research Women-in Technology Scholarship</a> 2020.</p>
 
@@ -290,17 +290,25 @@ In parallel, I’ve been working as a research assistant at the <a href="https:/
 <h1 id="selected-projects">Selected Projects</h1>
 <div>
 <div style="font-size:12pt"><strong>Fast Updates for Least-Squares Rotational Alignment</strong></div>
-<div style="font-size:10pt">Across computer graphics, vision, robotics and simulation, many applications rely on determining the 3D rotation that aligns two objects or sets of points. The de facto solution is to use singular value decomposition (SVD), where the optimal rotation is recovered as the product of the singular vectors. While correct, we observe that SVD computes much more information than necessary to build the optimal rotation. In this project, we propose a novel way for efficiently computing updates for least-squares rotational alignment problems. We show that a single Newton-like step is sufficient for small-rotation settings and further optimize implementation using AVX vectorization. </div>
+<div style="font-size:10pt">Across computer graphics, vision, robotics and simulation, many applications rely on determining the 3D rotation that aligns two objects or sets of points. The de facto solution is to use singular value decomposition (SVD), where the optimal rotation is recovered as the product of the singular vectors. While correct, we observe that SVD computes much more information than necessary to build the optimal rotation. In this project, we propose a novel way for efficiently computing updates for least-squares rotational alignment problems. We show that a single Newton-like step is sufficient for small-rotation settings and further optimize implementation using AVX vectorization. 
+
+</div>
 </div>
 <p><img width="100%" src="https://ErisZhang.github.io/images/fast-fitting.jpg" /></p>
 
 <div>
-<div style="font-size:12pt"><strong>[Coming Soon]</strong></div>
+<div style="font-size:12pt"><strong>Fast Support Reduction</strong></div>
 </div>
-
-<div>
-<div style="font-size:12pt"><strong>[Coming Soon]</strong></div>
-</div>
+<div style="font-size:10pt"> In layer-based 3D fabrication, supporting structures are fabricated
+to support overhanging regions yet discarded later. Reducing supports
+saves both time and material cost. In this project, we propose 
+a real-time skinning-based method to slim down the
+supporting structure while maintaining a detailed-preserved and semantically meaningful geometry.
+We achieve this by searching globally in
+the subspace spanned by the joint handles and effectively avoid artifacts e.g. self-intersection.
+Our method is implemented via OpenGL shaders and has potential to be
+employed as a structral prototying tool that facilitates model design and fabrication. </div>
+<p><img width="100%" src="../images/bb-bunny.jpg" /></p>
 
         
       </section>
