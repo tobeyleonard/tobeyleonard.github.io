@@ -59,8 +59,8 @@ to support overhanging regions yet discarded later. Reducing supports
 saves both time and material cost. In this project, we propose 
 a real-time skinning-based method to slim down the
 supporting structure while maintaining a detailed-preserved and semantically meaningful geometry.
-We achieve this by searching globally in
-the subspace spanned by the joint handles and effectively avoid artifacts e.g. self-intersection.
+We achieve this by optimizing a set of performance objectives and searching globally in
+the subspace spanned by the joint handles. Artifacts e.g. self-intersection can be effectively avoided.
 Our method is implemented via OpenGL shaders and has potential to be
 employed as a structral prototying tool that facilitates model design and fabrication. </div>
 <img width="100%" src="../images/bb-bunny.jpg"/>
