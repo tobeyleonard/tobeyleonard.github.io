@@ -62,5 +62,5 @@ supporting structure while maintaining a detailed-preserved and semantically mea
 We achieve this by optimizing a set of performance objectives and searching globally in
 the subspace spanned by the joint handles. Artifacts e.g. self-intersection can be effectively avoided.
 Our method is implemented via OpenGL shaders and has potential to be
-employed as a structral prototying tool that facilitates model design and fabrication. </div>
+employed as a structural prototyping tool that facilitates model design and fabrication. </div>
 <img width="100%" src="../images/bb-bunny.jpg"/>
