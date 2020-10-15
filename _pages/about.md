@@ -26,14 +26,15 @@ Publications
 
 &nbsp; __Fast Updates for Least-Squares Rotational Alignment__<br/>
 &nbsp;  __Jiayi Eris Zhang__, Alec Jacobson, Marc Alexa<br/>
-&nbsp;  *Under Review*<br/>
+&nbsp;  *In Submission*<br/>
 
 <br/>
 
 <img width="175" align="left" src="https://ErisZhang.github.io/images/comp-dynamics-representative-image.jpg"/>
 
 &nbsp; __Complementary Dynamics__  
-&nbsp;  __Jiayi Eris Zhang__, [Seungbae Bang](https://sites.google.com/view/seungbaebang/home), [David I.W. Levin](http://diwlevin.webfactional.com/researchdb/), [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/)  
+<!-- &nbsp;  __Jiayi Eris Zhang__, [Seungbae Bang](https://sites.google.com/view/seungbaebang/home), [David I.W. Levin](http://diwlevin.webfactional.com/researchdb/), [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/)   -->
+&nbsp;  __Jiayi Eris Zhang__, Seungbae Bang, David I.W. Levin, Alec Jacobson  
 &nbsp;  *ACM SIGGRAPH ASIA 2020*  
 &nbsp;  [Paper](https://eriszhang.github.io/files/complementary-dynamics-paper.pdf) | [Paper (low res)](https://arxiv.org/abs/2009.02462) | [Project Page](https://www.dgp.toronto.edu/projects/complementary-dynamics/)
 
@@ -43,7 +44,7 @@ Publications
 
 &nbsp; __DataQuilt: Extracting Visual Elements from Images to Craft Pictorial__<br/>
 &nbsp; __Visualizations__<br/>
-&nbsp;  __Jiayi Eris Zhang__, [Nicole Sultanum](https://nicksultanum.github.io/web/), [Anastasia Bezerianos](https://www.lri.fr/~anab/), [Fanny Chevalier](http://fannychevalier.net/)<br/>
+&nbsp;  __Jiayi Eris Zhang__, Nicole Sultanum, Anastasia Bezerianos, Fanny Chevalier<br/>
 &nbsp;  *ACM Conference on Human Factors in Computing Systems (CHI), 2020*<br/>
 &nbsp;  [Paper](https://eriszhang.github.io/files/dataquilt-paper.pdf) | [Project Page](https://dataquilt.github.io/)
 
