@@ -22,6 +22,14 @@ Previously, I've explored different research areas with Prof. [Ken Jackson](http
 Publications
 ======
 
+<img width="175" align="left" src="../images/rotation-teaser.jpg"/>
+
+&nbsp; __Fast Updates for Least-Squares Rotational Alignment__<br/>
+&nbsp;  __Jiayi Eris Zhang__, Alec Jacobson, Marc Alexa<br/>
+&nbsp;  *Under Review*<br/>
+
+<br/>
+
 <img width="175" align="left" src="https://ErisZhang.github.io/images/comp-dynamics-representative-image.jpg"/>
 
 &nbsp; __Complementary Dynamics__  
@@ -39,6 +47,7 @@ Publications
 &nbsp;  *ACM Conference on Human Factors in Computing Systems (CHI), 2020*<br/>
 &nbsp;  [Paper](https://eriszhang.github.io/files/dataquilt-paper.pdf) | [Project Page](https://dataquilt.github.io/)
 
+<br/>
 
 Selected Projects
 ======
@@ -64,3 +73,9 @@ the subspace spanned by the joint handles. Artifacts e.g. self-intersection can 
 Our method is implemented via OpenGL shaders and has potential to be
 employed as a structural prototyping tool that facilitates model design and fabrication. </div>
 <img width="100%" src="../images/bb-bunny.jpg"/>
+
+<br/>
+
+Contact
+======
+jiayieris.zhang (at) mail.utoronto.ca
