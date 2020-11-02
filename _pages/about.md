@@ -35,8 +35,10 @@ Publications
 &nbsp; __Complementary Dynamics__  
 <!-- &nbsp;  __Jiayi Eris Zhang__, [Seungbae Bang](https://sites.google.com/view/seungbaebang/home), [David I.W. Levin](http://diwlevin.webfactional.com/researchdb/), [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/)   -->
 &nbsp;  __Jiayi Eris Zhang__, Seungbae Bang, David I.W. Levin, Alec Jacobson  
-&nbsp;  *ACM SIGGRAPH ASIA 2020*  
-&nbsp;  [Paper](https://eriszhang.github.io/files/complementary-dynamics-paper.pdf) | [Paper (low res)](https://arxiv.org/abs/2009.02462) | [Project Page](https://www.dgp.toronto.edu/projects/complementary-dynamics/)
+&nbsp;  *ACM SIGGRAPH ASIA 2020*<br/>
+&nbsp;  [Paper](https://eriszhang.github.io/files/complementary-dynamics-paper.pdf) | [Paper (low res)](https://arxiv.org/abs/2009.02462) | [Project Page](https://www.dgp.toronto.edu/projects/complementary-dynamics/) <br/>
+&nbsp; **Featured in the  <a href="https://www.youtube.com/watch?v=Q45KT0lGd7A" style="color:rgb(232, 60, 37);font-size:16px">Technical Papers Trailer</a>*<br/>
+
 
 <br/>
 
