@@ -19,6 +19,8 @@ Previously, I've explored different research areas with Prof. [Ken Jackson](http
 
 <!-- You can download my full [CV](https://eriszhang.github.io/files/Jiayi-Eris-Zhang-CV.pdf) here. -->
 
+<br/>
+
 Publications
 ======
 
@@ -39,7 +41,6 @@ Publications
 &nbsp;  [Paper](https://eriszhang.github.io/files/complementary-dynamics-paper.pdf) | [Paper (low res)](https://arxiv.org/abs/2009.02462) | [Project Page](https://www.dgp.toronto.edu/projects/complementary-dynamics/) <br/>
 &nbsp; **Featured in the  <a href="https://www.youtube.com/watch?v=Q45KT0lGd7A" style="color:rgb(232, 60, 37);font-size:16px">Technical Papers Trailer</a>*<br/>
 
-
 <br/>
 
 <img width="175" align="left" src="https://ErisZhang.github.io/images/teaser-1.jpg"/>
@@ -51,6 +52,15 @@ Publications
 &nbsp;  [Paper](https://eriszhang.github.io/files/dataquilt-paper.pdf) | [Project Page](https://dataquilt.github.io/)
 
 <br/>
+
+<!-- Industry Experience
+======
+<img width="175" align="left" src="../images/adobe-logo.png"/>
+
+&nbsp; __DataQuilt: Extracting Visual Elements from Images to Craft Pictorial__<br/>
+&nbsp; __Visualizations__<br/>
+
+<br/> -->
 
 Selected Projects
 ======
