@@ -11,9 +11,9 @@ redirect_from:
 About me
 ======
 Hi! I'm a senior undergraduate student at the University of Toronto, majoring in Computer Science and Mathematics.
-In parallel, I've been working as a research assistant at the [Dynamic Graphics Project](https://www.dgp.toronto.edu/) Lab, advised by Prof. [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/). Currently I'm doing a summer internship at [Adobe Research](https://research.adobe.com/) under Dr. [Qi Sun](https://qisun.me/) and Dr. [Xin Sun](http://www.sunxin.name/).
+In parallel, I've been working as a research assistant at the [Dynamic Graphics Project](https://www.dgp.toronto.edu/) Lab, advised by Prof. [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/). Currently I'm doing a summer internship at [Adobe Research](https://research.adobe.com/) under Dr. [Qi Sun](https://qisun.me/).
 
-I'm broadly interested in physics-based animation, geometry processing, computational fabrication, interactive graphics and novel interfaces that augment creativity and productivity.
+I’m broadly interested in geometry processing, physics-based animation, computational design and fabrication, visualization and interface technologies that augment users' creativity and productivity.
 
 Previously, I've explored different research areas with Prof. [Ken Jackson](http://www.cs.toronto.edu/~krj/) on numerical analysis and with Prof. [Fanny Chevalier](http://fannychevalier.net/) on HCI / visualization. I also did research in geometric modeling with Prof. [Marc Alexa](https://www.eecs.tu-berlin.de/cg-archiv/menue/team/alexa/) and physics-based animation with Prof. [David Levin](http://diwlevin.webfactional.com/researchdb/) and Prof. [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/). It's my great honour to be selected as a finalist for [CRA Outstanding Undergraduate Researcher Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/) 2020 and an awardee for [Adobe Research Women-in Technology Scholarship](https://adoberesearch.ctlprojects.com/scholarship/previous-scholarship-award-winners/) 2020.
 
@@ -28,7 +28,8 @@ Publications
 
 &nbsp; __Fast Updates for Least-Squares Rotational Alignment__<br/>
 &nbsp;  __Jiayi Eris Zhang__, Alec Jacobson, Marc Alexa<br/>
-&nbsp;  *In Submission*<br/>
+&nbsp;  *Eurographics 2021*<br/>
+&nbsp; <h style="color:rgb(150, 150, 150);font-size:16px">Paper Coming Soon</h> <br/>
 
 <br/>
 
@@ -38,8 +39,8 @@ Publications
 <!-- &nbsp;  __Jiayi Eris Zhang__, [Seungbae Bang](https://sites.google.com/view/seungbaebang/home), [David I.W. Levin](http://diwlevin.webfactional.com/researchdb/), [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/)   -->
 &nbsp;  __Jiayi Eris Zhang__, Seungbae Bang, David I.W. Levin, Alec Jacobson  
 &nbsp;  *ACM SIGGRAPH ASIA 2020*<br/>
-&nbsp;  [Paper](https://eriszhang.github.io/files/complementary-dynamics-paper.pdf) | [Paper (low res)](https://arxiv.org/abs/2009.02462) | [Project Page](https://www.dgp.toronto.edu/projects/complementary-dynamics/) <br/>
-&nbsp; **Featured in the  <a href="https://www.youtube.com/watch?v=Q45KT0lGd7A" style="color:rgb(232, 60, 37);font-size:16px">Technical Papers Trailer</a>*<br/>
+&nbsp;  [Paper](https://eriszhang.github.io/files/complementary-dynamics-paper.pdf) | [Paper (low res)](https://arxiv.org/abs/2009.02462) | [Project Page](https://www.dgp.toronto.edu/projects/complementary-dynamics/) | [Talk](https://www.youtube.com/watch?v=Oh2fZGmfYew&t=6s)<br/>
+&nbsp; **Featured in the  <a href="https://www.youtube.com/watch?v=Q45KT0lGd7A" style="color:rgb(232, 60, 37);font-size:16px">Technical Papers Trailer</a>* *and <a href="https://www.youtube.com/watch?v=s8Nm_ytwO6w&feature=youtu.be" style="color:rgb(232, 60, 37);font-size:16px">Two Minute Papers</a>* <br/>
 
 <br/>
 
@@ -49,7 +50,7 @@ Publications
 &nbsp; __Visualizations__<br/>
 &nbsp;  __Jiayi Eris Zhang__, Nicole Sultanum, Anastasia Bezerianos, Fanny Chevalier<br/>
 &nbsp;  *ACM Conference on Human Factors in Computing Systems (CHI), 2020*<br/>
-&nbsp;  [Paper](https://eriszhang.github.io/files/dataquilt-paper.pdf) | [Project Page](https://dataquilt.github.io/)
+&nbsp;  [Paper](https://eriszhang.github.io/files/dataquilt-paper.pdf) | [Project Page](https://dataquilt.github.io/) | [Talk](https://www.youtube.com/watch?v=0K6ZiQ78otA&t=4s) 
 
 <br/>
 
