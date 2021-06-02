@@ -18,7 +18,7 @@ I’m broadly interested in physics-based animation, geometry processing, comput
 
 Previously, I've explored different research areas with Prof. [Ken Jackson](http://www.cs.toronto.edu/~krj/) on numerical analysis and with Prof. [Fanny Chevalier](http://fannychevalier.net/) on HCI / visualization. I also did research in geometric modeling with Prof. [Marc Alexa](https://www.eecs.tu-berlin.de/cg-archiv/menue/team/alexa/) and physics-based animation with Prof. [David Levin](http://142.93.146.228/researchdb/) and Prof. [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/). It's my great honour to be selected as a finalist for [CRA Outstanding Undergraduate Researcher Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/) 2020 and an awardee for [Adobe Research Women-in-Technology Scholarship](https://adoberesearch.ctlprojects.com/scholarship/previous-scholarship-award-winners/) 2020.
 
-__Update: I will be joining Stanford University as a Ph.D. student in Fall 2021!__
+<!-- __Update: I will be joining Stanford University as a Ph.D. student in Fall 2021!__ -->
 
 
 <br/>
