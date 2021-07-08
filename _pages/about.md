@@ -11,17 +11,22 @@ redirect_from:
 About me
 ======
 
-Hi! I'm a senior undergraduate student at the University of Toronto, majoring in Computer Science and Mathematics.
-In parallel, I've been working as a research assistant at the [Dynamic Graphics Project](https://www.dgp.toronto.edu/) Lab, advised by Prof. [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/).
+Hiya, I'm a doctoral student at the Nanjing University, China, currently majoring in Optics and Photonics in Dielectric Superlattice Lab. guided by Prof. Zhu Shining, and advised by Prof. Shuming Wang.
 
-I’m broadly interested in physics-based animation, geometry processing, computational design and fabrication as well as interface technologies that augment users' creativity and productivity.
+My research interests mainly focus on the field of Nanophotonics, specifically the physical mechanism of metasurface, multifunctional meta-device design and topological photonics in non-Hermite system. In parallel, I also study on optical manipulation based on metasurface with Prof. Shaohui Yan (XIOPM) and Dr. Xiaohao Xu (Jinan Univ. Guangzhou), and expected to discover something new in classic and quantum physics.
 
-Previously, I've explored different research areas with Prof. [Ken Jackson](http://www.cs.toronto.edu/~krj/) on numerical analysis and with Prof. [Fanny Chevalier](http://fannychevalier.net/) on HCI / visualization. I also did research in geometric modeling with Prof. [Marc Alexa](https://www.eecs.tu-berlin.de/cg-archiv/menue/team/alexa/) and physics-based animation with Prof. [David Levin](http://142.93.146.228/researchdb/) and Prof. [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/). It's my great honour to be selected as a finalist for [CRA Outstanding Undergraduate Researcher Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/) 2020 and an awardee for [Adobe Research Women-in-Technology Scholarship](https://adoberesearch.ctlprojects.com/scholarship/previous-scholarship-award-winners/) 2020.
+Also, I've previously participated in different research areas with Prof. Houjun Lü (Guangxi Univ.) on High Energy Astrophysics and with Prof. Ziqian Chen (Guangxi. Univ.) on optical gauge as well as precise alignment of interferometers with Prof. Xuemin Zhang (Wuhan Univ.).
 
 <!-- __Update: I will be joining Stanford University as a Ph.D. student in Fall 2021!__ -->
 
 
 <br/>
+
+Research area
+======
+
+<img width="175" align="left" src="../images/tianyue.png"/>
+Optical tweezers (OT) and optical spanner (OS) are powerful tools of optical manipulation, which are responsible for particle trapping and rotation, respectively. Conventionally, the OT and OS are built using bulky three-dimensional devices, such as microscope objectives and spatial light modulators. Recently, metasurfaces are proposed for setting up them on a microscale platform, which greatly miniaturizing the systems. However, the realization of both OT and OS with one identical metasurface is posing a challenge. Here, we offer a metasurface-based solution to integrating the OT and OS. <font color=red>Using the prevailing approach based on the geometric and dynamic phases, we show that it is possible to construct an output field</font>, which promises a high-numerical-aperture focal spot, accompanied with a coaxial vortex. Optical trapping and rotation are numerically demonstrated by estimating the mechanical effects on a particle probe. Moreover, we demonstrate an on-demand control of the OT-to-OS distance and the topological charge possessed by the OS. By revealing the OT-OS metasurfaces, our results may empower advanced applications in on-chip particle manipulation.
 
 Publications
 ======
