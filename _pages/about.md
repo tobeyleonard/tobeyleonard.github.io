@@ -7,10 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-```diff
-+ this will be highlighted in green
-- this will be highlighted in red
-```
+
 About me
 ======
 
@@ -30,10 +27,9 @@ Research area
 
 <img width="175" align="left" src="../images/tianyue.png"/>
 Optical tweezers (OT) and optical spanner (OS) are powerful tools of optical manipulation, which are responsible for particle trapping and rotation, respectively. Conventionally, the OT and OS are built using bulky three-dimensional devices, such as microscope objectives and spatial light modulators. Recently, metasurfaces are proposed for setting up them on a microscale platform, which greatly miniaturizing the systems. However, the realization of both OT and OS with one identical metasurface is posing a challenge. Here, we offer a metasurface-based solution to integrating the OT and OS.
-```diff
-+ this will be highlighted in green
-- this will be highlighted in red
-```
+
+ this will be highlighted in green()
+
 which promises a high-numerical-aperture focal spot, accompanied with a coaxial vortex. Optical trapping and rotation are numerically demonstrated by estimating the mechanical effects on a particle probe. Moreover, we demonstrate an on-demand control of the OT-to-OS distance and the topological charge possessed by the OS. By revealing the OT-OS metasurfaces, our results may empower advanced applications in on-chip particle manipulation.
 
 Publications
