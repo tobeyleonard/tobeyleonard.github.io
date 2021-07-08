@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiayi(Eris) Zhang"
+  name             : "Tianyue Li"
   avatar           : "jiayi-zhang.jpg"
   bio              : "Undergrad @UofT <br/>
-                      she/her/hers"
-  location         : "Toronto, ON"
+                      Ph. D candidate @Nanjing Univ"
+  location         : "Nanjing, ON"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=rZfDdGsAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=9E7qtmMAAAAJ&hl=en"
   email            :
   researchgate     :
   uri              :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ErisZhang"
+  github           : "tobeyleonard"
   google_plus      :
   keybase          :
   instagram        :
