@@ -7,7 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+```diff
++ this will be highlighted in green
+- this will be highlighted in red
+```
 About me
 ======
 
