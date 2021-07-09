@@ -85,14 +85,14 @@ Publications
 
 
 &nbsp; __Multidimensional light field manipulation and applications based on optical metasurface__<br/>
-&nbsp; Wenbo Zang, Quan Yuan, Run Chen, Lin Li, __Tianyue Li__  et al.<br/>
+&nbsp; __Tianyue Li__, Boyan Fu, Jianzheng Ren  et al.<br/>
 &nbsp;  *The 1st Optics Frontier Symposium 2021*<br/>
 &nbsp;  [Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11850/1185004/Multidimensional-light-field-manipulation-and-applications-based-on-optical-metasurface/10.1117/12.2598880.full?SSO=1)<br/>
 
 
 
 &nbsp; __Chromatic Dispersion Manipulation Based on Metalenses__<br/>
-&nbsp; Xiujuan Zou, Gaige Zheng, Quan Yuan, Wenbo Zang, Run Chen, __Tianyue Li__  et al. <br/>
+&nbsp; Wenbo Zang, Quan Yuan, Run Chen, Lin Li, __Tianyue Li__ et al. <br/>
 &nbsp;  *Advanced Materials 2020*<br/>
 &nbsp;  [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201904935)<br/>
 
