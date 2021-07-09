@@ -73,7 +73,7 @@ Publications
 &nbsp;  *Photonic Research2021*<br/>
 &nbsp; [Paper (low res)](https://www.osapublishing.org/prj/fulltext.cfm?uri=prj-9-6-1062&id=451401)<br/>
 
-<br/>
+
 
 <!-- <img width="175" align="left" src="../images/rotation-teaser.jpg"/> -->
 
