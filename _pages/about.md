@@ -29,6 +29,7 @@ Research area
 
 <div>
 <div style="font-size:12pt"><strong>Metasurface-based Optical manipulation</strong></div>
+  <hr>
 </div>
 <div style="font-size:10pt ; font-weight:bold ; font-style:italic">
  <img width="175" align="left" src="../images/tianyue.png"/>
