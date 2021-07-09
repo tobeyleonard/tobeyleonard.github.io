@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-<a href=https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html>链接名称</a>
+<p align = "justify"><a href=http://slab.nju.edu.cn/>Dielectric Superlattice Lab.</a></p>
 Hiya, I'm a doctoral student at the Nanjing University, China, currently majoring in Optics and Photonics in [Dielectric Superlattice Lab.](http://slab.nju.edu.cn/) guided by[ Prof. Zhu Shining](http://slab.nju.edu.cn/teamdetail.aspx?id=16), and advised by [Prof. Shuming Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html) 
 
 
