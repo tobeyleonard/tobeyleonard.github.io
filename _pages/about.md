@@ -11,11 +11,11 @@ redirect_from:
 About me
 ======
 
-<center>Hiya, I'm a doctoral student at the Nanjing University, China, currently majoring in Optics and Photonics in Dielectric Superlattice Lab. guided by Prof. Zhu Shining, and advised by Prof. Shuming Wang.
+<p align="right">Hiya, I'm a doctoral student at the Nanjing University, China, currently majoring in Optics and Photonics in Dielectric Superlattice Lab. guided by Prof. Zhu Shining, and advised by Prof. Shuming Wang.</p>
 
-My research interests mainly focus on the field of Nanophotonics, specifically the physical mechanism of metasurface, multifunctional meta-device design and topological photonics in non-Hermite system. In parallel, I also study on optical manipulation based on metasurface with Prof. Shaohui Yan (XIOPM) and Dr. Xiaohao Xu (Jinan Univ. Guangzhou), and expected to discover something new in classic and quantum physics.
+<p align="right">My research interests mainly focus on the field of Nanophotonics, specifically the physical mechanism of metasurface, multifunctional meta-device design and topological photonics in non-Hermite system. In parallel, I also study on optical manipulation based on metasurface with Prof. Shaohui Yan (XIOPM) and Dr. Xiaohao Xu (Jinan Univ. Guangzhou), and expected to discover something new in classic and quantum physics.</p>
 
-Also, I've previously participated in different research areas with Prof. Houjun Lü (Guangxi Univ.) on High Energy Astrophysics and with Prof. Ziqian Chen (Guangxi. Univ.) on optical gauge as well as precise alignment of interferometers with Prof. Xuemin Zhang (Wuhan Univ.).</center>
+<p align="right">Also, I've previously participated in different research areas with Prof. Houjun Lü (Guangxi Univ.) on High Energy Astrophysics and with Prof. Ziqian Chen (Guangxi. Univ.) on optical gauge as well as precise alignment of interferometers with Prof. Xuemin Zhang (Wuhan Univ.).</p>
 
 <!-- __Update: I will be joining Stanford University as a Ph.D. student in Fall 2021!__ -->
 
