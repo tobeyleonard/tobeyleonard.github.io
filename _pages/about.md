@@ -20,9 +20,13 @@ Hiya, I'm a doctoral student at the Nanjing University, China, currently majorin
 <p align = "justify">I'm honored to be selected as an 'Outstanding Speaker' in 2nd National Academic Forum on Photonics Technology and Awarded Second Prize of Presentation Contest in The 1st 'Light & Future' National Graduate Academic Forum.</p>
 
 <!-- __Update: I will be joining Stanford University as a Ph.D. student in Fall 2021!__ -->
-
+<div>
+<div style="font-size:12pt"><strong>Fast Support Reduction</strong></div>
+  <a herf=https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html> dfghagjd </a>
+</div>
 
 <br/>
+
 
 Research area
 ======
