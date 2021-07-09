@@ -69,7 +69,7 @@ Publications
 <!-- <img width="175" align="left" src="../images/multigrid.jpg"/> -->
 
 &nbsp; __Integrating the optical tweezers and spanner onto an individual single-layer metasurface__<br/>
-&nbsp; __Tianyue Li__, Xiaohao Xu__, Boyan Fu et al. <br/>
+&nbsp; __Tianyue Li__, Xiaohao Xu, Boyan Fu et al. <br/>
 &nbsp;  *Photonic Research2021*<br/>
 &nbsp; [Paper](https://www.osapublishing.org/prj/fulltext.cfm?uri=prj-9-6-1062&id=451401)<br/>
 
