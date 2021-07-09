@@ -66,44 +66,68 @@ Research area
 Publications
 ======
 
-<img width="175" align="left" src="../images/multigrid.jpg"/>
+<!-- <img width="175" align="left" src="../images/multigrid.jpg"/> -->
 
-&nbsp; __Surface Multigrid via Intrinsic Prolongation__<br/>
-&nbsp;  Hsueh-Ti Derek Liu, __Jiayi Eris Zhang__, Mirela Ben-Chen, Alec Jacobson<br/>
-&nbsp;  *ACM SIGGRAPH 2021*<br/>
-&nbsp;  [Paper](../files/surface-multigrid-high.pdf) | [Paper (low res)](https://arxiv.org/abs/2009.02462)<br/>
-
-<br/>
-
-<img width="175" align="left" src="../images/rotation-teaser.jpg"/>
-
-&nbsp; __Fast Updates for Least-Squares Rotational Alignment__<br/>
-&nbsp;  __Jiayi Eris Zhang__, Alec Jacobson, Marc Alexa<br/>
-&nbsp;  *Eurographics 2021*<br/>
-&nbsp;  [Paper](https://www.dgp.toronto.edu/projects/fast-rotation-fitting/nosvd.pdf) | [Project Page](https://www.dgp.toronto.edu/projects/fast-rotation-fitting/) | [Code](https://github.com/ErisZhang/fast-rotation-fitting)
+&nbsp; __Integrating the optical tweezers and spanner onto an individual single-layer metasurface__<br/>
+&nbsp; __Tianyue Li, Xiaohao Xu__, Boyan Fu <br/>
+&nbsp;  *Photonic Research2021*<br/>
+&nbsp; Paper (low res)](https://www.osapublishing.org/prj/fulltext.cfm?uri=prj-9-6-1062&id=451401)<br/>
 
 <br/>
 
-<img width="175" align="left" src="https://ErisZhang.github.io/images/comp-dynamics-representative-image.jpg"/>
+<!-- <img width="175" align="left" src="../images/rotation-teaser.jpg"/> -->
 
-&nbsp; __Complementary Dynamics__  
-<!-- &nbsp;  __Jiayi Eris Zhang__, [Seungbae Bang](https://sites.google.com/view/seungbaebang/home), [David I.W. Levin](http://diwlevin.webfactional.com/researchdb/), [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/)   -->
-&nbsp;  __Jiayi Eris Zhang__, Seungbae Bang, David I.W. Levin, Alec Jacobson  
-&nbsp;  *ACM SIGGRAPH ASIA 2020*<br/>
-&nbsp;  [Paper](https://eriszhang.github.io/files/complementary-dynamics-paper.pdf) | [Paper (low res)](https://arxiv.org/abs/2009.02462) | [Project Page](https://www.dgp.toronto.edu/projects/complementary-dynamics/) | [Talk](https://www.youtube.com/watch?v=Oh2fZGmfYew&t=6s)<br/>
-&nbsp; **Featured in the  <a href="https://www.youtube.com/watch?v=Q45KT0lGd7A" style="color:rgb(232, 60, 37);font-size:16px">Technical Papers Trailer</a>* *and <a href="https://www.youtube.com/watch?v=s8Nm_ytwO6w&feature=youtu.be" style="color:rgb(232, 60, 37);font-size:16px">Two Minute Papers</a>* <br/>
+&nbsp; __Generation and Conversion Dynamics of Dual Bessel Beams with a Photonic Spin-Dependent Dielectric Metasurface__<br/>
+&nbsp; __Tianyue Li__, Xingyi Li, Shaohui Yan <br/>
+&nbsp;  *Physical Review Applied 2021*<br/>
+&nbsp;  Paper (low res)](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.15.014059)<br/>
 
 <br/>
 
-<img width="175" align="left" src="https://ErisZhang.github.io/images/teaser-1.jpg"/>
-
-&nbsp; __DataQuilt: Extracting Visual Elements from Images to Craft Pictorial__<br/>
-&nbsp; __Visualizations__<br/>
-&nbsp;  __Jiayi Eris Zhang__, Nicole Sultanum, Anastasia Bezerianos, Fanny Chevalier<br/>
-&nbsp;  *ACM CHI 2020*<br/>
-&nbsp;  [Paper](https://eriszhang.github.io/files/dataquilt-paper.pdf) | [Project Page](https://dataquilt.github.io/) | [Talk](https://www.youtube.com/watch?v=0K6ZiQ78otA&t=4s) 
+&nbsp; __Multidimensional light field manipulation and applications based on optical metasurface__<br/>
+&nbsp; Wenbo Zang, Quan Yuan, Run Chen, Lin Li, __Tianyue Li__ <br/>
+&nbsp;  *The 1st Optics Frontier Symposium 2021*<br/>
+&nbsp;  Paper (low res)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11850/1185004/Multidimensional-light-field-manipulation-and-applications-based-on-optical-metasurface/10.1117/12.2598880.full?SSO=1)<br/>
 
 <br/>
+
+&nbsp; __Chromatic Dispersion Manipulation Based on Metalenses__<br/>
+&nbsp; Xiujuan Zou, Gaige Zheng, Quan Yuan, Wenbo Zang, Run Chen, __Tianyue Li__  <br/>
+&nbsp;  *Advanced Materials 2020*<br/>
+&nbsp;  Paper (low res)](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201904935)<br/>
+
+<br/>
+
+&nbsp; __Imaging based on metalenses__<br/>
+&nbsp; Xiujuan Zou, Gaige Zheng, Quan Yuan, Wenbo Zang, Run Chen, __Tianyue Li__  <br/>
+&nbsp;  *PhotoniX 2020*<br/>
+&nbsp;  Paper (low res)](https://photonix.springeropen.com/articles/10.1186/s43074-020-00007-9)<br/>
+
+<br/>
+
+&nbsp; __Chromatic dispersion manipulation based on metasurface devices in the mid-infrared region__<br/>
+&nbsp; Lin Li, Quan Yuan, Run Chen, Xiujuan Zou, Wenbo Zang, __Tianyue Li__  <br/>
+&nbsp;  *Chinese Optics Letters 2020*<br/>
+&nbsp;  Paper (low res)](https://www.osapublishing.org/col/abstract.cfm?uri=col-18-8-082401)<br/>
+
+<br/>
+
+&nbsp; __A Measuring Method for Eccentricity of Railway Bridge Line and Thickness of Ballast__<br/>
+&nbsp;__Tianyue Li__, Zimo Cheng, Ziqian Chen <br/>
+&nbsp;  *Railway Engineering 2018*<br/>
+&nbsp;  Paper (low res)](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=TDJZ201802033&v=TvLmcTPkPTg%25mmd2FMZcLjVmTylE2aYMijoVrKkpsbAzBMTdErjH%25mmd2BQAMvYVT%25mmd2FM2EvDwcM)<br/>
+
+<br/>
+
+&nbsp; __A Measuring Method for Eccentricity of Railway Bridge Line and Thickness of Ballast__<br/>
+&nbsp;__Tianyue Li__, Xuemin Zhang and Xing Song <br/>
+&nbsp;  *Novel Optoelectronic Detection Technology and Application 2018*<br/>
+&nbsp;  Paper (low res)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10697/106973L/Automatic-precise-alignment-of-Sagnac-interferometer/10.1117/12.2315428.short)<br/>
+
+<br/>
+<!-- <img width="175" align="left" src="https://ErisZhang.github.io/images/comp-dynamics-representative-image.jpg"/> -->
+
+
 
 <!-- Industry Experience
 ======
@@ -156,4 +180,5 @@ employed as a structural prototyping tool that facilitates model design and fabr
 
 Contact
 ======
-jiayieris.zhang (at) mail.utoronto.ca
+E-mail: leos4a@163.com
+QQ: 2512300999
