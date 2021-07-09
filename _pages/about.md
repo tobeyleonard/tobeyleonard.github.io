@@ -135,7 +135,7 @@ Publications
 
 <br/> -->
 
-Selected Projects
+<!-- Selected Projects
 ======
 <div>
 <div style="font-size:12pt"><strong>Fast Support Reduction</strong></div>
@@ -149,7 +149,7 @@ We achieve this by optimizing a set of performance objectives and searching glob
 the subspace spanned by the joint handles. Artifacts e.g. self-intersection can be effectively avoided.
 Our method is implemented via OpenGL shaders and has potential to be
 employed as a structural prototyping tool that facilitates model design and fabrication. </div>
-<img width="100%" src="../images/bb-bunny.jpg"/>
+<img width="100%" src="../images/bb-bunny.jpg"/> -->
 
 <br/>
 
