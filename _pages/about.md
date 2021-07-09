@@ -69,7 +69,7 @@ Publications
 <!-- <img width="175" align="left" src="../images/multigrid.jpg"/> -->
 
 &nbsp; __Integrating the optical tweezers and spanner onto an individual single-layer metasurface__<br/>
-&nbsp; __Tianyue Li__, Xiaohao Xu__, Boyan Fu <br/>
+&nbsp; __Tianyue Li__, Xiaohao Xu__, Boyan Fu et al. <br/>
 &nbsp;  *Photonic Research2021*<br/>
 &nbsp; [Paper](https://www.osapublishing.org/prj/fulltext.cfm?uri=prj-9-6-1062&id=451401)<br/>
 
@@ -78,21 +78,21 @@ Publications
 <!-- <img width="175" align="left" src="../images/rotation-teaser.jpg"/> -->
 
 &nbsp; __Generation and Conversion Dynamics of Dual Bessel Beams with a Photonic Spin-Dependent Dielectric Metasurface__<br/>
-&nbsp; __Tianyue Li__, Xingyi Li, Shaohui Yan <br/>
+&nbsp; __Tianyue Li__, Xingyi Li, Shaohui Yan et al. <br/>
 &nbsp;  *Physical Review Applied 2021*<br/>
 &nbsp;  [Paper](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.15.014059)<br/>
 
 
 
 &nbsp; __Multidimensional light field manipulation and applications based on optical metasurface__<br/>
-&nbsp; Wenbo Zang, Quan Yuan, Run Chen, Lin Li, __Tianyue Li__ <br/>
+&nbsp; Wenbo Zang, Quan Yuan, Run Chen, Lin Li, __Tianyue Li__  et al.<br/>
 &nbsp;  *The 1st Optics Frontier Symposium 2021*<br/>
 &nbsp;  [Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11850/1185004/Multidimensional-light-field-manipulation-and-applications-based-on-optical-metasurface/10.1117/12.2598880.full?SSO=1)<br/>
 
 
 
 &nbsp; __Chromatic Dispersion Manipulation Based on Metalenses__<br/>
-&nbsp; Xiujuan Zou, Gaige Zheng, Quan Yuan, Wenbo Zang, Run Chen, __Tianyue Li__  <br/>
+&nbsp; Xiujuan Zou, Gaige Zheng, Quan Yuan, Wenbo Zang, Run Chen, __Tianyue Li__  et al. <br/>
 &nbsp;  *Advanced Materials 2020*<br/>
 &nbsp;  [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201904935)<br/>
 
