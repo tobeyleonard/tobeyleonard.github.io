@@ -82,8 +82,9 @@ analytics:
 author:
   name             : "Tianyue Li"
   avatar           : "tianyue.png"
-  bio              : "Undergrad @UofT <br/>
-                      Ph. D candidate @Nanjing Univ"
+  bio              :
+#   "Undergrad @UofT <br/>
+                      "Ph. D candidate @Nanjing Univ"
   location         : "Nanjing, ON"
   employer         :
   pubmed           :
