@@ -175,7 +175,7 @@ Our method is implemented via OpenGL shaders and has potential to be
 employed as a structural prototyping tool that facilitates model design and fabrication. </div>
 <img width="100%" src="../images/bb-bunny.jpg"/> -->
 
-<br/>
+
 
 Contact
 ======
