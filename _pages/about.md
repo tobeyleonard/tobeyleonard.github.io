@@ -59,6 +59,8 @@ Research area
 <p align = "justify">Among all the optical elements, the metalenses possess most basic and important application, compared with the traditional lenses, it has significant advantages in integration and miniaturization. However, the resonant dispersion of each nanostructure, the inherent dispersion of planar devices and optical materials lead to large chromatic aberrations in the metalenses, that severely reduces the quality of their focusing and imaging. Therefore, how to effectively suppress or manipulate the chromatic aberration of metalenses has attracted worldwide attention in recent years, and various excellent achievements have promoted the development of this field. In this project, the Differencial-phase equation has been employed to design the achromatic or super chromatic metalenses, which provides the possibility for the development of ultrathin full-color camera or spectral imaging devices.</p>
   </div>
 
+<br/>
+
 
 Publications
 ======
