@@ -82,28 +82,28 @@ Publications
 &nbsp;  *Physical Review Applied 2021*<br/>
 &nbsp;  [Paper (low res)](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.15.014059)<br/>
 
-<br/>
+
 
 &nbsp; __Multidimensional light field manipulation and applications based on optical metasurface__<br/>
 &nbsp; Wenbo Zang, Quan Yuan, Run Chen, Lin Li, __Tianyue Li__ <br/>
 &nbsp;  *The 1st Optics Frontier Symposium 2021*<br/>
 &nbsp;  [Paper (low res)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11850/1185004/Multidimensional-light-field-manipulation-and-applications-based-on-optical-metasurface/10.1117/12.2598880.full?SSO=1)<br/>
 
-<br/>
+
 
 &nbsp; __Chromatic Dispersion Manipulation Based on Metalenses__<br/>
 &nbsp; Xiujuan Zou, Gaige Zheng, Quan Yuan, Wenbo Zang, Run Chen, __Tianyue Li__  <br/>
 &nbsp;  *Advanced Materials 2020*<br/>
 &nbsp;  [Paper (low res)](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201904935)<br/>
 
-<br/>
+
 
 &nbsp; __Imaging based on metalenses__<br/>
 &nbsp; Xiujuan Zou, Gaige Zheng, Quan Yuan, Wenbo Zang, Run Chen, __Tianyue Li__  <br/>
 &nbsp;  *PhotoniX 2020*<br/>
 &nbsp;  [Paper (low res)](https://photonix.springeropen.com/articles/10.1186/s43074-020-00007-9)<br/>
 
-<br/>
+
 
 &nbsp; __Chromatic dispersion manipulation based on metasurface devices in the mid-infrared region__<br/>
 &nbsp; Lin Li, Quan Yuan, Run Chen, Xiujuan Zou, Wenbo Zang, __Tianyue Li__  <br/>
@@ -117,7 +117,6 @@ Publications
 &nbsp;  *Railway Engineering 2018*<br/>
 &nbsp;  [Paper (low res)](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=TDJZ201802033&v=TvLmcTPkPTg%25mmd2FMZcLjVmTylE2aYMijoVrKkpsbAzBMTdErjH%25mmd2BQAMvYVT%25mmd2FM2EvDwcM)<br/>
 
-<br/>
 
 &nbsp; __A Measuring Method for Eccentricity of Railway Bridge Line and Thickness of Ballast__<br/>
 &nbsp;__Tianyue Li__, Xuemin Zhang and Xing Song <br/>
