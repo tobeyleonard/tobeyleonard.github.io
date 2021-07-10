@@ -94,28 +94,28 @@ Publications
 &nbsp; __Chromatic Dispersion Manipulation Based on Metalenses__<br/>
 &nbsp; Wenbo Zang, Quan Yuan, Run Chen, Lin Li, __Tianyue Li__, Xiujuan Zou, Gaige Zheng, Zhuo Chen, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  *Advanced Materials* 32 (27), 1904935, 2020 <br/>
-&nbsp;  [Journal-artice](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201904935)<br/>
+&nbsp;  [Journal-Artice](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201904935)<br/>
 
 
 
 &nbsp; __Imaging based on metalenses__<br/>
 &nbsp; Xiujuan Zou, Gaige Zheng, Quan Yuan, Wenbo Zang, Run Chen, __Tianyue Li__, Lin Li, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  *PhotoniX* 1 (1), 1-24, 2020 <br/>
-&nbsp;  [Journal-artice](https://photonix.springeropen.com/articles/10.1186/s43074-020-00007-9)<br/>
+&nbsp;  [Journal-Artice](https://photonix.springeropen.com/articles/10.1186/s43074-020-00007-9)<br/>
 
 
 
 &nbsp; __Chromatic dispersion manipulation based on metasurface devices in the mid-infrared region__<br/>
 &nbsp; Lin Li, Quan Yuan, Run Chen, Xiujuan Zou, Wenbo Zang, __Tianyue Li__, Gaige Zheng, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  *Chinese Optics Letters* 18 (8), 082401, 2020 <br/>
-&nbsp;  [Journal-artice](https://www.osapublishing.org/col/abstract.cfm?uri=col-18-8-082401)<br/>
+&nbsp;  [Journal-Artice](https://www.osapublishing.org/col/abstract.cfm?uri=col-18-8-082401)<br/>
 
 <br/>
 
 &nbsp; __A Measuring Method for Eccentricity of Railway Bridge Line and Thickness of Ballast__<br/>
 &nbsp;__Tianyue Li__, Zimo Cheng, Ziqian Chen Yuanjun Li. <br/>
 &nbsp;  *Railway Engineering* 2018 (2), 134-137, 2018 <br/>
-&nbsp;  [Journal-artice](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=TDJZ201802033&v=TvLmcTPkPTg%25mmd2FMZcLjVmTylE2aYMijoVrKkpsbAzBMTdErjH%25mmd2BQAMvYVT%25mmd2FM2EvDwcM)<br/>
+&nbsp;  [Journal-Artice](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=TDJZ201802033&v=TvLmcTPkPTg%25mmd2FMZcLjVmTylE2aYMijoVrKkpsbAzBMTdErjH%25mmd2BQAMvYVT%25mmd2FM2EvDwcM)<br/>
 
 
 &nbsp; __A Measuring Method for Eccentricity of Railway Bridge Line and Thickness of Ballast__<br/>
