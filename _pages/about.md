@@ -70,8 +70,8 @@ Publications
 
 &nbsp; __Integrating the optical tweezers and spanner onto an individual single-layer metasurface__<br/>
 &nbsp; __Tianyue Li__, Xiaohao Xu, Boyan Fu, Shuming Wang, Baojun Li, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp;  *Photonics Research* 9 (6), 1062-1068, 2021 <br/>
-&nbsp; [Journal-Artice](https://www.osapublishing.org/prj/fulltext.cfm?uri=prj-9-6-1062&id=451401)<br/>
+&nbsp;  *Photonics Research* 9 (6), 1062-1068, 2021 
+&nbsp; [*Journal-Artice*](https://www.osapublishing.org/prj/fulltext.cfm?uri=prj-9-6-1062&id=451401)<br/>
 
 
 
@@ -79,8 +79,8 @@ Publications
 
 &nbsp; __Generation and conversion dynamics of dual Bessel beams with a photonic spin-dependent dielectric metasurface__<br/>
 &nbsp; __Tianyue Li__, Xingyi Li, Shaohui Yan, Xiaohao Xu, Shuming Wang, Baoli Yao, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp;  *Physical Review Applied* 15 (1), 014059, 2021 <br/>
-&nbsp;  [Journal-Artice](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.15.014059)<br/>
+&nbsp;  *Physical Review Applied* 15 (1), 014059, 2021 
+&nbsp;  [*Journal-Artice*](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.15.014059)<br/>
 
 
 
