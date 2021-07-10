@@ -28,7 +28,7 @@ Research area
 ======
 
 <div>
-<div style="font-size:12pt"><strong>Metasurface-based Optical manipulation</strong></div>
+<div style="font-size:12pt"><strong>Metasurface-Based Optical Manipulation</strong></div>
   <hr/>
 </div>
 <div style="font-size:10pt ;  font-style:italic">
@@ -40,7 +40,7 @@ Research area
 <br/>
 
 <div>
-<div style="font-size:12pt"><strong>Multidimensional Light-field Manipulation with Metasurfaces</strong></div>
+<div style="font-size:12pt"><strong>Multidimensional Light-Field Manipulation with Metasurfaces</strong></div>
   <hr/>
 </div>
 <div style="font-size:10pt ; font-style:italic">
@@ -77,7 +77,7 @@ Publications
 
 <!-- <img width="175" align="left" src="../images/rotation-teaser.jpg"/> -->
 
-&nbsp; __Generation and Conversion Dynamics of Dual Bessel Beams with a Photonic Spin-Dependent Dielectric Metasurface__<br/>
+&nbsp; __Generation and conversion dynamics of dual Bessel beams with a photonic spin-dependent dielectric metasurface__<br/>
 &nbsp; __Tianyue Li__, Xingyi Li, Shaohui Yan, Xiaohao Xu, Shuming Wang, Baoli Yao, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  *Physical Review Applied* 15 (1), 014059, 2021 <br/>
 &nbsp;  [Paper](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.15.014059)<br/>
