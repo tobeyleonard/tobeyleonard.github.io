@@ -179,7 +179,7 @@ employed as a structural prototyping tool that facilitates model design and fabr
 
 Contact
 ======
-Adress: Room A-509, TangZhongying Building, School of Physics, Nanjing University, Nanjing, 210093, China.
+Address: Room A-509, TangZhongying Building, School of Physics, Nanjing University, Nanjing, 210093, China.
 <br/>
 E-mail: leos4a@163.com
 
