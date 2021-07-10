@@ -112,7 +112,7 @@ Publications
 
 
 &nbsp; __A Measuring Method for Eccentricity of Railway Bridge Line and Thickness of Ballast__<br/>
-&nbsp;__Tianyue Li__, Zimo Cheng, Ziqian Chen Yuanjun Li. <br/>
+&nbsp;__Tianyue Li__, Zimo Cheng, Ziqian Chen, Yuanjun Li. <br/>
 &nbsp;  *Railway Engineering* 2018 (2), 134-137, 2018 
 &nbsp;  [*Journal-Artice*](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=TDJZ201802033&v=TvLmcTPkPTg%25mmd2FMZcLjVmTylE2aYMijoVrKkpsbAzBMTdErjH%25mmd2BQAMvYVT%25mmd2FM2EvDwcM)<br/>
 
