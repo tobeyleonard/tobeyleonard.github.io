@@ -110,7 +110,6 @@ Publications
 &nbsp;  *Chinese Optics Letters* 18 (8), 082401, 2020 
 &nbsp;  [*Journal-Artice*](https://www.osapublishing.org/col/abstract.cfm?uri=col-18-8-082401)<br/>
 
-<br/>
 
 &nbsp; __A Measuring Method for Eccentricity of Railway Bridge Line and Thickness of Ballast__<br/>
 &nbsp;__Tianyue Li__, Zimo Cheng, Ziqian Chen Yuanjun Li. <br/>
