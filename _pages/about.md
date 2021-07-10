@@ -10,10 +10,10 @@ redirect_from:
 
 About me
 ======
-Hiya, I'm a doctoral student at the Nanjing University, China, currently majoring in Optics and Photonics in [Dielectric Superlattice Lab.](http://slab.nju.edu.cn/)  guided by  [Prof. Zhu Shining](http://slab.nju.edu.cn/teamdetail.aspx?id=16), and advised by  [Prof. Shuming Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html)
+Hiya, I'm a doctoral student at the Nanjing University, China, currently majoring in Optics and Photonics in [Dielectric Superlattice Lab.](http://slab.nju.edu.cn/)  led by  [Prof. Zhu Shining](http://slab.nju.edu.cn/teamdetail.aspx?id=16) and advised by  [Prof. Shuming Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html).
 
 
-<p align = "justify">My research interests mainly focus on the field of Nanophotonics, specifically the physical mechanism of metasurface, multifunctional meta-device design, Metalenses design for imaging and topological photonics in non-Hermite system. In parallel, I also study on optical manipulation based on metasurface with Prof. Shaohui Yan (XIOPM) and Dr. Xiaohao Xu (Jinan Univ. Guangzhou), and expected to discover something new in classic and quantum physics..</p>
+<p align = "justify">My research interests mainly focus on the field of Nanophotonics, specifically the physical mechanism of metasurface, multifunctional meta-device design, Metalenses design for imaging and topological photonics in non-Hermite system. In parallel, I also study on optical manipulation based on metasurface with Prof. Shaohui Yan (XIOPM) and Dr. Xiaohao Xu (Jinan Univ. Guangzhou), and expected to discover something new in classic and quantum physics.</p>
 
 <p align = "justify">Also, I've previously participated in different research areas with Prof. Houjun Lü (Guangxi Univ.) on High Energy Astrophysics and with Prof. Ziqian Chen (Guangxi. Univ.) on optical gauge as well as precise alignment of interferometers with Prof. Xuemin Zhang (Wuhan Univ.).</p>
 
@@ -69,8 +69,8 @@ Publications
 <!-- <img width="175" align="left" src="../images/multigrid.jpg"/> -->
 
 &nbsp; __Integrating the optical tweezers and spanner onto an individual single-layer metasurface__<br/>
-&nbsp; __Tianyue Li__, Xiaohao Xu, Boyan Fu et al. <br/>
-&nbsp;  *Photonic Research2021*<br/>
+&nbsp; __Tianyue Li__, Xiaohao Xu, Boyan Fu, Shuming Wang, Baojun Li, Zhenlin Wang, Shining Zhu <br/>
+&nbsp;  *Photonic Research 2021*<br/>
 &nbsp; [Paper](https://www.osapublishing.org/prj/fulltext.cfm?uri=prj-9-6-1062&id=451401)<br/>
 
 
@@ -78,42 +78,42 @@ Publications
 <!-- <img width="175" align="left" src="../images/rotation-teaser.jpg"/> -->
 
 &nbsp; __Generation and Conversion Dynamics of Dual Bessel Beams with a Photonic Spin-Dependent Dielectric Metasurface__<br/>
-&nbsp; __Tianyue Li__, Xingyi Li, Shaohui Yan et al. <br/>
+&nbsp; __Tianyue Li__, Xingyi Li, Shaohui Yan, Xiaohao Xu, Shuming Wang, Baoli Yao, Zhenlin Wang, Shining Zhu <br/>
 &nbsp;  *Physical Review Applied 2021*<br/>
 &nbsp;  [Paper](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.15.014059)<br/>
 
 
 
 &nbsp; __Multidimensional light field manipulation and applications based on optical metasurface__<br/>
-&nbsp; __Tianyue Li__, Boyan Fu, Jianzheng Ren  et al.<br/>
+&nbsp; __Tianyue Li__, Boyan Fu, Jianzheng Ren, Shuming Wang, Zhenlin Wang, Shining Zhu <br/>
 &nbsp;  *The 1st Optics Frontier Symposium 2021*<br/>
 &nbsp;  [Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11850/1185004/Multidimensional-light-field-manipulation-and-applications-based-on-optical-metasurface/10.1117/12.2598880.full?SSO=1)<br/>
 
 
 
 &nbsp; __Chromatic Dispersion Manipulation Based on Metalenses__<br/>
-&nbsp; Wenbo Zang, Quan Yuan, Run Chen, Lin Li, __Tianyue Li__ et al. <br/>
+&nbsp; Wenbo Zang, Quan Yuan, Run Chen, Lin Li, __Tianyue Li__, Xiujuan Zou, Gaige Zheng, Zhuo Chen, Shuming Wang, Zhenlin Wang, Shining Zhu <br/>
 &nbsp;  *Advanced Materials 2020*<br/>
 &nbsp;  [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201904935)<br/>
 
 
 
 &nbsp; __Imaging based on metalenses__<br/>
-&nbsp; Xiujuan Zou, Gaige Zheng, Quan Yuan, Wenbo Zang, Run Chen, __Tianyue Li__  <br/>
+&nbsp; Xiujuan Zou, Gaige Zheng, Quan Yuan, Wenbo Zang, Run Chen, __Tianyue Li__, Lin Li, Shuming Wang, Zhenlin Wang, Shining Zhu <br/>
 &nbsp;  *PhotoniX 2020*<br/>
 &nbsp;  [Paper](https://photonix.springeropen.com/articles/10.1186/s43074-020-00007-9)<br/>
 
 
 
 &nbsp; __Chromatic dispersion manipulation based on metasurface devices in the mid-infrared region__<br/>
-&nbsp; Lin Li, Quan Yuan, Run Chen, Xiujuan Zou, Wenbo Zang, __Tianyue Li__  <br/>
+&nbsp; Lin Li, Quan Yuan, Run Chen, Xiujuan Zou, Wenbo Zang, __Tianyue Li__, Gaige Zheng, Shuming Wang, Zhenlin Wang, Shining Zhu <br/>
 &nbsp;  *Chinese Optics Letters 2020*<br/>
 &nbsp;  [Paper](https://www.osapublishing.org/col/abstract.cfm?uri=col-18-8-082401)<br/>
 
 <br/>
 
 &nbsp; __A Measuring Method for Eccentricity of Railway Bridge Line and Thickness of Ballast__<br/>
-&nbsp;__Tianyue Li__, Zimo Cheng, Ziqian Chen <br/>
+&nbsp;__Tianyue Li__, Zimo Cheng, Ziqian Chen and Yuanjun Li <br/>
 &nbsp;  *Railway Engineering 2018*<br/>
 &nbsp;  [Paper](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=TDJZ201802033&v=TvLmcTPkPTg%25mmd2FMZcLjVmTylE2aYMijoVrKkpsbAzBMTdErjH%25mmd2BQAMvYVT%25mmd2FM2EvDwcM)<br/>
 
