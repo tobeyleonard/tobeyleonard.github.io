@@ -117,7 +117,7 @@ Publications
 &nbsp;  [*Journal-Artice*](../files/railway.pdf)<br/>
 
 
-- &nbsp; __A Measuring Method for Eccentricity of Railway Bridge Line and Thickness of Ballast__<br/>
+- &nbsp; __Automatic precise alignment of Sagnac interferometer__<br/>
 &nbsp;__Tianyue Li__, Xuemin Zhang and Xing Song. 
 &nbsp;  *Novel Optoelectronic Detection Technology and Application* 10697, 106973L, 2018 
 &nbsp;  [*Conference-Paper*](../files/Automatic precise alignment of Sagnac interferome.pdf)<br/>
