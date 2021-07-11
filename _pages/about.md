@@ -72,7 +72,7 @@ Publications
 &nbsp; __Tianyue Li__, Xiaohao Xu, Boyan Fu, Shuming Wang, Baojun Li, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  *Photonics Research* 9 (6), 1062-1068, 2021 
 <!-- &nbsp; [*Journal-Artice*](https://www.osapublishing.org/prj/fulltext.cfm?uri=prj-9-6-1062&id=451401)<br/> -->
-&nbsp; [*Journal-Artice*](../files/surface-multigrid-high.pdf)<br/>
+&nbsp; [*Journal-Artice*](../files/PR. Integrating the optical tweezers and spanner onto an individual single-layer metasurface.pdf)<br/>
 
 
 <!-- <img width="175" align="left" src="../images/rotation-teaser.jpg"/> -->
@@ -80,41 +80,41 @@ Publications
 &nbsp; __Generation and conversion dynamics of dual Bessel beams with a photonic spin-dependent dielectric metasurface__<br/>
 &nbsp; __Tianyue Li__, Xingyi Li, Shaohui Yan, Xiaohao Xu, Shuming Wang, Baoli Yao, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  *Physical Review Applied* 15 (1), 014059, 2021 
-&nbsp;  [*Journal-Artice*](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.15.014059)<br/>
+&nbsp;  [*Journal-Artice*](../files/PhysRevApplied.Generation and Conversion Dynamics of Dual Bessel Beams with a Photonic Spin-Dependent Dielectric Metasurface.pdf)<br/>
 
 
 
 &nbsp; __Multidimensional light field manipulation and applications based on optical metasurface__<br/>
 &nbsp; __Tianyue Li__, Boyan Fu, Jianzheng Ren, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  *First Optics Frontier Conference* 11850, 1185004, 2021 
-&nbsp;  [*Conference-Paper*](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11850/1185004/Multidimensional-light-field-manipulation-and-applications-based-on-optical-metasurface/10.1117/12.2598880.full?SSO=1)<br/>
+&nbsp;  [*Conference-Paper*](../files/SPIE Conference.Multidimensional light field manipulation and applications based on optical metasurface.pdf)<br/>
 
 
 
 &nbsp; __Chromatic Dispersion Manipulation Based on Metalenses__<br/>
 &nbsp; Wenbo Zang, Quan Yuan, Run Chen, Lin Li, __Tianyue Li__, Xiujuan Zou, Gaige Zheng, Zhuo Chen, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  *Advanced Materials* 32 (27), 1904935, 2020 
-&nbsp;  [*Journal-Artice*](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201904935)<br/>
+&nbsp;  [*Journal-Artice*](../files/AM.Chromatic Dispersion Manipulation Based on Metalenses.pdf)<br/>
 
 
 
 &nbsp; __Imaging based on metalenses__<br/>
 &nbsp; Xiujuan Zou, Gaige Zheng, Quan Yuan, Wenbo Zang, Run Chen, __Tianyue Li__, Lin Li, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  *PhotoniX* 1 (1), 1-24, 2020 
-&nbsp;  [*Journal-Artice*](https://photonix.springeropen.com/articles/10.1186/s43074-020-00007-9)<br/>
+&nbsp;  [*Journal-Artice*](../files/Photonix. Imaging based on metalenses.pdf)<br/>
 
 
 
 &nbsp; __Chromatic dispersion manipulation based on metasurface devices in the mid-infrared region__<br/>
 &nbsp; Lin Li, Quan Yuan, Run Chen, Xiujuan Zou, Wenbo Zang, __Tianyue Li__, Gaige Zheng, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  *Chinese Optics Letters* 18 (8), 082401, 2020 
-&nbsp;  [*Journal-Artice*](https://www.osapublishing.org/col/abstract.cfm?uri=col-18-8-082401)<br/>
+&nbsp;  [*Journal-Artice*](../files/COL.Chromatic dispersion manipulation based on metasurface devices in the mid-infrared region.pdf)<br/>
 
 
 &nbsp; __A Measuring Method for Eccentricity of Railway Bridge Line and Thickness of Ballast__<br/>
 &nbsp;__Tianyue Li__, Zimo Cheng, Ziqian Chen, Yuanjun Li. <br/>
 &nbsp;  *Railway Engineering* 2018 (2), 134-137, 2018 
-&nbsp;  [*Journal-Artice*](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=TDJZ201802033&v=TvLmcTPkPTg%25mmd2FMZcLjVmTylE2aYMijoVrKkpsbAzBMTdErjH%25mmd2BQAMvYVT%25mmd2FM2EvDwcM)<br/>
+&nbsp;  [*Journal-Artice*](../files/一种铁路桥梁线路偏心和道砟厚度的测量方法.pdf)<br/>
 
 
 &nbsp; __A Measuring Method for Eccentricity of Railway Bridge Line and Thickness of Ballast__<br/>
