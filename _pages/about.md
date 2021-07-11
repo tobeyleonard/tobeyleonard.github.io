@@ -77,50 +77,50 @@ Publications
 
 <!-- <img width="175" align="left" src="../images/rotation-teaser.jpg"/> -->
 
-&nbsp; __Generation and conversion dynamics of dual Bessel beams with a photonic spin-dependent dielectric metasurface__<br/>
+- &nbsp; __Generation and conversion dynamics of dual Bessel beams with a photonic spin-dependent dielectric metasurface__<br/>
 &nbsp; __Tianyue Li__, Xingyi Li, Shaohui Yan, Xiaohao Xu, Shuming Wang, Baoli Yao, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  *Physical Review Applied* 15 (1), 014059, 2021 
 &nbsp;  [*Journal-Artice*](../files/PhysRevApplied.Generation and Conversion Dynamics of Dual Bessel Beams with a Photonic Spin-Dependent Dielectric Metasurface.pdf)<br/>
 
 
 
-&nbsp; __Multidimensional light field manipulation and applications based on optical metasurface__<br/>
+- &nbsp; __Multidimensional light field manipulation and applications based on optical metasurface__<br/>
 &nbsp; __Tianyue Li__, Boyan Fu, Jianzheng Ren, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  *First Optics Frontier Conference* 11850, 1185004, 2021 
 &nbsp;  [*Conference-Paper*](../files/SPIE Conference.Multidimensional light field manipulation and applications based on optical metasurface.pdf)<br/>
 
 
 
-&nbsp; __Chromatic Dispersion Manipulation Based on Metalenses__<br/>
+- &nbsp; __Chromatic Dispersion Manipulation Based on Metalenses__<br/>
 &nbsp; Wenbo Zang, Quan Yuan, Run Chen, Lin Li, __Tianyue Li__, Xiujuan Zou, Gaige Zheng, Zhuo Chen, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  *Advanced Materials* 32 (27), 1904935, 2020 
 &nbsp;  [*Journal-Artice*](../files/AM.Chromatic Dispersion Manipulation Based on Metalenses.pdf)<br/>
 
 
 
-&nbsp; __Imaging based on metalenses__<br/>
+- &nbsp; __Imaging based on metalenses__<br/>
 &nbsp; Xiujuan Zou, Gaige Zheng, Quan Yuan, Wenbo Zang, Run Chen, __Tianyue Li__, Lin Li, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  *PhotoniX* 1 (1), 1-24, 2020 
 &nbsp;  [*Journal-Artice*](../files/Photonix. Imaging based on metalenses.pdf)<br/>
 
 
 
-&nbsp; __Chromatic dispersion manipulation based on metasurface devices in the mid-infrared region__<br/>
+- &nbsp; __Chromatic dispersion manipulation based on metasurface devices in the mid-infrared region__<br/>
 &nbsp; Lin Li, Quan Yuan, Run Chen, Xiujuan Zou, Wenbo Zang, __Tianyue Li__, Gaige Zheng, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  *Chinese Optics Letters* 18 (8), 082401, 2020 
 &nbsp;  [*Journal-Artice*](../files/COL.Chromatic dispersion manipulation based on metasurface devices in the mid-infrared region.pdf)<br/>
 
 
-&nbsp; __A Measuring Method for Eccentricity of Railway Bridge Line and Thickness of Ballast__<br/>
+- &nbsp; __A Measuring Method for Eccentricity of Railway Bridge Line and Thickness of Ballast__<br/>
 &nbsp;__Tianyue Li__, Zimo Cheng, Ziqian Chen, Yuanjun Li. <br/>
-&nbsp;  *Railway Engineering* 2018 (2), 134-137, 2018 
-&nbsp;  [*Journal-Artice*](../files/一种铁路桥梁线路偏心和道砟厚度的测量方法.pdf)<br/>
+&nbsp;  *Railway Engineering* 2018 (2), 134-137, 2018 (in Chinese) 
+&nbsp;  [*Journal-Artice*](../files/railway.pdf)<br/>
 
 
-&nbsp; __A Measuring Method for Eccentricity of Railway Bridge Line and Thickness of Ballast__<br/>
+- &nbsp; __A Measuring Method for Eccentricity of Railway Bridge Line and Thickness of Ballast__<br/>
 &nbsp;__Tianyue Li__, Xuemin Zhang and Xing Song. 
 &nbsp;  *Novel Optoelectronic Detection Technology and Application* 10697, 106973L, 2018 
-&nbsp;  [*Conference-Paper*](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10697/106973L/Automatic-precise-alignment-of-Sagnac-interferometer/10.1117/12.2315428.short)<br/>
+&nbsp;  [*Conference-Paper*](../files/Automatic precise alignment of Sagnac interferome.pdf)<br/>
 
 <br/>
 <!-- <img width="175" align="left" src="https://ErisZhang.github.io/images/comp-dynamics-representative-image.jpg"/> -->
