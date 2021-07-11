@@ -72,7 +72,7 @@ Publications
 &nbsp; __Tianyue Li__, Xiaohao Xu, Boyan Fu, Shuming Wang, Baojun Li, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  *Photonics Research* 9 (6), 1062-1068, 2021 
 <!-- &nbsp; [*Journal-Artice*](https://www.osapublishing.org/prj/fulltext.cfm?uri=prj-9-6-1062&id=451401)<br/> -->
-&nbsp; [*Journal-Artice*](https://github.com/tobeyleonard/tobeyleonard.github.io/blob/master/files/complementary-dynamics-paper.pdf)<br/>
+&nbsp; [*Journal-Artice*](../files/surface-multigrid-high.pdf)<br/>
 
 
 <!-- <img width="175" align="left" src="../images/rotation-teaser.jpg"/> -->
