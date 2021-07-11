@@ -17,7 +17,7 @@ Hiya, I'm a doctoral student at the Nanjing University, China, currently majorin
 
 <p align = "justify">Also, I've previously participated in different research areas with Prof. Houjun Lü (Guangxi Univ.) on High Energy Astrophysics and with Prof. Xuemin Zhang (Wuhan. Univ.) on optical gauge as well as precise alignment of interferometers.</p>
 
-<p align = "justify">I'm honored to be selected as an 'Outstanding Speaker' in 2nd National Academic Forum on Photonics Technology and Awarded Second Prize of Presentation Contest in The 1st 'Light & Future' National Graduate Academic Forum.</p>
+<p align = "justify">I'm honored to be selected as an 'Outstanding Speaker' in 2nd National Academic Forum on Photonics Technology and Awarded Second Prize of Presentation Contest in the 1st 'Light & Future' National Graduate Academic Forum.</p>
 
 <!-- __Update: I will be joining Stanford University as a Ph.D. student in Fall 2021!__ -->
 
@@ -178,7 +178,7 @@ employed as a structural prototyping tool that facilitates model design and fabr
 
 Contact
 ======
-Address: Room A-509, TangZhongying Building, School of Physics, Nanjing University.
+__Address__: Room A-509, TangZhongying Building, School of Physics, Nanjing University.
 <br/>
-E-mail: leos4a@163.com
+__E-mail__: leos4a@163.com
 
