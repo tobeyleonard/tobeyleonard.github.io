@@ -71,8 +71,8 @@ Publications
 &nbsp; __Integrating the optical tweezers and spanner onto an individual single-layer metasurface__<br/>
 &nbsp; __Tianyue Li__, Xiaohao Xu, Boyan Fu, Shuming Wang, Baojun Li, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  *Photonics Research* 9 (6), 1062-1068, 2021 
+<!-- &nbsp; [*Journal-Artice*](https://www.osapublishing.org/prj/fulltext.cfm?uri=prj-9-6-1062&id=451401)<br/> -->
 &nbsp; [*Journal-Artice*](https://www.osapublishing.org/prj/fulltext.cfm?uri=prj-9-6-1062&id=451401)<br/>
-
 
 
 <!-- <img width="175" align="left" src="../images/rotation-teaser.jpg"/> -->
