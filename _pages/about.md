@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-Hiya! I'm a doctoral student at Nanjing University, China, currently majoring in Optics and Photonics in [Dielectric Superlattice Lab.](http://slab.nju.edu.cn/)  led by Prof. [Zhu Shining](https://physics.nju.edu.cn/sz/jcrc/zgkxyys/20210111/i184703.html) and advised by Prof. [Shuming Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html).
+Hiya! I'm a doctoral student at Nanjing University, China, currently majoring in Optics and Photonics in [Dielectric Superlattice Lab.](http://slab.nju.edu.cn/)  led by Prof. [Shining Zhu](https://physics.nju.edu.cn/sz/jcrc/zgkxyys/20210111/i184703.html) and advised by Prof. [Shuming Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html).
 
 
 <p align = "justify">My research interests mainly focus on the field of Nanophotonics, specifically the physical mechanism of metasurface, multifunctional meta-device design, Metalenses design for imaging. In parallel, I work on optical manipulation based on metasurface with Dr. Xiaohao Xu (Jinan Univ., Guangzhou) and Prof. Shaohui Yan (XIOPM, CAS), and expected to study something new in classic and quantum physics.</p>
