@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-Hiya, I'm a doctoral student at Nanjing University, China, currently majoring in Optics and Photonics in [Dielectric Superlattice Lab.](http://slab.nju.edu.cn/)  led by  [Prof. Zhu Shining](https://physics.nju.edu.cn/sz/jcrc/zgkxyys/20210111/i184703.html) and advised by  [Prof. Shuming Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html).
+Hiya! I'm a doctoral student at Nanjing University, China, currently majoring in Optics and Photonics in [Dielectric Superlattice Lab.](http://slab.nju.edu.cn/)  led by Prof. [Zhu Shining](https://physics.nju.edu.cn/sz/jcrc/zgkxyys/20210111/i184703.html) and advised by Prof. [Shuming Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html).
 
 
 <p align = "justify">My research interests mainly focus on the field of Nanophotonics, specifically the physical mechanism of metasurface, multifunctional meta-device design, Metalenses design for imaging. In parallel, I work on optical manipulation based on metasurface with Dr. Xiaohao Xu (Jinan Univ., Guangzhou) and Prof. Shaohui Yan (XIOPM, CAS), and expected to study something new in classic and quantum physics.</p>
@@ -19,7 +19,6 @@ Hiya, I'm a doctoral student at Nanjing University, China, currently majoring in
 
 <p align = "justify">I'm honored to be selected as an 'Outstanding Speaker' in 2nd National Academic Forum on Photonics Technology and Awarded Second Prize of Presentation Contest in the 1st 'Light & Future' National Graduate Academic Forum.</p>
 
-<!-- __Update: I will be joining Stanford University as a Ph.D. student in Fall 2021!__ -->
 
 <br/>
 
@@ -67,15 +66,19 @@ Publications
 ======
 
 <!-- <img width="175" align="left" src="../images/multigrid.jpg"/> -->
+- &nbsp; __Wavelength-controlled multifunctional transmissive metasurface__<br/>
+&nbsp; Jianzheng Ren, __Tianyue Li__, Boyan Fu, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
+<!-- &nbsp;  *Photonics Research* 9 (6), 1062-1068, 2021 >
+&nbsp; [*Journal-Artice*](../files/PR. Integrating the optical tweezers and spanner onto an individual single-layer metasurface.pdf)<br/>
+ -->
+&nbsp; *Forthcoming*, 2021 <br/>
 
 - &nbsp; __Integrating the optical tweezers and spanner onto an individual single-layer metasurface__<br/>
 &nbsp; __Tianyue Li__, Xiaohao Xu, Boyan Fu, Shuming Wang, Baojun Li, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  *Photonics Research* 9 (6), 1062-1068, 2021 
-<!-- &nbsp; [*Journal-Artice*](https://www.osapublishing.org/prj/fulltext.cfm?uri=prj-9-6-1062&id=451401)<br/> -->
 &nbsp; [*Journal-Artice*](../files/PR. Integrating the optical tweezers and spanner onto an individual single-layer metasurface.pdf)<br/>
 
 
-<!-- <img width="175" align="left" src="../images/rotation-teaser.jpg"/> -->
 
 - &nbsp; __Generation and conversion dynamics of dual Bessel beams with a photonic spin-dependent dielectric metasurface__<br/>
 &nbsp; __Tianyue Li__, Xingyi Li, Shaohui Yan, Xiaohao Xu, Shuming Wang, Baoli Yao, Zhenlin Wang, Shining Zhu. <br/>
@@ -178,6 +181,6 @@ employed as a structural prototyping tool that facilitates model design and fabr
 
 Contact
 ======
-__Address__: Room A-509, TangZhongying Building, School of Physics, Nanjing University.
+__Address:__ Room A-509, TangZhongying Building, School of Physics, Nanjing University.
 <br/>
 
