@@ -15,7 +15,7 @@ Hiya, I'm a doctoral student at Nanjing University, China, currently majoring in
 
 <p align = "justify">My research interests mainly focus on the field of Nanophotonics, specifically the physical mechanism of metasurface, multifunctional meta-device design, Metalenses design for imaging. In parallel, I work on optical manipulation based on metasurface with Dr. Xiaohao Xu (Jinan Univ., Guangzhou) and Prof. Shaohui Yan (XIOPM, CAS), and expected to study something new in classic and quantum physics.</p>
 
-<p align = "justify">Also, I've participated in different research areas with Prof. Houjun Lü (Guangxi Univ.) and Mr. Zhang Zhao (Nanjing Univ.) on High Energy Astrophysics & Astrophotonics and with Prof. Xuemin Zhang (Wuhan. Univ.) on optical gauge as well as precise alignment of interferometers.</p>
+<p align = "justify">Also, I've previously participated in different research areas with Prof. Houjun Lü (Guangxi Univ.) and on High Energy Astrophysics and with Prof. Xuemin Zhang (Wuhan. Univ.) on optical gauge as well as precise alignment of interferometers.</p>
 
 <p align = "justify">I'm honored to be selected as an 'Outstanding Speaker' in 2nd National Academic Forum on Photonics Technology and Awarded Second Prize of Presentation Contest in the 1st 'Light & Future' National Graduate Academic Forum.</p>
 
