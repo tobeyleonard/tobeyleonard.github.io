@@ -181,6 +181,8 @@ employed as a structural prototyping tool that facilitates model design and fabr
 
 Contact
 ======
+__E-mail:__ leos4a@163.com
+<br/>
 __Address:__ Room A-509, TangZhongying Building, School of Physics, Nanjing University.
 <br/>
 
