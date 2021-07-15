@@ -80,17 +80,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tianyue Li <br/> (Tobey Leonard)"
+  name             : "Tianyue Li <br/> "
   avatar           : "touxiang.jpg"
   bio              :
 #   "Undergrad @UofT <br/>
-                      "Ph. D candidate @NJU <br/> "
-  location         : "Nanjing, China"
+                      "Tobey Leonard <br/> Ph. D candidate @NJU "
+  location         : "Gulou, NJ"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=9E7qtmMAAAAJ&hl=en"
   email            : leos4a@163.com
-  researchgate     :
+  researchgate     : "https://www.researchgate.net/profile/Tianyue-Li-4"
   uri              :
   bitbucket        :
   codepen          :
