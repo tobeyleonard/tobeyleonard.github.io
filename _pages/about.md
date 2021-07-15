@@ -13,7 +13,7 @@ About me
 Hiya! I'm a doctoral student at Nanjing University, China, currently majoring in Optics and Photonics at [Dielectric Superlattice Lab.](http://slab.nju.edu.cn/)  led by Prof. [Shining Zhu](https://physics.nju.edu.cn/sz/jcrc/zgkxyys/20210111/i184703.html) and advised by Prof. [Shuming Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html).
 
 
-<p align = "justify">My research interests mainly focus on the field of Nanophotonics, specifically the physical mechanism of metasurface, multifunctional meta-device design, Metalenses design for imaging. In parallel, I work on optical manipulation based on metasurface with Dr. Xiaohao Xu (Jinan Univ., Guangzhou) and Prof. Shaohui Yan (XIOPM, CAS), and expected to study something new in classic and quantum physics.</p>
+<p align = "justify">My research interest mainly focus on Nanophotonics, specifically the physical mechanism of metasurface, multifunctional meta-device design and metalenses design for imaging. In parallel, I work on optical manipulation based on metasurface with Dr. Xiaohao Xu (Jinan Univ., Guangzhou) and Prof. Shaohui Yan (XIOPM, CAS), and expected to study something new in classic and quantum physics.</p>
 
 <p align = "justify">Also, I've previously participated in different research areas with Prof. Houjun Lü (Guangxi Univ.) on High Energy Astrophysics and with Prof. Xuemin Zhang (Wuhan. Univ.) on optical gauge as well as precise alignment of interferometers.</p>
 
@@ -73,58 +73,58 @@ Publications
  -->
 &nbsp; *Forthcoming*, 2022 <br/>
 
-- &nbsp; __Integrating the optical tweezers and spanner onto an individual single-layer metasurface__<br/>
+- &nbsp; [__Integrating the optical tweezers and spanner onto an individual single-layer metasurface__](../files/PR. Integrating the optical tweezers and spanner onto an individual single-layer metasurface.pdf)<br/>
 &nbsp; __Tianyue Li__, Xiaohao Xu, Boyan Fu, Shuming Wang, Baojun Li, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  *Photonics Research* 9 (6), 1062-1068, 2021 
-&nbsp; [*Journal-Artice*](../files/PR. Integrating the optical tweezers and spanner onto an individual single-layer metasurface.pdf)<br/>
+<!-- &nbsp; [*Journal-Artice*](../files/PR. Integrating the optical tweezers and spanner onto an individual single-layer metasurface.pdf)<br/> -->
 
 
 
-- &nbsp; __Generation and conversion dynamics of dual Bessel beams with a photonic spin-dependent dielectric metasurface__<br/>
+- &nbsp; [__Generation and conversion dynamics of dual Bessel beams with a photonic spin-dependent dielectric metasurface__](../files/PhysRevApplied.Generation and Conversion Dynamics of Dual Bessel Beams with a Photonic Spin-Dependent Dielectric Metasurface.pdf)<br/>
 &nbsp; __Tianyue Li__, Xingyi Li, Shaohui Yan, Xiaohao Xu, Shuming Wang, Baoli Yao, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  *Physical Review Applied* 15 (1), 014059, 2021 
-&nbsp;  [*Journal-Artice*](../files/PhysRevApplied.Generation and Conversion Dynamics of Dual Bessel Beams with a Photonic Spin-Dependent Dielectric Metasurface.pdf)<br/>
+<!-- &nbsp;  [*Journal-Artice*](../files/PhysRevApplied.Generation and Conversion Dynamics of Dual Bessel Beams with a Photonic Spin-Dependent Dielectric Metasurface.pdf)<br/>
+ -->
 
 
-
-- &nbsp; __Multidimensional light field manipulation and applications based on optical metasurface__<br/>
+- &nbsp; [__Multidimensional light field manipulation and applications based on optical metasurface__](../files/SPIE Conference.Multidimensional light field manipulation and applications based on optical metasurface.pdf)<br/>
 &nbsp; __Tianyue Li__, Boyan Fu, Jianzheng Ren, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  *First Optics Frontier Conference* 11850, 1185004, 2021 
-&nbsp;  [*Conference-Paper*](../files/SPIE Conference.Multidimensional light field manipulation and applications based on optical metasurface.pdf)<br/>
+<!-- &nbsp;  [*Conference-Paper*](../files/SPIE Conference.Multidimensional light field manipulation and applications based on optical metasurface.pdf)<br/>
+ -->
 
 
-
-- &nbsp; __Chromatic Dispersion Manipulation Based on Metalenses__<br/>
+- &nbsp; [__Chromatic Dispersion Manipulation Based on Metalenses__](../files/AM.Chromatic Dispersion Manipulation Based on Metalenses.pdf)<br/>
 &nbsp; Wenbo Zang, Quan Yuan, Run Chen, Lin Li, __Tianyue Li__, Xiujuan Zou, Gaige Zheng, Zhuo Chen, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  *Advanced Materials* 32 (27), 1904935, 2020 
-&nbsp;  [*Journal-Artice*](../files/AM.Chromatic Dispersion Manipulation Based on Metalenses.pdf)<br/>
+<!-- &nbsp;  [*Journal-Artice*](../files/AM.Chromatic Dispersion Manipulation Based on Metalenses.pdf)<br/>
+ -->
 
 
-
-- &nbsp; __Imaging based on metalenses__<br/>
+- &nbsp; [__Imaging based on metalenses__](../files/Photonix. Imaging based on metalenses.pdf)<br/>
 &nbsp; Xiujuan Zou, Gaige Zheng, Quan Yuan, Wenbo Zang, Run Chen, __Tianyue Li__, Lin Li, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  *PhotoniX* 1 (1), 1-24, 2020 
-&nbsp;  [*Journal-Artice*](../files/Photonix. Imaging based on metalenses.pdf)<br/>
+<!-- &nbsp;  [*Journal-Artice*](../files/Photonix. Imaging based on metalenses.pdf)<br/>
+ -->
 
 
-
-- &nbsp; __Chromatic dispersion manipulation based on metasurface devices in the mid-infrared region__<br/>
+- &nbsp; [__Chromatic dispersion manipulation based on metasurface devices in the mid-infrared region__](../files/COL.Chromatic dispersion manipulation based on metasurface devices in the mid-infrared region.pdf)<br/>
 &nbsp; Lin Li, Quan Yuan, Run Chen, Xiujuan Zou, Wenbo Zang, __Tianyue Li__, Gaige Zheng, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  *Chinese Optics Letters* 18 (8), 082401, 2020 
-&nbsp;  [*Journal-Artice*](../files/COL.Chromatic dispersion manipulation based on metasurface devices in the mid-infrared region.pdf)<br/>
+<!-- &nbsp;  [*Journal-Artice*](../files/COL.Chromatic dispersion manipulation based on metasurface devices in the mid-infrared region.pdf)<br/> -->
 
 
-- &nbsp; __A Measuring Method for Eccentricity of Railway Bridge Line and Thickness of Ballast__<br/>
+- &nbsp; [__A Measuring Method for Eccentricity of Railway Bridge Line and Thickness of Ballast__](../files/railway.pdf)<br/>
 &nbsp;__Tianyue Li__, Zimo Cheng, Ziqian Chen, Yuanjun Li. <br/>
 &nbsp;  *Railway Engineering* 2018 (2), 134-137, 2018 (in Chinese) 
-&nbsp;  [*Journal-Artice*](../files/railway.pdf)<br/>
+<!-- &nbsp;  [*Journal-Artice*](../files/railway.pdf)<br/> -->
 
 
-- &nbsp; __Automatic precise alignment of Sagnac interferometer__<br/>
+- &nbsp; [__Automatic precise alignment of Sagnac interferometer__](../files/Automatic precise alignment of Sagnac interferome.pdf)<br/>
 &nbsp;__Tianyue Li__, Xuemin Zhang and Xing Song. 
 &nbsp;  *Novel Optoelectronic Detection Technology and Application* 10697, 106973L, 2018 
-&nbsp;  [*Conference-Paper*](../files/Automatic precise alignment of Sagnac interferome.pdf)<br/>
-
+<!-- &nbsp;  [*Conference-Paper*](../files/Automatic precise alignment of Sagnac interferome.pdf)<br/>
+ -->
 <br/>
 <!-- <img width="175" align="left" src="https://ErisZhang.github.io/images/comp-dynamics-representative-image.jpg"/> -->
 
