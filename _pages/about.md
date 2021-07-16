@@ -114,7 +114,7 @@ Publications
 <!-- &nbsp;  [*Journal-Artice*](../files/COL.Chromatic dispersion manipulation based on metasurface devices in the mid-infrared region.pdf)<br/> -->
 
 
-- &nbsp; [__A Measuring Method for Eccentricity of Railway Bridge Line and Thickness of Ballast__](../files/railway.pdf)<br/>
+- &nbsp; [__A measuring method for eccentricity of railway bridge line and thickness of ballast__](../files/railway.pdf)<br/>
 &nbsp;__Tianyue Li__, Zimo Cheng, Ziqian Chen, Yuanjun Li. <br/>
 &nbsp;  *Railway Engineering* 2018 (2), 134-137, 2018 (in Chinese) 
 <!-- &nbsp;  [*Journal-Artice*](../files/railway.pdf)<br/> -->
