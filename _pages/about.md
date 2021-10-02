@@ -76,7 +76,7 @@ Publications
 
 
 
-- &nbsp; __Wavelength-controlled multifunctional transmissive metasurface__<br/>
+- &nbsp; __ Wavelength-dependent multifunctional metalens devices via genetic optimization__<br/>
 &nbsp; Jianzheng Ren, __Tianyue Li__, Boyan Fu, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 <!-- &nbsp;  *Photonics Research* 9 (6), 1062-1068, 2021 >
 &nbsp; [*Journal-Artice*](../files/PR. Integrating the optical tweezers and spanner onto an individual single-layer metasurface.pdf)<br/>
