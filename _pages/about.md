@@ -67,7 +67,7 @@ Publications
 
 <!-- <img width="175" align="left" src="../images/multigrid.jpg"/> -->
 
-- &nbsp; __Medium-tunable light field mediated by quasi-bound state in the continuum with nonlocal metasurface__<br/>
+- &nbsp; __Medium-switchable light field mediated by quasi-bound state in the continuum with nonlocal metasurface__<br/>
 &nbsp; Run Chen, __Tianyue Li__, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 <!-- &nbsp;  *Photonics Research* 9 (6), 1062-1068, 2021 >
 &nbsp; [*Journal-Artice*](../files/PR. Integrating the optical tweezers and spanner onto an individual single-layer metasurface.pdf)<br/>
