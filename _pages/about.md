@@ -131,7 +131,7 @@ Publications
 
 
 - &nbsp; [__Automatic precise alignment of Sagnac interferometer__](../files/Automatic precise alignment of Sagnac interferome.pdf)<br/>
-&nbsp;__Tianyue Li__, Xuemin Zhang and Xing Song. 
+&nbsp;__Tianyue Li__, Xuemin Zhang and Xing Song. <br/> 
 &nbsp;  *Novel Optoelectronic Detection Technology and Application* 10697, 106973L, 2018 
 <!-- &nbsp;  [*Conference-Paper*](../files/Automatic precise alignment of Sagnac interferome.pdf)<br/>
  -->
