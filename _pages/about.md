@@ -76,12 +76,9 @@ Publications
 
 
 
-- &nbsp; __Wavelength-dependent multifunctional metalens devices via genetic optimization__<br/>
+- &nbsp; [__Wavelength-dependent multifunctional metalens devices via genetic optimization__](../files/Wavelength-control.pdf)<br/>
 &nbsp; Jianzheng Ren, __Tianyue Li__, Boyan Fu, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
-<!-- &nbsp;  *Photonics Research* 9 (6), 1062-1068, 2021 >
-&nbsp; [*Journal-Artice*](../files/PR. Integrating the optical tweezers and spanner onto an individual single-layer metasurface.pdf)<br/>
- -->
-&nbsp; *Optical Materials Express (Forthcoming)*, 2022 <br/>
+&nbsp; *Optical Materials Express (Accepted)*, 2021 <br/>
 
 - &nbsp; [__Integrating the optical tweezers and spanner onto an individual single-layer metasurface__](../files/PR. Integrating the optical tweezers and spanner onto an individual single-layer metasurface.pdf)<br/>
 &nbsp; __Tianyue Li__, Xiaohao Xu, Boyan Fu, Shuming Wang, Baojun Li, Zhenlin Wang, Shining Zhu. <br/>
