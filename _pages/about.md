@@ -67,18 +67,26 @@ Publications
 
 <!-- <img width="175" align="left" src="../images/multigrid.jpg"/> -->
 
-- &nbsp; __Medium-switchable light field mediated by quasi-bound state in the continuum with nonlocal metasurface__<br/>
+- &nbsp; __Inhomogeneous Chromatic Dispersion Manipulation within Independent Dual-bands with Metalenses__<br/>
+&nbsp; Boyan Fu, __Tianyue Li__, Xiujuan Zou, Jianzheng Ren, Quan Yuan, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
+<!-- &nbsp;  *Photonics Research* 9 (6), 1062-1068, 2021 >
+&nbsp; [*Journal-Artice*](../files/PR. Integrating the optical tweezers and spanner onto an individual single-layer metasurface.pdf)<br/>
+ -->
+&nbsp; *Journal of physics D: Applied Physics (Forthcoming)*, 2022 <br/>
+
+
+- &nbsp; __Switchable light field based on quasi-bound state in the continuum with nonlocal metasurface__<br/>
 &nbsp; Run Chen, __Tianyue Li__, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 <!-- &nbsp;  *Photonics Research* 9 (6), 1062-1068, 2021 >
 &nbsp; [*Journal-Artice*](../files/PR. Integrating the optical tweezers and spanner onto an individual single-layer metasurface.pdf)<br/>
  -->
-&nbsp; *Forthcoming*, 2022 <br/>
+&nbsp; *Journal of lightwave technology (Forthcoming)*, 2022 <br/>
 
 
 
-- &nbsp; [__Wavelength-dependent multifunctional metalens devices via genetic optimization__](../files/Wavelength-control.pdf)<br/>
+- &nbsp; [__Wavelength-dependent multifunctional metalens devices via genetic optimization__](../files/OME.11.3908. Wavelength-dependent multifunctional metalens devices via genetic optimization..pdf)<br/>
 &nbsp; Jianzheng Ren, __Tianyue Li__, Boyan Fu, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp; *Optical Materials Express (Accepted)*, 2021 <br/>
+&nbsp; *Optical Materials Express* 11 (11), 3908-3916, 2021 <br/>
 
 - &nbsp; [__Integrating the optical tweezers and spanner onto an individual single-layer metasurface__](../files/PR. Integrating the optical tweezers and spanner onto an individual single-layer metasurface.pdf)<br/>
 &nbsp; __Tianyue Li__, Xiaohao Xu, Boyan Fu, Shuming Wang, Baojun Li, Zhenlin Wang, Shining Zhu. <br/>
