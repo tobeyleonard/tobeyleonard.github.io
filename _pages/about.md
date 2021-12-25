@@ -13,7 +13,7 @@ About me
 Hiya! I'm a doctoral student at Nanjing University, China, currently majoring in Optics and Photonics at [Dielectric Superlattice Lab.](http://slab.nju.edu.cn/)  led by Prof. [Shining Zhu](https://physics.nju.edu.cn/sz/jcrc/zgkxyys/20210111/i184703.html) and advised by Prof. [Shuming Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html).
 
 
-<p align = "justify">My research interests mainly focus on Nanophotonics, specifically the physical mechanism with metamaterials, metasurfaces, bound states in the continuum, topological insulators, multifunctional meta-devices design and metalenses design for imaging. In parallel, I work on optical manipulation based on metasurface with Dr. Xiaohao Xu (Jinan Univ., Guangzhou) and Prof. Shaohui Yan (XIOPM, CAS), pursuing something new in classic and quantum physics.</p>
+<p align = "justify">My research interests mainly focus on Nanophotonics, specifically, to investigate the physical mechanism and optical singularities in metamaterials, metasurfaces, bound states in the continuums(BICs) and topological photonics for versatile nano-devices design and advanced imaging. In parallel, I work on optical manipulation based on flat nano-optic elements with Dr. Xiaohao Xu (Jinan Univ., Guangzhou) and Prof. Shaohui Yan (XIOPM, CAS), pursuing something new in classic and quantum physics.</p>
 
 <p align = "justify">Also, I've previously participated in different research areas with Prof. Houjun Lü (Guangxi Univ.) on High Energy Astrophysics and with Prof. Xuemin Zhang (Wuhan Univ.) on optical instruments development as well as precise alignment of interferometers.</p>
 
@@ -67,7 +67,7 @@ Publications
 
 <!-- <img width="175" align="left" src="../images/multigrid.jpg"/> -->
 
-- &nbsp; __Inhomogeneous Chromatic Dispersion Manipulation within Independent Dual-bands with Metalenses__<br/>
+- &nbsp; __ Steerable Chromatic Dispersive Metalenses in Dual Bands__<br/>
 &nbsp; Boyan Fu, __Tianyue Li__, Xiujuan Zou, Jianzheng Ren, Quan Yuan, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 <!-- &nbsp;  *Photonics Research* 9 (6), 1062-1068, 2021 >
 &nbsp; [*Journal-Artice*](../files/PR. Integrating the optical tweezers and spanner onto an individual single-layer metasurface.pdf)<br/>
