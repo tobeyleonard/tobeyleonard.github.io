@@ -67,7 +67,7 @@ Publications
 
 <!-- <img width="175" align="left" src="../images/multigrid.jpg"/> -->
 
-- &nbsp; __ Steerable Chromatic Dispersive Metalenses in Dual Bands__<br/>
+- &nbsp; __Steerable Chromatic Dispersive Metalenses in Dual Bands__<br/>
 &nbsp; Boyan Fu, __Tianyue Li__, Xiujuan Zou, Jianzheng Ren, Quan Yuan, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 <!-- &nbsp;  *Photonics Research* 9 (6), 1062-1068, 2021 >
 &nbsp; [*Journal-Artice*](../files/PR. Integrating the optical tweezers and spanner onto an individual single-layer metasurface.pdf)<br/>
