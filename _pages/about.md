@@ -69,7 +69,7 @@ Publications
 
 - &nbsp; __Phase Mechanism and Progress of Multifunctional Metasurfaces__<br/>
 &nbsp; Mengjiao Liu, __Tianyue Li__, Qin Ge, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp; * Acta Optica Sinica (Forthcoming)*, 2022 <br/>
+&nbsp; *Acta Optica Sinica (Forthcoming)*, 2022 <br/>
 
 
 - &nbsp; [__Steerable Chromatic Dispersive Metalenses in Dual Bands__](../files/JPD.55.255105.Steerable chromatic dispersive metalenses in dual bands.pdf)<br/>
