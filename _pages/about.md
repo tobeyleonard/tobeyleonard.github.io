@@ -69,18 +69,12 @@ Publications
 
 - &nbsp; __Steerable Chromatic Dispersive Metalenses in Dual Bands__<br/>
 &nbsp; Boyan Fu, __Tianyue Li__, Xiujuan Zou, Jianzheng Ren, Quan Yuan, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
-<!-- &nbsp;  *Photonics Research* 9 (6), 1062-1068, 2021 >
-&nbsp; [*Journal-Artice*](../files/PR. Integrating the optical tweezers and spanner onto an individual single-layer metasurface.pdf)<br/>
- -->
-&nbsp; *Journal of Physics D: Applied Physics (Forthcoming)*, 2022 <br/>
+&nbsp; *Journal of Physics D: Applied Physics*, .55, 255105, 2022 <br/>
 
 
-- &nbsp; __Switchable light field based on quasi-bound state in the continuum with nonlocal metasurface__<br/>
+- &nbsp; __Quasi-bound states in the continuum-based switchable light-field manipulator__<br/>
 &nbsp; Run Chen, __Tianyue Li__, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
-<!-- &nbsp;  *Photonics Research* 9 (6), 1062-1068, 2021 >
-&nbsp; [*Journal-Artice*](../files/PR. Integrating the optical tweezers and spanner onto an individual single-layer metasurface.pdf)<br/>
- -->
-&nbsp; *Journal of Lightwave Technology (Forthcoming)*, 2022 <br/>
+&nbsp; *Optical Materials Express*, 12 (3),1232, 2022 <br/>
 
 
 
