@@ -67,20 +67,20 @@ Publications
 
 <!-- <img width="175" align="left" src="../images/multigrid.jpg"/> -->
 
-- &nbsp; __Steerable Chromatic Dispersive Metalenses in Dual Bands__<br/>
+- &nbsp; [__Steerable Chromatic Dispersive Metalenses in Dual Bands__](../files/JPD.55.255105.Steerable chromatic dispersive metalenses in dual bands.pdf)<br/>
 &nbsp; Boyan Fu, __Tianyue Li__, Xiujuan Zou, Jianzheng Ren, Quan Yuan, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp; *Journal of Physics D: Applied Physics*, .55, 255105, 2022 <br/>
+&nbsp; *Journal of Physics D: Applied Physics*, 55, 255105, 2022 <br/>
 
 
-- &nbsp; __Quasi-bound states in the continuum-based switchable light-field manipulator__<br/>
+- &nbsp; __Quasi-bound states in the continuum-based switchable light-field manipulator__<br/>(../files/OME.12.1232.Quasi-bound states in the continuum-based switchable light-field manipulator.pdf)<br/>
 &nbsp; Run Chen, __Tianyue Li__, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp; *Optical Materials Express*, 12 (3),1232, 2022 <br/>
-
+&nbsp; *Optical Materials Express*, 12 (3), 1232, 2022 <br/>
 
 
 - &nbsp; [__Wavelength-dependent multifunctional metalens devices via genetic optimization__](../files/OME.11.3908. Wavelength-dependent multifunctional metalens devices via genetic optimization..pdf)<br/>
 &nbsp; Jianzheng Ren, __Tianyue Li__, Boyan Fu, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp; *Optical Materials Express* 11 (11), 3908-3916, 2021 <br/>
+
 
 - &nbsp; [__Integrating the optical tweezers and spanner onto an individual single-layer metasurface__](../files/PR. Integrating the optical tweezers and spanner onto an individual single-layer metasurface.pdf)<br/>
 &nbsp; __Tianyue Li__, Xiaohao Xu, Boyan Fu, Shuming Wang, Baojun Li, Zhenlin Wang, Shining Zhu. <br/>
