@@ -67,7 +67,7 @@ Publications
 
 <!-- <img width="175" align="left" src="../images/multigrid.jpg"/> -->
 
-- &nbsp; [__Phase Mechanism and Progress of Multifunctional Metasurfaces__]<br/>
+- &nbsp; __Phase Mechanism and Progress of Multifunctional Metasurfaces__<br/>
 &nbsp; Mengjiao Liu, __Tianyue Li__, Qin Ge, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp; * Acta Optica Sinica (Forthcoming)*, 2022 <br/>
 
