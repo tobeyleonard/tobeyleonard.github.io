@@ -67,6 +67,11 @@ Publications
 
 <!-- <img width="175" align="left" src="../images/multigrid.jpg"/> -->
 
+- &nbsp; __Chirality-switchable metasurfaces based on quasi-bound states in the continuums__<br/>
+&nbsp; Run Chen, Qianhui Bi, __Tianyue Li__, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
+&nbsp; *Photonics Research (Forthcoming)*, 2022 <br/>
+
+
 - &nbsp; __Phase Mechanism and Progress of Multifunctional Metasurfaces__<br/>
 &nbsp; Mengjiao Liu, __Tianyue Li__, Qin Ge, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp; *Acta Optica Sinica (Forthcoming)*, 2022 <br/>
