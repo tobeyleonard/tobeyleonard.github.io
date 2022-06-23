@@ -67,23 +67,28 @@ Publications
 
 <!-- <img width="175" align="left" src="../images/multigrid.jpg"/> -->
 
+- &nbsp; __Reversible lateral force on phase-gradient metasurfaces for metavehicle backward driving control__<br/>
+&nbsp; __Tianyue Li__, Xiaohao Xu, Shaohui Yan, Shuming Wang, Baojun Li, Baoli Yao, Zhenlin Wang and Shining Zhu. <br/>
+&nbsp; *ACS Photonics (Under review)*, 2022 <br/>
+
+
 - &nbsp; __Chirality-switchable metasurfaces based on quasi-bound states in the continuums__<br/>
-&nbsp; Run Chen, Qianhui Bi, __Tianyue Li__, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp; *Photonics Research (Forthcoming)*, 2022 <br/>
+&nbsp; Run Chen, Qianhui Bi, __Tianyue Li__, Zhaofu Qin, Shuming Wang, Shining Zhu, Zhenlin Wang. <br/>
+&nbsp; *Photonics Research (Under review)*, 2022 <br/>
 
 
 - &nbsp; __Phase Mechanism and Progress of Multifunctional Metasurfaces__<br/>
 &nbsp; Mengjiao Liu, __Tianyue Li__, Qin Ge, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp; *Acta Optica Sinica (Forthcoming)*, 2022 <br/>
+&nbsp; *Acta Optica Sinica (Forthcoming)*, 42 (21), 2022 <br/>
 
 
 - &nbsp; [__Steerable Chromatic Dispersive Metalenses in Dual Bands__](../files/JPD.55.255105.Steerable chromatic dispersive metalenses in dual bands.pdf)<br/>
-&nbsp; Boyan Fu, __Tianyue Li__, Xiujuan Zou, Jianzheng Ren, Quan Yuan, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
+&nbsp; Boyan Fu, __Tianyue Li__, Xiujuan Zou, Jianzheng Ren, Quan Yuan, Shuming Wang, Xun Cao, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp; *Journal of Physics D: Applied Physics*, 55, 255105, 2022 <br/>
 
 
 - &nbsp; [__Quasi-bound states in the continuum-based switchable light-field manipulator__](../files/OME.12.1232.Quasi-bound states in the continuum-based switchable light-field manipulator.pdf)<br/>
-&nbsp; Run Chen, __Tianyue Li__, Qianhui Bi, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
+&nbsp; Run Chen, __Tianyue Li__, Qianhui Bi, Shuming Wang, Shining Zhu, Zhenlin Wang. <br/>
 &nbsp; *Optical Materials Express*, 12 (3), 1232, 2022 <br/>
 
 
