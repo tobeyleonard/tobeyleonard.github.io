@@ -67,8 +67,13 @@ Publications
 
 <!-- <img width="175" align="left" src="../images/multigrid.jpg"/> -->
 
+- &nbsp; __Rotation symmery-protected high-order topological states drived from pseudo-spin-valley coupling with twsitronic photonic crystals__<br/>
+&nbsp; __Tianyue Li__, Jin Qin, Jianzheng Ren, Shuming Wang, Hongchen Chu, Yun Lai, Zhenlin Wang, Shining Zhu. <br/>
+&nbsp; *Forthcoming*, 2023 <br/>
+
+
 - &nbsp; __Reversible lateral force on phase-gradient metasurfaces for metavehicle backward driving control__<br/>
-&nbsp; __Tianyue Li__, Xiaohao Xu, Shaohui Yan, Shuming Wang, Baojun Li, Baoli Yao, Zhenlin Wang and Shining Zhu. <br/>
+&nbsp; __Tianyue Li__, Xiaohao Xu, Shaohui Yan, Shuming Wang, Baojun Li, Baoli Yao, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp; *ACS Photonics (Under review)*, 2022 <br/>
 
 
