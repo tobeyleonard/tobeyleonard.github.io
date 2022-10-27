@@ -13,7 +13,7 @@ About me
 Hi! I'm a doctoral student at Nanjing University, China, currently majoring in Optics and Photonics at [Dielectric Superlattice Lab.](http://slab.nju.edu.cn/)  led by Prof. [Shining Zhu](https://physics.nju.edu.cn/sz/jcrc/zgkxyys/20210111/i184703.html) and advised by Prof. [Shuming Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html).
 
 
-<p align = "justify">My research interests mainly focus on Nanophotonics, specifically, to investigate the physical mechanism and optical singularities that approach to the fundamental limit of light-matter interaction, pursuing something new in light-field manipulation, topological photonics and optomechanics. Parallelly, I also work on developing versatile nano-devices design in the on-chip platform and fibre system for optical tweezers, communications and imaging. </p>
+<p align = "justify">My research interests mainly focus on Nanophotonics, specifically, to investigate the physical mechanism and optical singularities that approach to the fundamental limit of light-matter interaction, pursuing something new in light-field manipulation, topological photonics and optomechanics. Parallelly, I also work on developing versatile nano-devices in the on-chip platform and fibre system for optical tweezers, communications and imaging. </p>
 
 <p align = "justify">I'm honored to be selected as an 'Outstanding Speaker' in 2nd National Academic Forum on Photonics Technology and awarded Second Prize of Presentation Contest in the 1st 'Light & Future' National Graduate Academic Forum.</p>
 
