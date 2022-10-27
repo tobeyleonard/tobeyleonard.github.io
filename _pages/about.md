@@ -13,9 +13,7 @@ About me
 Hiya! I'm a doctoral student at Nanjing University, China, currently majoring in Optics and Photonics at [Dielectric Superlattice Lab.](http://slab.nju.edu.cn/)  led by Prof. [Shining Zhu](https://physics.nju.edu.cn/sz/jcrc/zgkxyys/20210111/i184703.html) and advised by Prof. [Shuming Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html).
 
 
-<p align = "justify">My research interests mainly focus on Nanophotonics, specifically, to investigate the physical mechanism and optical singularities in metamaterials, metasurfaces, bound state in the continuum (BIC) and topological photonics for versatile nano-devices design and advanced imaging. In parallel, I work on optical manipulation based on flat nano-optic elements with Dr. Xiaohao Xu (Jinan Univ., Guangzhou) and Prof. Shaohui Yan (XIOPM, CAS), pursuing something new in classic and quantum physics.</p>
-
-<p align = "justify">Also, I've previously participated in different research areas with Prof. Houjun Lü (Guangxi Univ.) on High Energy Astrophysics and with Prof. Xuemin Zhang (Wuhan Univ.) on optical instruments development as well as precise alignment of interferometers.</p>
+<p align = "justify">My research interests mainly focus on Nanophotonics, specifically, to investigate the physical mechanism and optical singularities that approach to the fundamental limit of light-matter interaction for versatile nano-devices design. In parallel, I work on optical manipulation based on flat nano-optic elements with Dr. Xiaohao Xu (Jinan Univ., Guangzhou) and Prof. Shaohui Yan (XIOPM, CAS), pursuing something new in classic and quantum physics.</p>
 
 <p align = "justify">I'm honored to be selected as an 'Outstanding Speaker' in 2nd National Academic Forum on Photonics Technology and awarded Second Prize of Presentation Contest in the 1st 'Light & Future' National Graduate Academic Forum.</p>
 
@@ -82,7 +80,7 @@ Publications
 &nbsp; *Photonics Research (Under review)*, 2022 <br/>
 
 
-- &nbsp; __Phase Mechanism and Progress of Multifunctional Metasurfaces__<br/>
+- &nbsp; __Phase Mechanism and Progress of Multifunctional Metasurfaces__(../files/光学学报.pdf)<br/>
 &nbsp; Mengjiao Liu, __Tianyue Li__, Qin Ge, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp; *Acta Optica Sinica (Forthcoming)*, 42 (21), 2022 <br/>
 
