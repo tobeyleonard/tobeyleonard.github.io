@@ -30,9 +30,8 @@ Fundamental Research
 </div>
 <div style="font-size:11pt ;  font-style:italic">
  <img   width="200" align="left"  hspace= 10px src="../images/图片1.jpg"/>
-<p align = "justify">Light-field carries physical information such as wavelength, polarization and phase, etc. When these parameters in the continumm become discontinuous, the cutoff point named the optical singularity. Among them, we are interested in the phase singularity carried by the vortex field and the polarization singularity stemmed from the recently popular momentum space, and hence we investigate the physical mechanism of the singularity within the light field.</p>
-  <p align = "justify">Collaborators: Dr. Jianzheng Ren (Peking Univ., Beijing) and Prof. Shaohui Yan (XIOPM, Xi'an)</p>
-  </div>
+<p align = "justify">Light-field carries physical information such as wavelength, polarization and phase, etc. When these parameters in the continumm become discontinuous, the cutoff point named the optical singularity. Among them, we are interested in the phase singularity carried by the vortex field and the polarization singularity stemmed from the recently popular momentum space, and hence we investigate the physical mechanism of the singularity within the light field.Collaborators: Dr. Jianzheng Ren (Peking Univ., Beijing) and Prof. Shaohui Yan (XIOPM, Xi'an)</p>
+</div>
 
 
 <br/>
@@ -43,9 +42,9 @@ Fundamental Research
 </div>
 <div style="font-size:11pt ; font-style:italic">
  <img width="200" align="left"   hspace= 10px src="../images/图片2.jpg"/>
-<p align = "justify">Photonic band is a typical eigenvalue in optical system. Singularity occurs at the degenerate points of more than two energy bands, also known as Dirac point. The eigenvalues around Dirac points enriches physical connotations, such as the accompanying quantum spin Hall effect and quantum valley Hall effect with topological properties. Meanwhile, the photonic structures existing in open or gain-loss systems will split in the complex plane, and its non-Hermitian Hamiltonian  has also aroused our interest, aiming to find the connections between these eigenvalues.</p>
-    <p align = "justify">Collaborators: Prof. Yun Lai (Nanjing Univ., Nanjing) and Prof. Hongchen Chu (Nanjing Univ., Nanjing)</p>
-  </div>
+<p align = "justify">Photonic band is a typical eigenvalue in optical system. Singularity occurs at the degenerate points of more than two energy bands, also known as Dirac point. The eigenvalues around Dirac points enriches physical connotations, such as the accompanying quantum spin Hall effect and quantum valley Hall effect with topological properties. Meanwhile, the photonic structures existing in open or gain-loss systems will split in the complex plane, and its non-Hermitian Hamiltonian  has also aroused our interest, aiming to find the connections between these eigenvalues.
+Collaborators: Prof. Yun Lai (Nanjing Univ., Nanjing) and Prof. Hongchen Chu (Nanjing Univ., Nanjing)</p>
+</div>
 
 <br/>
 
@@ -58,9 +57,9 @@ Derivative Applications
 </div>
 <div style="font-size:11pt ;  font-style:italic">
  <img   width="200" align="left"  hspace= 10px src="../图片4.jpg"/>
-<p align = "justify">Optical tweezers (OT) and optical spanner (OS) are powerful tools of optical manipulation, which are responsible for particle trapping and rotation, respectively. Conventionally, the OT and OS are built using bulky three-dimensional devices, such as microscope objectives and spatial light modulators. Recently, metasurfaces are proposed for setting up them on a microscale platform, which greatly miniaturizing the systems. In this topic, we offer a metasurface-based solution to integrating the OT and OS. Using the prevailing approach based on the geometric and dynamic phases, we show that it is possible to construct an output field, which promises a high NA focal spot, accompanied with a coaxial vortex. Optical trapping and rotation are numerically demonstrated by estimating the mechanical effects on a particle probe. Moreover, we demonstrate an on-demand control of the OT-to-OS distance and the topological charge possessed by the OS. Our results may empower advanced applications in on-chip particle manipulation.</p>
-      <p align = "justify">Collaborators: Dr. Xiaohao Xu (Jinan Univ., Guangzhou) and Dr. Jack. J. Kingsley-Smith (King's College London,  UK)</p>
-  </div>
+<p align = "justify">Optical tweezers (OT) and optical spanner (OS) are powerful tools of optical manipulation, which are responsible for particle trapping and rotation, respectively. Conventionally, the OT and OS are built using bulky three-dimensional devices, such as microscope objectives and spatial light modulators. Recently, metasurfaces are proposed for setting up them on a microscale platform, which greatly miniaturizing the systems. In this topic, we offer a metasurface-based solution to integrating the OT and OS. Using the prevailing approach based on the geometric and dynamic phases, we show that it is possible to construct an output field, which promises a high NA focal spot, accompanied with a coaxial vortex. Optical trapping and rotation are numerically demonstrated by estimating the mechanical effects on a particle probe. Moreover, we demonstrate an on-demand control of the OT-to-OS distance and the topological charge possessed by the OS. Our results may empower advanced applications in on-chip particle manipulation.
+Collaborators: Dr. Xiaohao Xu (Jinan Univ., Guangzhou) and Dr. Jack. J. Kingsley-Smith (King's College London,  UK)</p>
+</div>
 
 <br/>
 
@@ -70,10 +69,9 @@ Derivative Applications
 </div>
 <div style="font-size:11pt ;  font-style:italic">
  <img width="200" align="left"  hspace= 10px  src="../images/图片3.jpg"/>
-<p align = "justify">Optical transmission plays an important role in communication and imaging. Although optical fiber possess the abilities of lossless and low cost, it is difficult to operate separately because of its small size and limited mode utilization. We have jointly developed some devices based on cross section of the end of fiber, which can adjust and control the fiber mode, further simplifying the size of devices after mode separation, and saving space costs for increasing communication channels and ultracompact imaging devices.</p>
-  <p align = "justify">Collaborators: Prof. Fei Xu (Nanjing Univ., Nanjing) and his doctorial student Haotian Xu (Nanjing Univ., Nanjing)</p>
+<p align = "justify">Optical transmission plays an important role in communication and imaging. Although optical fiber possess the abilities of lossless and low cost, it is difficult to operate separately because of its small size and limited mode utilization. We have jointly developed some devices based on cross section of the end of fiber, which can adjust and control the fiber mode, further simplifying the size of devices after mode separation, and saving space costs for increasing communication channels and ultracompact imaging devices.
+ Collaborators: Prof. Fei Xu (Nanjing Univ., Nanjing) and his doctorial student Haotian Xu</p>
   </div>
-
 
 <br/>
 
@@ -92,6 +90,11 @@ Publications
 - &nbsp; __Reversible lateral optical force on phase-gradient metasurfaces for full control of metavehicles__<br/>
 &nbsp; __Tianyue Li__, Jack J. Kingsley-Smith, Yanhui Hu, Xiaohao Xu, Shaohui Yan, Shuming Wang, Baoli Yao, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp; *Optical Letters (Under review)*, 2022 <br/>
+
+
+- &nbsp; __Polarization-dependent optical forces arising from Fano interference__<br/>
+&nbsp; Yao Zhang#, __Tianyue Li# (equal contribution)__, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
+&nbsp; *Advanced Physics Research (Forthcoming)*, 2022 <br/>
 
 
 - &nbsp; __Dual-wavelength chiral metasurfaces based on quasi-bound states in the continuum__<br/>
