@@ -30,7 +30,8 @@ Fundamental Research
 </div>
 <div style="font-size:11pt ;  font-style:italic">
  <img   width="200" align="left"  hspace= 10px src="../images/图片1.jpg"/>
-<p align = "justify">Light-field carries physical information such as wavelength, polarization and phase, etc. When these parameters in the continumm become discontinuous, the cutoff point named the optical singularity. Among them, we are interested in the phase singularity carried by the vortex field and the polarization singularity stemmed from the recently popular momentum space, and hence we investigate the physical mechanism of the singularity within the light field.Collaborators: Dr. Jianzheng Ren (Peking Univ., Beijing) and Prof. Shaohui Yan (XIOPM, Xi'an)</p>
+<p align = "justify">Light-field carries physical information such as wavelength, polarization and phase, etc. When these parameters in the continumm become discontinuous, the cutoff point named the optical singularity. Among them, we are interested in the phase singularity carried by the vortex field and the polarization singularity stemmed from the recently popular momentum space, and hence we investigate the physical mechanism of the singularity within the light field. </p>
+<p align = "justify">Collaborators: Dr. Jianzheng Ren (Peking Univ., Beijing) and Prof. Shaohui Yan (XIOPM, Xi'an) </p>
 </div>
 
 
@@ -42,8 +43,8 @@ Fundamental Research
 </div>
 <div style="font-size:11pt ; font-style:italic">
  <img width="200" align="left"   hspace= 10px src="../images/图片2.jpg"/>
-<p align = "justify">Photonic band is a typical eigenvalue in optical system. Singularity occurs at the degenerate points of more than two energy bands, also known as Dirac point. The eigenvalues around Dirac points enriches physical connotations, such as the accompanying quantum spin Hall effect and quantum valley Hall effect with topological properties. Meanwhile, the photonic structures existing in open or gain-loss systems will split in the complex plane, and its non-Hermitian Hamiltonian  has also aroused our interest, aiming to find the connections between these eigenvalues.
-Collaborators: Prof. Yun Lai (Nanjing Univ., Nanjing) and Prof. Hongchen Chu (Nanjing Univ., Nanjing)</p>
+<p align = "justify">Photonic band is a typical eigenvalue in optical system. Singularity occurs at the degenerate points of more than two energy bands, also known as Dirac point. The eigenvalues around Dirac points enriches physical connotations, such as the accompanying quantum spin Hall effect and quantum valley Hall effect with topological properties. Meanwhile, the photonic structures existing in open or gain-loss systems will split in the complex plane, and its non-Hermitian Hamiltonian  has also aroused our interest, aiming to find the connections between these eigenvalues. </p>
+<p align = "justify">Collaborators: Prof. Yun Lai (Nanjing Univ., Nanjing) and Prof. Hongchen Chu (Nanjing Univ., Nanjing) </p>
 </div>
 
 <br/>
@@ -56,9 +57,9 @@ Derivative Applications
   <hr/>
 </div>
 <div style="font-size:11pt ;  font-style:italic">
- <img   width="200" align="left"  hspace= 10px src="../图片4.jpg"/>
-<p align = "justify">Optical forces can be generated along with the light-matter interaction. Thanks to the overlap between the microstructure science and optical micromanipulation, the planar optical tweezers we developed based on plasmonic devices and metasurfaces enable to confine light into diffraction-limit level, so as to control Rayleigh particles with the ultracompact size; On the other hand, with the development of micro-nano manufacturing, we show the micro-structural materials based on photon-momentum transfer, named metavehicles. Our further research concentrates on the development of integrated on-chip optical tweezers and the mechanism of microstructural resonance.
-Collaborators: Dr. Xiaohao Xu (Jinan Univ., Guangzhou) and Dr. Jack. J. Kingsley-Smith (King's College London,  UK)</p>
+ <img   width="200" align="left"  hspace= 10px src="../images/图片4.jpg"/>
+<p align = "justify">Optical forces can be generated along with the light-matter interaction. Thanks to the overlap between the microstructure science and optical micromanipulation, the planar optical tweezers we developed based on plasmonic devices and metasurfaces enable to confine light into diffraction-limit level, so as to control Rayleigh particles with the ultracompact size; On the other hand, with the development of micro-nano manufacturing, we show the micro-structural materials based on photon-momentum transfer, named metavehicles. Our further research concentrates on the development of integrated on-chip optical tweezers and the mechanism of microstructural resonance. </p>
+<p align = "justify">Collaborators: Dr. Xiaohao Xu (Jinan Univ., Guangzhou) and Dr. Jack. J. Kingsley-Smith (King's College London,  UK) </p>
 </div>
 
 <br/>
@@ -69,10 +70,9 @@ Collaborators: Dr. Xiaohao Xu (Jinan Univ., Guangzhou) and Dr. Jack. J. Kingsley
 </div>
 <div style="font-size:11pt ;  font-style:italic">
  <img width="200" align="left"  hspace= 10px  src="../images/图片3.jpg"/>
-<p align = "justify">Optical transmission plays an important role in communication and imaging. Although optical fiber possess the abilities of lossless and low cost, it is difficult to operate separately because of its small size and limited mode utilization. We have jointly developed some devices based on cross section of the end of fiber, which can adjust and control the fiber mode, further simplifying the size of devices after mode separation, and saving space costs for increasing communication channels and ultracompact imaging devices.
- Collaborators: Prof. Fei Xu (Nanjing Univ., Nanjing) and his doctorial student Haotian Xu</p>
-  </div>
-
+<p align = "justify">Optical transmission plays an important role in communication and imaging. Although optical fiber possess the abilities of lossless and low cost, it is difficult to operate separately because of its small size and limited mode utilization. We have jointly developed some devices based on cross section of the end of fiber, which can adjust and control the fiber mode, further simplifying the size of devices after mode separation, and saving space costs for increasing communication channels and ultracompact imaging devices. </p>
+<p align = "justify">Collaborators: Prof. Fei Xu (Nanjing Univ., Nanjing) and his doctorial student Haotian Xu </p>
+</div>
 <br/>
 
 <br/>
