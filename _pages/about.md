@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-Hiya! I'm a doctoral student at Nanjing University, China, currently majoring in Optics and Photonics at [Dielectric Superlattice Lab.](http://slab.nju.edu.cn/)  led by Prof. [Shining Zhu](https://physics.nju.edu.cn/sz/jcrc/zgkxyys/20210111/i184703.html) and advised by Prof. [Shuming Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html).
+Hi! I'm a doctoral student at Nanjing University, China, currently majoring in Optics and Photonics at [Dielectric Superlattice Lab.](http://slab.nju.edu.cn/)  led by Prof. [Shining Zhu](https://physics.nju.edu.cn/sz/jcrc/zgkxyys/20210111/i184703.html) and advised by Prof. [Shuming Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html).
 
 
 <p align = "justify">My research interests mainly focus on Nanophotonics, specifically, to investigate the physical mechanism and optical singularities that approach to the fundamental limit of light-matter interaction for versatile nano-devices design. In parallel, I work on optical manipulation based on flat nano-optic elements with Dr. Xiaohao Xu (Jinan Univ., Guangzhou) and Prof. Shaohui Yan (XIOPM, CAS), pursuing something new in classic and quantum physics.</p>
@@ -21,11 +21,11 @@ Hiya! I'm a doctoral student at Nanjing University, China, currently majoring in
 <br/>
 
 
-Research area
+Derivative Applications
 ======
 
 <div>
-<div style="font-size:15pt"><strong>Metasurface-Based Optical Manipulation</strong></div>
+<div style="font-size:15pt"><strong>Nanophotonic manipulation with metamaterial structures</strong></div>
   <hr/>
 </div>
 <div style="font-size:11pt ;  font-style:italic">
@@ -42,19 +42,35 @@ Research area
 </div>
 <div style="font-size:11pt ; font-style:italic">
  <img width="200" align="left"   hspace= 10px src="../images/multidimentional light-field manipulation.png"/>
-<p align = "justify">Metasurfaces possessing the advantages of miniaturized size, are widely employed to manipulate light in the subwavelength region, which breaks the limitation of bulky and complex volume and system compared to the traditional optical elements. An advantage of metasurfaces is their versatility by invoking the parameters of light-field to achieve various functionalities into a single-layer metasurface. In this project, we report methods of using the polarization and dispersion of light to achieve multifunctional metasurface devices, allowing the different degrees of freedom of light to carry independent phase profiles to achieve the polarization-dependent conversion of Bessel beams with different orders and NAs as well as wavelength-controlled multifunctional metalenses by introducing an improved genetic algorithm have been implemented. We envision our research are expected to be the potential candidates in multifunctional integrated optical devices.</p>
+<p align = "justify">Optical transmission plays an important role in communication and imaging. Although optical fiber has small loss and low cost, it is difficult to operate separately because of its small size and limited mode utilization. We have jointly developed some devices based on fiber end microstructures, which can adjust and control the micron level fiber mode, further simplifying the size of devices after mode separation, and saving space costs for increasing communication channels and ultra small imaging devices</p>
   </div>
 
 <br/>
 
+
+Derivative Applications
+======
 <div>
-<div style="font-size:15pt"><strong>Chromatic Dispersion Manipulation Based on Metalenses</strong></div>
+<div style="font-size:15pt"><strong>Advanced Optical transmission and endoscopy</strong></div>
   <hr>
 </div>
 <div style="font-size:11pt ;  font-style:italic">
  <img width="200" align="left"  hspace= 10px  src="../images/chromatic dispersion manipulation.png"/>
-<p align = "justify">Among all the optical elements, metalenses possess the most basic and important applications. Compared with the traditional lenses, it has significant advantages in integration and miniaturization. However, the resonant dispersion of each nanostructure, the inherent dispersion of planar devices and optical materials lead to large chromatic aberrations in the metalenses, that severely reduces the quality of their focusing and imaging. Therefore, how to effectively suppress or manipulate the chromatic aberration of metalenses has attracted worldwide attention in recent years, and various excellent achievements have promoted the development of this field. In this project, the Differencial-phase equation has been employed to design the achromatic or super chromatic metalenses, which provides the possibility for the development of ultrathin full-color camera or spectral imaging devices.</p>
+<p align = "justify">Optical transmission plays an important role in communication and imaging. Although optical fiber possess the abilities of lossless and low cost, it is difficult to operate separately because of its small size and limited mode utilization. We have jointly developed some devices based on cross section of the end of fiber, which can adjust and control the fiber mode, further simplifying the size of devices after mode separation, and saving space costs for increasing communication channels and ultracompact imaging devices.</p>
   </div>
+
+<br/>
+
+
+<div>
+<div style="font-size:15pt"><strong>Nanophotonic manipulation with metamaterial structures</strong></div>
+  <hr/>
+</div>
+<div style="font-size:11pt ;  font-style:italic">
+ <img   width="200" align="left"  hspace= 10px src="../images/OT-OS metasurface.jpg"/>
+<p align = "justify">Optical tweezers (OT) and optical spanner (OS) are powerful tools of optical manipulation, which are responsible for particle trapping and rotation, respectively. Conventionally, the OT and OS are built using bulky three-dimensional devices, such as microscope objectives and spatial light modulators. Recently, metasurfaces are proposed for setting up them on a microscale platform, which greatly miniaturizing the systems. In this topic, we offer a metasurface-based solution to integrating the OT and OS. Using the prevailing approach based on the geometric and dynamic phases, we show that it is possible to construct an output field, which promises a high NA focal spot, accompanied with a coaxial vortex. Optical trapping and rotation are numerically demonstrated by estimating the mechanical effects on a particle probe. Moreover, we demonstrate an on-demand control of the OT-to-OS distance and the topological charge possessed by the OS. Our results may empower advanced applications in on-chip particle manipulation.</p>
+  </div>
+
 
 <br/>
 
