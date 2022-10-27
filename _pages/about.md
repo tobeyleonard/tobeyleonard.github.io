@@ -80,7 +80,7 @@ Publications
 &nbsp; *Photonics Research (Under review)*, 2022 <br/>
 
 
-- &nbsp; __Phase Mechanism and Progress of Multifunctional Metasurfaces__(../files/光学学报.pdf)<br/>
+- &nbsp; [__Phase Mechanism and Progress of Multifunctional Metasurfaces__](../files/光学学报.pdf)<br/>
 &nbsp; Mengjiao Liu, __Tianyue Li__, Qin Ge, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp; *Acta Optica Sinica (Forthcoming)*, 42 (21), 2022 <br/>
 
