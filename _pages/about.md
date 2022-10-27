@@ -68,17 +68,17 @@ Publications
 <!-- <img width="175" align="left" src="../images/multigrid.jpg"/> -->
 
 - &nbsp; __Rotation symmery-protected high-order topological states drived from pseudo-spin-valley coupling with twsitronic photonic crystals__<br/>
-&nbsp; __Tianyue Li__, Jin Qin, Jianzheng Ren, Shuming Wang, Hongchen Chu, Yun Lai, Zhenlin Wang, Shining Zhu. <br/>
+&nbsp; __Tianyue Li__, Jin Qin, Jianzheng Ren, Xing Yang, Hongchen Chu, Mengjiao Liu, Yifan Wu, Hao Luo, Geze Gao, Run Chen, Qianhui Bi, Yun Lai, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp; *Forthcoming*, 2023 <br/>
 
 
-- &nbsp; __Reversible lateral force on phase-gradient metasurfaces for metavehicle backward driving control__<br/>
-&nbsp; __Tianyue Li__, Xiaohao Xu, Shaohui Yan, Shuming Wang, Baojun Li, Baoli Yao, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp; *ACS Photonics (Under review)*, 2022 <br/>
+- &nbsp; __Reversible lateral optical force on phase-gradient metasurfaces for full control of metavehicles__<br/>
+&nbsp; __Tianyue Li__, Jack J. Kingsley-Smith, Yanhui Hu, Xiaohao Xu, Shaohui Yan, Shuming Wang, Baoli Yao, Zhenlin Wang, Shining Zhu. <br/>
+&nbsp; *Optical Letters (Under review)*, 2022 <br/>
 
 
-- &nbsp; __Chirality-switchable metasurfaces based on quasi-bound states in the continuums__<br/>
-&nbsp; Run Chen, Qianhui Bi, __Tianyue Li__, Zhaofu Qin, Shuming Wang, Shining Zhu, Zhenlin Wang. <br/>
+- &nbsp; __Dual-wavelength chiral metasurfaces based on quasi-bound states in the continuum__<br/>
+&nbsp; Run Chen, Qianhui Bi, __Tianyue Li__, Shuming Wang, Shining Zhu, Zhenlin Wang. <br/>
 &nbsp; *Photonics Research (Under review)*, 2022 <br/>
 
 
