@@ -21,23 +21,23 @@ Hi! I'm a doctoral student at Nanjing University, China, currently majoring in O
 <br/>
 
 
-Derivative Applications
+Fundamental Research
 ======
 
 <div>
-<div style="font-size:15pt"><strong>Nanophotonic manipulation with metamaterial structures</strong></div>
+<div style="font-size:15pt"><strong>Singularities of Light-Fields</strong></div>
   <hr/>
 </div>
 <div style="font-size:11pt ;  font-style:italic">
  <img   width="200" align="left"  hspace= 10px src="../images/OT-OS metasurface.jpg"/>
-<p align = "justify">Optical tweezers (OT) and optical spanner (OS) are powerful tools of optical manipulation, which are responsible for particle trapping and rotation, respectively. Conventionally, the OT and OS are built using bulky three-dimensional devices, such as microscope objectives and spatial light modulators. Recently, metasurfaces are proposed for setting up them on a microscale platform, which greatly miniaturizing the systems. In this topic, we offer a metasurface-based solution to integrating the OT and OS. Using the prevailing approach based on the geometric and dynamic phases, we show that it is possible to construct an output field, which promises a high NA focal spot, accompanied with a coaxial vortex. Optical trapping and rotation are numerically demonstrated by estimating the mechanical effects on a particle probe. Moreover, we demonstrate an on-demand control of the OT-to-OS distance and the topological charge possessed by the OS. Our results may empower advanced applications in on-chip particle manipulation.</p>
+<p align = "justify">Light-field carries physical information such as wavelength, polarization and phase, etc. When these parameters in the continumm become discontinuous, the cutoff point named the optical singularity. Among them, we are interested in the phase singularity carried by the vortex field and the polarization singularity stemmed from the recently popular momentum space, and hence we investigate the physical mechanism of the singularity within the light field.</p>
   </div>
 
 
 <br/>
 
 <div>
-<div style="font-size:15pt"><strong>Multidimensional Light-Field Manipulation with Metasurfaces</strong></div>
+<div style="font-size:15pt"><strong>Singularities of Eigenstates</strong></div>
   <hr/>
 </div>
 <div style="font-size:11pt ; font-style:italic">
