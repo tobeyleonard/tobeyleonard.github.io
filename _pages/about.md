@@ -42,7 +42,7 @@ Fundamental Research
 </div>
 <div style="font-size:11pt ; font-style:italic">
  <img width="200" align="left"   hspace= 10px src="../images/multidimentional light-field manipulation.png"/>
-<p align = "justify">Optical transmission plays an important role in communication and imaging. Although optical fiber has small loss and low cost, it is difficult to operate separately because of its small size and limited mode utilization. We have jointly developed some devices based on fiber end microstructures, which can adjust and control the micron level fiber mode, further simplifying the size of devices after mode separation, and saving space costs for increasing communication channels and ultra small imaging devices</p>
+<p align = "justify">Photonic band is a typical eigenvalue in optical system. Singularity occurs at the degenerate points of more than two energy bands, also known as Dirac point. The eigenvalues around Dirac points enriches physical connotations, such as the accompanying quantum spin Hall effect and quantum valley Hall effect with topological properties. Meanwhile, the photonic structures existing in open or gain-loss systems will split in the complex plane, and its non-Hermitian Hamiltonian  has also aroused our interest, aiming to find the connections between these eigenvalues.</p>
   </div>
 
 <br/>
