@@ -102,7 +102,7 @@ Publications
 &nbsp; *Journal of Optics (Under review)*, 2022 <br/>
 
 
-- &nbsp; [__Phase Mechanism and Progress of Multifunctional Metasurfaces (on the cover)__](../files/光学学报.pdf)<br/>
+- &nbsp; [__Phase Mechanism and Progress of Multifunctional Metasurfaces (on the cover)__](../files/光学学报.42.2126004.2022.多功能超构表面的相位调控机制及研究进展.pdf)<br/>
 &nbsp; Mengjiao Liu, __Tianyue Li__, Qin Ge, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp; *Acta Optica Sinica*, 42 (21), 2126004, 2022 <br/>
 
