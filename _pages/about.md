@@ -87,9 +87,9 @@ Publications
 &nbsp; *Forthcoming*, 2023 <br/>
 
 
-- &nbsp; [__Reversible lateral optical force on phase-gradient metasurfaces for full control of metavehicles__](../files/OL.48.255.2022.Reversible lateral optical force on phase-gradient metasurfaces for full control of metavehicles.pdf)<br/>
+- &nbsp; [__Reversible lateral optical force on phase-gradient metasurfaces for full control of metavehicles (Editor's pick)__](../files/OL.48.255.2022.Reversible lateral optical force on phase-gradient metasurfaces for full control of metavehicles.pdf)<br/>
 &nbsp; __Tianyue Li__, Jack J. Kingsley-Smith, Yanhui Hu, Xiaohao Xu, Shaohui Yan, Shuming Wang, Baoli Yao, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp; *Optical Letters*, 48 (2), 255, 2023 <br/>
+&nbsp; *Optical Letters*, 48 (2), 255-258, 2023 <br/>
 
 
 - &nbsp; __Polarization-dependent optical forces arising from Fano interference__<br/>
