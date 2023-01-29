@@ -92,14 +92,14 @@ Publications
 &nbsp; *Optical Letters*, 48 (2), 255-258, 2023 <br/>
 
 
-- &nbsp; __Polarization-dependent optical forces arising from Fano interference__<br/>
+- &nbsp; [__Polarization-dependent optical forces arising from Fano interference__](../files/AdvPhysRes.2023.2200048.Polarization‐Dependent Optical Forces Arising from Fano Interference.pdf)<br/>
 &nbsp; Yao Zhang#, __Tianyue Li# (equal contribution)__, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp; *Advanced Physics Research (Forthcoming)*, 2022 <br/>
+&nbsp; *Advanced Physics Research*, 2200048, 2023 <br/>
 
 
 - &nbsp; __Dual-wavelength chiral metasurfaces based on quasi-bound states in the continuum__<br/>
 &nbsp; Run Chen, Qianhui Bi, __Tianyue Li__, Shuming Wang, Shining Zhu, Zhenlin Wang. <br/>
-&nbsp; *Journal of Optics (Under review)*, 2022 <br/>
+&nbsp; *Journal of Optics (Under review)*, 2023 <br/>
 
 
 - &nbsp; [__Phase Mechanism and Progress of Multifunctional Metasurfaces (on the cover)__](../files/光学学报.42.2126004.2022.多功能超构表面的相位调控机制及研究进展.pdf)<br/>
