@@ -10,12 +10,12 @@ redirect_from:
 
 About me
 ======
-Hi! I'm a doctoral student at Nanjing University, China, currently majoring in Optics and Photonics at [Dielectric Superlattice Lab.](http://slab.nju.edu.cn/)  led by Prof. [Shining Zhu](https://physics.nju.edu.cn/sz/jcrc/zgkxyys/20210111/i184703.html) and advised by Prof. [Shuming Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html).
+Hi! I'm a doctoral student at Nanjing University, China, currently majoring in Optics and Photonics at [Dielectric Superlattice Lab.](http://slab.nju.edu.cn/)  under the supervision of Prof. [Shining Zhu](https://physics.nju.edu.cn/sz/jcrc/zgkxyys/20210111/i184703.html) and with the guidance of Prof. [Shuming Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html).
 
 
-<p align = "justify">My research interests mainly focus on Nanophotonics, specifically, to investigate the physical mechanism and optical singularities that approach to the fundamental limit of light-matter interaction, pursuing something new in light-field manipulation, topological photonics and optomechanics. Parallelly, I also work on developing versatile nano-devices in the on-chip platform and fibre system for optical tweezers, communications and imaging. </p>
+<p align = "justify">My research centers around Nanophotonics, with a focus on investigating the physical mechanisms and optical singularities associated with light-matter interaction. I strive to contribute to the advancement of this field by exploring new frontiers in light-field manipulation, topological photonics, and optomechanics. Additionally, I am actively engaged in the development of versatile nano-devices for on-chip and fiber-based platforms, including applications in optical tweezers, communication, and imaging. </p>
 
-<p align = "justify">I'm honored to be selected as an 'Outstanding Speaker' in 2nd National Academic Forum on Photonics Technology and awarded Second Prize of Presentation Contest in the 1st 'Light & Future' National Graduate Academic Forum.</p>
+<p align = "justify">I am honored to have been recognized as an Outstanding Speaker at the 2nd National Academic Forum on Photonics Technology and awarded Second Prize in the Presentation Contest at the 1st 'Light & Future' National Graduate Academic Forum..</p>
 
 
 <br/>
@@ -30,7 +30,7 @@ Fundamental Research
 </div>
 <div style="font-size:11pt ;  font-style:italic">
  <img   width="200" align="left"  hspace= 10px src="../images/图片1.jpg"/>
-<p align = "justify">Light-field carries physical information such as wavelength, polarization and phase, etc. When these parameters in the continumm become discontinuous, the cutoff point named the optical singularity. Among them, we are interested in the phase singularity carried by the vortex field and the polarization singularity stemmed from the recently popular momentum space, and hence we investigate the physical mechanism of the singularity within the light field. </p>
+<p align = "justify">The light-field is comprised of various physical properties, including wavelength, polarization, and phase. These parameters are subject to discontinuity, resulting in a cutoff point known as an optical singularity. Our research interests lie in two specific forms of optical singularities: the phase singularity carried by vortex fields and the polarization singularity arising from the momentum space. We aim to gain a deeper understanding of the physical mechanisms associated with these singularities within the light field. </p>
 <p align = "justify">Collaborators: Dr. Jianzheng Ren (Peking Univ., Beijing) and Prof. Shaohui Yan (XIOPM, Xi'an) </p>
 </div>
 
@@ -99,7 +99,7 @@ Publications
 
 - &nbsp; __Dual-wavelength chiral metasurfaces based on quasi-bound states in the continuum__<br/>
 &nbsp; Run Chen, Qianhui Bi, __Tianyue Li__, Shuming Wang, Shining Zhu, Zhenlin Wang. <br/>
-&nbsp; *Journal of Optics (Under review)*, 2023 <br/>
+&nbsp; *Journal of Optics (Accepted)*, 2023 <br/>
 
 
 - &nbsp; [__Phase Mechanism and Progress of Multifunctional Metasurfaces (on the cover)__](../files/光学学报.42.2126004.2022.多功能超构表面的相位调控机制及研究进展.pdf)<br/>
