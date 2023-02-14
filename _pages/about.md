@@ -15,7 +15,7 @@ Hi! I'm a doctoral student at Nanjing University, China, currently majoring in O
 
 <p align = "justify">My research centers around Nanophotonics, with a focus on investigating the physical mechanisms and optical singularities associated with light-matter interaction. I strive to contribute to the advancement of this field by exploring new frontiers in light-field manipulation, topological photonics, and optomechanics. Additionally, I am actively engaged in the development of versatile nano-devices for on-chip and fiber-based platforms, including applications in optical tweezers, communication, and imaging. </p>
 
-<p align = "justify">I am honored to have been recognized as an Outstanding Speaker at the 2nd National Academic Forum on Photonics Technology and awarded Second Prize in the Presentation Contest at the 1st 'Light & Future' National Graduate Academic Forum..</p>
+<p align = "justify">I am honored to have been recognized as an Outstanding Speaker at the 2nd National Academic Forum on Photonics Technology and awarded Second Prize in the Presentation Contest at the 1st 'Light & Future' National Graduate Academic Forum.</p>
 
 
 <br/>
