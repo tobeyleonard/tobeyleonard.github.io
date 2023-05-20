@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-Hi! I'm a doctoral student at Nanjing University, China, currently majoring in Optics and Photonics at [Dielectric Superlattice Lab.](http://slab.nju.edu.cn/)  under the supervision of Prof. [Shining Zhu](https://physics.nju.edu.cn/sz/jcrc/zgkxyys/20210111/i184703.html) and with the guidance of Prof. [Shuming Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html).
+Hi! I am employed with Nanjing University, China, currently majoring in Optics and Photonics at [Dielectric Superlattice Lab.](http://slab.nju.edu.cn/)  under the supervision of Prof. [Shining Zhu](https://physics.nju.edu.cn/sz/jcrc/zgkxyys/20210111/i184703.html) and Prof. [Shuming Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html).
 
 
 <p align = "justify">My research centers around Nanophotonics, with a focus on investigating the physical mechanisms and optical singularities associated with light-matter interaction. I strive to contribute to the advancement of this field by exploring new frontiers in light-field manipulation, topological photonics, and optomechanics. Additionally, I am actively engaged in the development of versatile nano-devices for on-chip and fiber-based platforms, including applications in optical tweezers, communication, and imaging. </p>
@@ -83,7 +83,7 @@ Publications
 <!-- <img width="175" align="left" src="../images/multigrid.jpg"/> -->
 
 - &nbsp; __Rotation symmery-protected high-order topological states drived from pseudo-spin-valley coupling with twsitronic photonic crystals__<br/>
-&nbsp; __Tianyue Li__, Jin Qin, Jianzheng Ren, Xing Yang, Hongchen Chu, Mengjiao Liu, Yifan Wu, Hao Luo, Geze Gao, Run Chen, Qianhui Bi, Yun Lai, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
+&nbsp; __Tianyue Li__, Jin Qin, Mengjiao Liu, Jianzheng Ren, Xing Yang, Hongchen Chu, Yifan Wu, Hao Luo, Geze Gao, Yun Lai, Shuming Wang, Shining Zhu, Zhenlin Wang. <br/>
 &nbsp; *Forthcoming*, 2023 <br/>
 
 
@@ -230,9 +230,9 @@ employed as a structural prototyping tool that facilitates model design and fabr
 
 Contact
 ======
-__E-mail:__ leos4a@163.com
+__E-mail:__ leos4a@163.com; Tianyueli@smail.nju.edu.cn.
 <br/>
 <br/>
-__Address:__ Room A-411, TangZhongying Building, School of Physics, Nanjing University.
+__Address:__ Room A-411, Cyrus Tang Building, School of Physics, Nanjing University.
 <br/>
 
