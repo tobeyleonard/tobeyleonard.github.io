@@ -83,7 +83,7 @@ Publications
 <!-- <img width="175" align="left" src="../images/multigrid.jpg"/> -->
 
 - &nbsp; __High-order photonic hybrid topological crystalline insulator__<br/>
-&nbsp; __Tianyue Li__, Mengjiao Liu, Jin Qin, Xing Yang, Jianzheng Ren, Yang Liu, Jiahao Hou, Hongchen Chu, Yun Lai, Shuming Wang, Shining Zhu, Zhenlin Wang. <br/>
+&nbsp; __Tianyue Li#__, Mengjiao Liu#, Jin Qin#, Xing Yang#, Jianzheng Ren, Yang Liu, Jiahao Hou, Hongchen Chu, Yun Lai, Shuming Wang, Shining Zhu, Zhenlin Wang. <br/>
 &nbsp; *Forthcoming*, 2024 <br/>
 
 - &nbsp; __Harnessing optical singularities in nanophotonics: multidimensional, optomechanical and topological aspects__<br/>
