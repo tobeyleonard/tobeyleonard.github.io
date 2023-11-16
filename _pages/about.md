@@ -106,7 +106,7 @@ Publications
 
 - &nbsp; [__Dual-wavelength chiral metasurfaces based on quasi-bound states in the continuum__](https://iopscience.iop.org/article/10.1088/2040-8986/acbc32/pdf)<br/>
 &nbsp; Run Chen, Qianhui Bi, __Tianyue Li__, Shuming Wang, Shining Zhu, Zhenlin Wang. <br/>
-&nbsp; *Journal of Optics (Accepted)*, 2023 <br/>
+&nbsp; *Journal of Optics*, 25, 045001, 2023 <br/>
 
 
 - &nbsp; [__Phase Mechanism and Progress of Multifunctional Metasurfaces (on the cover)__](../files/光学学报.42.2126004.2022.多功能超构表面的相位调控机制及研究进展.pdf)<br/>
