@@ -82,9 +82,10 @@ Publications
 
 <!-- <img width="175" align="left" src="../images/multigrid.jpg"/> -->
 
-- &nbsp; __High-order photonic hybrid topological crystalline insulator__<br/>
+<!-- - &nbsp; __High-order photonic hybrid topological crystalline insulator__<br/>
 &nbsp; __Tianyue Li#__, Mengjiao Liu#, Jin Qin#, Xing Yang#, Jianzheng Ren, Yang Liu, Jiahao Hou, Hongchen Chu, Yun Lai, Shuming Wang, Shining Zhu, Zhenlin Wang. <br/>
-&nbsp; *Forthcoming*, 2024 <br/>
+&nbsp; *Forthcoming*, 2024 <br/> -->
+
 
 - &nbsp; __Harnessing optical singularities in nanophotonics: multidimensional, optomechanical and topological aspects__<br/>
 &nbsp; __Tianyue Li__, Mengjiao Liu, Xing Yang, Geze Gao, Tianhua Shao, Jiahao Hou, Shuming Wang, Shining Zhu. <br/>
@@ -93,6 +94,12 @@ Publications
 - &nbsp; __Spin-selective tri-functional metasurfaces for deforming versatile non-diffractive beams along the optical trajectory__<br/>
 &nbsp; __Tianyue Li#__, Yun Chen#, Boyan Fu#, Mengjiao Liu, Jinwen Wang, Hong Gao, Shuming Wang, Shining Zhu. <br/>
 &nbsp; *Forthcoming*, 2024 <br/>
+
+
+- &nbsp; __Metasurfaces empowered optical micro-manipulation__<br/>
+&nbsp; Xiaohao Xu, Wenyu Gao, __Tianyue Li__, Tianhua Shao, Xingyi Li, Yuan Zhou, Geze Gao, Guoxi Wang, Shaohui Yan, Shuming Wang, Baoli Yao. <br/>
+&nbsp; *Acta Optica Sinica*, 2024 <br/>
+
 
 - &nbsp; [__Reversible lateral optical force on phase-gradient metasurfaces for full control of metavehicles (Editor's pick)__](../files/OL.48.255.2022.Reversible lateral optical force on phase-gradient metasurfaces for full control of metavehicles.pdf)<br/>
 &nbsp; __Tianyue Li__, Jack J. Kingsley-Smith, Yanhui Hu, Xiaohao Xu, Shaohui Yan, Shuming Wang, Baoli Yao, Zhenlin Wang, Shining Zhu. <br/>
