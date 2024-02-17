@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-Hi! I am employed with Nanjing University, China, currently majoring in Optics and Photonics at [Dielectric Superlattice Lab.](http://slab.nju.edu.cn/)  under the supervision of Prof. [Shining Zhu](https://physics.nju.edu.cn/sz/jcrc/zgkxyys/20210111/i184703.html), Prof.[Zhenlin Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45274.html) and Prof. [Shuming Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html).
+Hi! I am employed with Nanjing University, China, currently majoring in Optics and Photonics at [Dielectric Superlattice Lab.](http://slab.nju.edu.cn/)  under the supervision of Prof. [Shining Zhu](https://physics.nju.edu.cn/sz/jcrc/zgkxyys/20210111/i184703.html), Prof. [Zhenlin Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45274.html) and Prof. [Shuming Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html).
 
 
 <p align = "justify">My research centers around Nanophotonics, with a focus on investigating the physical mechanisms and optical singularities associated with light-matter interaction. I strive to contribute to the advancement of this field by exploring new frontiers in light-field manipulation, topological photonics, and optomechanics. Additionally, I am actively engaged in the development of versatile nano-devices for on-chip and fiber-based platforms, including applications in optical tweezers, communication, and imaging. </p>
@@ -87,18 +87,18 @@ Publications
 &nbsp; *Forthcoming*, 2024 <br/> -->
 
 
-- &nbsp; __Harnessing optical singularities in nanophotonics: multidimensional, optomechanical and topological aspects__<br/>
+- &nbsp; __Chip-scale metaphotonic singularities: topological, dynamical, and practical aspects__<br/>
 &nbsp; __Tianyue Li__, Mengjiao Liu, Xing Yang, Geze Gao, Tianhua Shao, Jiahao Hou, Shuming Wang, Shining Zhu. <br/>
 &nbsp; *Forthcoming*, 2024 <br/>
 
 - &nbsp; __Spin-selective tri-functional metasurfaces for deforming versatile non-diffractive beams along the optical trajectory__<br/>
 &nbsp; __Tianyue Li#__, Yun Chen#, Boyan Fu#, Mengjiao Liu, Jinwen Wang, Hong Gao, Shuming Wang, Shining Zhu. <br/>
-&nbsp; *Forthcoming*, 2024 <br/>
+&nbsp; *Laser & Photonics Reviews*, accepted, 2024 <br/>
 
 
-- &nbsp; __Metasurfaces empowered optical micro-manipulation__<br/>
+- &nbsp; __Metasurfaces empowered optical micro-manipulation (on the cover)__<br/>
 &nbsp; Xiaohao Xu, Wenyu Gao, __Tianyue Li__, Tianhua Shao, Xingyi Li, Yuan Zhou, Geze Gao, Guoxi Wang, Shaohui Yan, Shuming Wang, Baoli Yao. <br/>
-&nbsp; *Acta Optica Sinica*, 2024 <br/>
+&nbsp; *Acta Optica Sinica*, 44 (5), 050001, 2024 <br/>
 
 
 - &nbsp; [__Reversible lateral optical force on phase-gradient metasurfaces for full control of metavehicles (Editor's pick)__](../files/OL.48.255.2022.Reversible lateral optical force on phase-gradient metasurfaces for full control of metavehicles.pdf)<br/>
