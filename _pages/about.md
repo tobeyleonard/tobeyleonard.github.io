@@ -88,11 +88,11 @@ Publications
 
 
 - &nbsp; __Chip-scale metaphotonic singularities: topological, dynamical, and practical aspects__<br/>
-&nbsp; __Tianyue Li__, Mengjiao Liu, Xing Yang, Geze Gao, Tianhua Shao, Jiahao Hou, Shuming Wang, Shining Zhu. <br/>
+&nbsp; __Tianyue Li__, Mengjiao Liu, Jiahao Hou, Shubo Wang, Shuming Wang, Shining Zhu. <br/>
 &nbsp; *Forthcoming*, 2024 <br/>
 
 - &nbsp; __Spin-selective tri-functional metasurfaces for deforming versatile non-diffractive beams along the optical trajectory__<br/>
-&nbsp; __Tianyue Li#__, Yun Chen#, Boyan Fu#, Mengjiao Liu, Jinwen Wang, Hong Gao, Shuming Wang, Shining Zhu. <br/>
+&nbsp; __Tianyue Li__, Yun Chen, Boyan Fu, Mengjiao Liu, Jinwen Wang, Hong Gao, Shuming Wang, Shining Zhu. <br/>
 &nbsp; *Laser & Photonics Reviews*, accepted, 2024 <br/>
 
 
