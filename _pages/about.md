@@ -96,7 +96,7 @@ Publications
 &nbsp; *Laser & Photonics Reviews*, accepted, 2024 <br/>
 
 
-- &nbsp; __Metasurfaces empowered optical micro-manipulation (on the cover)__<br/>
+- &nbsp; [__Metasurfaces empowered optical micromanipulation (on the cover)__](../files/超构表面赋能光学微操控技术.pdf)<br/>
 &nbsp; Xiaohao Xu, Wenyu Gao, __Tianyue Li__, Tianhua Shao, Xingyi Li, Yuan Zhou, Geze Gao, Guoxi Wang, Shaohui Yan, Shuming Wang, Baoli Yao. <br/>
 &nbsp; *Acta Optica Sinica*, 44 (5), 050001, 2024 <br/>
 
