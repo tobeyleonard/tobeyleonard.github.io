@@ -93,7 +93,7 @@ Publications
 
 - &nbsp; [__Spin-selective tri-functional metasurfaces for deforming versatile non-diffractive beams along the optical trajectory__](../files/LPR.2024.2301372.Spin-Selective Trifunctional Metasurfaces for Deforming Versatile Nondiffractive Beams along the Optical Trajectory.pdf)<br/>
 &nbsp; __Tianyue Li__, Yun Chen, Boyan Fu, Mengjiao Liu, Jinwen Wang, Hong Gao, Shuming Wang, Shining Zhu. <br/>
-&nbsp; *Laser & Photonics Reviews*, accepted, 2024 <br/>
+&nbsp; *Laser & Photonics Reviews*, 2301372, 2024 <br/>
 
 
 - &nbsp; [__Metasurfaces empowered optical micromanipulation (on the cover)__](../files/超构表面赋能光学微操控技术.pdf)<br/>
