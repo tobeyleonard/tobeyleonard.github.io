@@ -82,14 +82,24 @@ Publications
 
 <!-- <img width="175" align="left" src="../images/multigrid.jpg"/> -->
 
-<!-- - &nbsp; __High-order photonic hybrid topological crystalline insulator__<br/>
-&nbsp; __Tianyue Li#__, Mengjiao Liu#, Jin Qin#, Xing Yang#, Jianzheng Ren, Yang Liu, Jiahao Hou, Hongchen Chu, Yun Lai, Shuming Wang, Shining Zhu, Zhenlin Wang. <br/>
-&nbsp; *Forthcoming*, 2024 <br/> -->
+- &nbsp; __Configurable hybrid topological polycrystalline photonic integrated circuitry__<br/>
+&nbsp; __Tianyue Li#__, Mengjiao Liu#, Jin Qin#, Xing Yang, Jianzheng Ren, Yang Liu, Jiahao Hou, Hongchen Chu, Yun Lai, Shuming Wang, Jian-Hua Jiang, C. T. Chan, Shining Zhu. <br/>
+&nbsp; *Forthcoming*, 2025 <br/>
+
+- &nbsp; __Ultrafast metaphotonics__<br/>
+&nbsp; __Tianyue Li__, Haotian Xu, Mingcheng Panmai, Tianhua Shao, Geze Gao, Fei Xu, Guangwei Hu, Shuming Wang, Shining Zhu. <br/>
+&nbsp; *Forthcoming*, 2024 <br/>
 
 
 - &nbsp; __Chip-scale metaphotonic singularities: topological, dynamical, and practical aspects__<br/>
 &nbsp; __Tianyue Li__, Mengjiao Liu, Jiahao Hou, Shubo Wang, Shuming Wang, Shining Zhu. <br/>
 &nbsp; *Forthcoming*, 2024 <br/>
+
+
+- &nbsp; __Metasurface-Empowered Spin-Activated Skyrmion Textures of Light (Invited)__<br/>
+&nbsp; __Tianyue Li__, Mengjiao Liu, Chen Chen, Xingyi Li, Jiahao Hou, Shuming Wang, Shining Zhu. <br/>
+&nbsp; *Forthcoming*, 2024 <br/>
+
 
 - &nbsp; [__Spin-selective tri-functional metasurfaces for deforming versatile non-diffractive beams along the optical trajectory__](../files/LPR.2024.2301372.Spin-Selective Trifunctional Metasurfaces for Deforming Versatile Nondiffractive Beams along the Optical Trajectory.pdf)<br/>
 &nbsp; __Tianyue Li__, Yun Chen, Boyan Fu, Mengjiao Liu, Jinwen Wang, Hong Gao, Shuming Wang, Shining Zhu. <br/>
