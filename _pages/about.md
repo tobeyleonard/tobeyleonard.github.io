@@ -87,12 +87,12 @@ Publications
 &nbsp; *Forthcoming*, 2025 <br/>
 
 - &nbsp; __Ultrafast metaphotonics__<br/>
-&nbsp; __Tianyue Li__, Haotian Xu, Mingcheng Panmai, Tianhua Shao, Geze Gao, Fei Xu, Guangwei Hu, Shuming Wang, Shining Zhu. <br/>
+&nbsp; __Tianyue Li#__, Haotian Xu#, Mingcheng Panmai#, Tianhua Shao, Geze Gao, Fei Xu, Guangwei Hu, Shuming Wang, Shining Zhu. <br/>
 &nbsp; *Forthcoming*, 2024 <br/>
 
 
 - &nbsp; __Chip-scale metaphotonic singularities: topological, dynamical, and practical aspects__<br/>
-&nbsp; __Tianyue Li__, Mengjiao Liu, Jiahao Hou, Shubo Wang, Shuming Wang, Shining Zhu. <br/>
+&nbsp; __Tianyue Li#__, Mengjiao Liu#, Jiahao Hou, Shubo Wang, Shuming Wang, Shining Zhu. <br/>
 &nbsp; *Forthcoming*, 2024 <br/>
 
 
@@ -102,7 +102,7 @@ Publications
 
 
 - &nbsp; [__Spin-selective tri-functional metasurfaces for deforming versatile non-diffractive beams along the optical trajectory__](../files/LPR.2024.2301372.Spin-Selective Trifunctional Metasurfaces for Deforming Versatile Nondiffractive Beams along the Optical Trajectory.pdf)<br/>
-&nbsp; __Tianyue Li__, Yun Chen, Boyan Fu, Mengjiao Liu, Jinwen Wang, Hong Gao, Shuming Wang, Shining Zhu. <br/>
+&nbsp; __Tianyue Li#__, Yun Chen#, Boyan Fu#, Mengjiao Liu, Jinwen Wang, Hong Gao, Shuming Wang, Shining Zhu. <br/>
 &nbsp; *Laser & Photonics Reviews*, 2301372, 2024 <br/>
 
 
