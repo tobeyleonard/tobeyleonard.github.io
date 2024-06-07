@@ -15,9 +15,6 @@ Hi! I am employed with Nanjing University, China, currently majoring in Optics a
 
 <p align = "justify">My research centers around Nanophotonics, with a focus on investigating the physical mechanisms and optical singularities associated with light-matter interaction. I strive to contribute to the advancement of this field by exploring new frontiers in light-field manipulation, topological photonics, and optomechanics. Additionally, I am actively engaged in the development of versatile nano-devices for on-chip and fiber-based platforms, including applications in optical tweezers, communication, and imaging. </p>
 
-<p align = "justify">I am honored to have been recognized as an Outstanding Speaker at the 2nd National Academic Forum on Photonics Technology and awarded Second Prize in the Presentation Contest at the 1st 'Light & Future' National Graduate Academic Forum.</p>
-
-
 <br/>
 
 
@@ -86,19 +83,24 @@ Publications
 &nbsp; __Tianyue Li#__, Mengjiao Liu#, Jin Qin#, Xing Yang, Jianzheng Ren, Yang Liu, Jiahao Hou, Hongchen Chu, Yun Lai, Shuming Wang, Jian-Hua Jiang, C. T. Chan, Shining Zhu. <br/>
 &nbsp; *Forthcoming*, 2025 <br/>
 
-- &nbsp; __Ultrafast metaphotonics__<br/>
-&nbsp; __Tianyue Li#__, Haotian Xu#, Mingcheng Panmai#, Tianhua Shao, Geze Gao, Fei Xu, Guangwei Hu, Shuming Wang, Shining Zhu. <br/>
-&nbsp; *Forthcoming*, 2024 <br/>
+- &nbsp; __Ultrafast metaphotonics (Invited)__<br/>
+&nbsp; __Tianyue Li#__, Haotian Xu#, Mingcheng Panmai#, Tianhua Shao, Geze Gao, Fei Xu, Guangwei Hu, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
+&nbsp; *Ultrafast Science*, Forthcoming, 2024 <br/>
 
 
 - &nbsp; __Chip-scale metaphotonic singularities: topological, dynamical, and practical aspects__<br/>
-&nbsp; __Tianyue Li#__, Mengjiao Liu#, Jiahao Hou, Shubo Wang, Shuming Wang, Shining Zhu. <br/>
+&nbsp; __Tianyue Li#__, Mengjiao Liu#, Shubo Wang, Jiahao Hou, Xing Yang, Shuming Wang, Din Ping Tsai, Shining Zhu, Zhenlin Wang. <br/>
 &nbsp; *Forthcoming*, 2024 <br/>
 
 
 - &nbsp; __Metasurface-Empowered Spin-Activated Skyrmion Textures of Light (Invited)__<br/>
 &nbsp; __Tianyue Li__, Mengjiao Liu, Chen Chen, Xingyi Li, Jiahao Hou, Shuming Wang, Shining Zhu. <br/>
-&nbsp; *Forthcoming*, 2024 <br/>
+&nbsp; *Journal of Optics*, Forthcoming, 2024 <br/>
+
+
+- &nbsp; __Miniature snapshot midinfrared spectrometer based on metal-insulator-metal metasurface__<br/>
+&nbsp; Weijun Liu, Yuanqing Wan, Haoxiang Yu, Quan Yuan, __Tianyue Li__, Fang Xue, Shuming Wang. <br/>
+&nbsp; *Journal of Optics*, accepted, 2024 <br/>
 
 
 - &nbsp; [__Spin-selective tri-functional metasurfaces for deforming versatile non-diffractive beams along the optical trajectory__](../files/LPR.2024.2301372.Spin-Selective Trifunctional Metasurfaces for Deforming Versatile Nondiffractive Beams along the Optical Trajectory.pdf)<br/>
