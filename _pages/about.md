@@ -94,7 +94,7 @@ Publications
 
 
 - &nbsp; __Metasurface-Empowered Spin-Activated Skyrmion Textures of Light (Invited)__<br/>
-&nbsp; __Tianyue Li__, Mengjiao Liu, Chen Chen, Xingyi Li, Jiahao Hou, Shuming Wang, Shining Zhu. <br/>
+&nbsp; __Tianyue Li__, Mengjiao Liu, Chen Chen, Xingyi Li, Jiahao Hou, Xing Yang, Shuming Wang, Shining Zhu. <br/>
 &nbsp; *Journal of Optics*, Forthcoming, 2024 <br/>
 
 
