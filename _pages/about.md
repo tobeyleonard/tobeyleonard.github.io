@@ -98,9 +98,9 @@ Publications
 &nbsp; *Journal of Optics*, Forthcoming, 2024 <br/>
 
 
-- &nbsp; __Miniature snapshot midinfrared spectrometer based on metal-insulator-metal metasurface__<br/>
+- &nbsp; [__Miniature snapshot midinfrared spectrometer based on metal-insulator-metal metasurface__]((../files/JO.26.085003.2024.Miniature snapshot mid-infrared spectrometer based on metal-insulator-metal metasurface.pdf)<br/>
 &nbsp; Weijun Liu, Yuanqing Wan, Haoxiang Yu, Quan Yuan, __Tianyue Li__, Fang Xue, Shuming Wang. <br/>
-&nbsp; *Journal of Optics*, accepted, 2024 <br/>
+&nbsp; *Journal of Optics*, 26, 085003, 2024 <br/>
 
 
 - &nbsp; [__Spin-selective tri-functional metasurfaces for deforming versatile non-diffractive beams along the optical trajectory__](../files/LPR.2024.2301372.Spin-Selective Trifunctional Metasurfaces for Deforming Versatile Nondiffractive Beams along the Optical Trajectory.pdf)<br/>
