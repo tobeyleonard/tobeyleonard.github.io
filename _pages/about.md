@@ -90,7 +90,7 @@ Publications
 
 - &nbsp; __Chip-scale metaphotonic singularities: topological, dynamical, and practical aspects__<br/>
 &nbsp; __Tianyue Li#__, Mengjiao Liu#, Shubo Wang, Jiahao Hou, Xing Yang, Shuming Wang, Din Ping Tsai, Shining Zhu, Zhenlin Wang. <br/>
-&nbsp; *Forthcoming*, 2024 <br/>
+&nbsp; *Chip*, Forthcoming, 2024 <br/>
 
 
 - &nbsp; __Observation of Spin-Activated Metaphotonic Skyrmion Textures (Invited)__<br/>
