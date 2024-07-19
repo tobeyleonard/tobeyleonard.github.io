@@ -89,11 +89,11 @@ Publications
 
 
 - &nbsp; __Chip-scale metaphotonic singularities: topological, dynamical, and practical aspects__<br/>
-&nbsp; __Tianyue Li#__, Mengjiao Liu#, Shubo Wang, Jiahao Hou, Xing Yang, Shuming Wang, Din Ping Tsai, Shining Zhu, Zhenlin Wang. <br/>
+&nbsp; __Tianyue Li#__, Mengjiao Liu#, Jiahao Hou, Xing Yang, Shubo Wang, Shuming Wang, Din Ping Tsai, Shining Zhu, Zhenlin Wang. <br/>
 &nbsp; *Chip*, Forthcoming, 2024 <br/>
 
 
-- &nbsp; __Observation of Spin-Activated Metaphotonic Skyrmion Textures (Invited)__<br/>
+- &nbsp; __Realization of Spinful Metaphotonic Stokes Skyrmions  (Invited)__<br/>
 &nbsp; __Tianyue Li__, Mengjiao Liu, Chen Chen, Xingyi Li, Jiahao Hou, Xing Yang, Shuming Wang, Shining Zhu. <br/>
 &nbsp; *Journal of Optics*, Forthcoming, 2024 <br/>
 
