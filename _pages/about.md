@@ -41,7 +41,7 @@ Fundamental Research
 <div style="font-size:11pt ; font-style:italic">
  <img width="200" align="left"   hspace= 10px src="../images/图片2.jpg"/>
 <p align = "justify">Photonic band is a typical eigenvalue in optical system. Singularity occurs at the degenerate points of more than two energy bands, also known as Dirac point. The eigenvalues around Dirac points enriches physical connotations, such as the accompanying quantum spin Hall effect and quantum valley Hall effect with topological properties. Meanwhile, the photonic structures existing in open or gain-loss systems will split in the complex plane, and its non-Hermitian Hamiltonian  has also aroused our interest, aiming to find the connections between these eigenvalues. </p>
-<p align = "justify">Collaborators: Prof. C. T. Chan (HKUST, Hong Kong), Prof. Jian-Hua Jiang (SIAR-USTC, Suzhou), and Dr. Shubo Wang (CityU., Hong Kong) </p>
+<p align = "justify">Collaborators: Prof. C. T. Chan (HKUST, Hong Kong), Prof. Jian-Hua Jiang (SIAR-USTC, Suzhou) </p>
 </div>
 
 <br/>
@@ -93,9 +93,9 @@ Publications
 &nbsp; *Chip*, Forthcoming, 2024 <br/>
 
 
-- &nbsp; __Realization of Spinful Metaphotonic Stokes Skyrmions  (Invited)__<br/>
+- &nbsp; __Realization of Spinful Metaphotonic Stokes Skyrmions (Invited)__<br/>
 &nbsp; __Tianyue Li__, Mengjiao Liu, Chen Chen, Xingyi Li, Jiahao Hou, Xing Yang, Shuming Wang, Shining Zhu. <br/>
-&nbsp; *Journal of Optics*, Forthcoming, 2024 <br/>
+&nbsp; *Journal of Optics*, Accepted, 2024 <br/>
 
 
 - &nbsp; [__Miniature snapshot midinfrared spectrometer based on metal-insulator-metal metasurface__](https://iopscience.iop.org/article/10.1088/2040-8986/ad5359)<br/>
