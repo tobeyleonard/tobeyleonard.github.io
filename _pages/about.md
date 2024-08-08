@@ -95,7 +95,7 @@ Publications
 
 - &nbsp; [__Realization of Spinful Metaphotonic Stokes Skyrmions (Invited)__](../files/JO.26.09LT01.Realization of spinful metaphotonic stokes skyrmions.pdf)<br/>
 &nbsp; __Tianyue Li__, Mengjiao Liu, Chen Chen, Xingyi Li, Jiahao Hou, Xing Yang, Shuming Wang, Shining Zhu. <br/>
-&nbsp; *Journal of Optics*, Accepted, 2024 <br/>
+&nbsp; *Journal of Optics*, 26, 09LT01, 2024 <br/>
 
 
 - &nbsp; [__Miniature snapshot midinfrared spectrometer based on metal-insulator-metal metasurface__](https://iopscience.iop.org/article/10.1088/2040-8986/ad5359)<br/>
