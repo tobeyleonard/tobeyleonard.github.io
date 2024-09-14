@@ -34,12 +34,12 @@ Fundamental Research
 <br/>
 
 <div>
-<div style="font-size:15pt"><strong>Singularities of Light-Fields</strong></div>
+<div style="font-size:15pt"><strong>Singularities of Light Fields</strong></div>
   <hr/>
 </div>
 <div style="font-size:11pt ;  font-style:italic">
  <img   width="200" align="left"  hspace= 10px src="../images/图片1.jpg"/>
-<p align = "justify">The light-field is comprised of various physical properties, including wavelength, polarization, and phase. These parameters are subject to discontinuity, resulting in a cutoff point known as an optical singularity. Our research interests lie in two specific forms of optical singularities: the phase singularity carried by vortex fields and the polarization singularity arising from the momentum space. We aim to gain a deeper understanding of the physical mechanisms associated with these singularities within the light field. </p>
+<p align = "justify">The light field is comprised of various physical properties, including wavelength, polarization, and phase. These parameters are subject to discontinuity, resulting in a cutoff point known as an optical singularity. Our research interests lie in two specific forms of optical singularities: the phase singularity carried by vortex fields and the polarization singularity arising from the momentum space. We aim to gain a deeper understanding of the physical mechanisms associated with these singularities within the light field. </p>
 <p align = "justify">Collaborators: Prof. Din Ping Tsai (CityU, Hong Kong), Dr. Yun Chen (XJU, Xi'an), and Prof. Jian-Ping Ding (NJU, Nanjing) </p>
 </div>
 
