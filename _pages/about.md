@@ -28,7 +28,7 @@ Fundamental Research
 <div style="font-size:11pt ;  font-style:italic">
  <img   width="200" align="left"  hspace= 10px src="../images/图片1.jpg"/>
 <p align = "justify">The light-field is comprised of various physical properties, including wavelength, polarization, and phase. These parameters are subject to discontinuity, resulting in a cutoff point known as an optical singularity. Our research interests lie in two specific forms of optical singularities: the phase singularity carried by vortex fields and the polarization singularity arising from the momentum space. We aim to gain a deeper understanding of the physical mechanisms associated with these singularities within the light field. </p>
-<p align = "justify">Collaborators: Dr. Yun Chen (Xi'an Jiaotong Univ., Xi'an), Dr. Jinwen Wang (Xi'an Jiaotong Univ., Xi'an), and Prof. Jian-Ping Ding (Nanjing Univ., Nanjing) </p>
+<p align = "justify">Collaborators: Dr. Din Ping Tsai (CityU, Hong Kong), Dr. Yun Chen (Xi'an Jiaotong Univ., Xi'an), and Prof. Jian-Ping Ding (Nanjing Univ., Nanjing) </p>
 </div>
 
 
@@ -62,13 +62,13 @@ Derivative Applications
 <br/>
 
 <div>
-<div style="font-size:15pt"><strong>Advanced Optical transmission and endoscopy</strong></div>
+<div style="font-size:15pt"><strong>Advanced Optical communication and endoscopy</strong></div>
   <hr>
 </div>
 <div style="font-size:11pt ;  font-style:italic">
  <img width="200" align="left"  hspace= 10px  src="../images/图片3.jpg"/>
-<p align = "justify">Optical transmission plays an important role in communication and imaging. Although optical fiber possess the abilities of lossless and low cost, it is difficult to operate separately because of its small size and limited mode utilization. We have jointly developed some devices based on cross section of the end of fiber, which can adjust and control the fiber mode, further simplifying the size of devices after mode separation, and saving space costs for increasing communication channels and ultracompact imaging devices. </p>
-<p align = "justify">Collaborators: Prof. Fei Xu (Nanjing Univ., Nanjing) and his doctorial student Haotian Xu </p>
+<p align = "justify">Optical communication plays an important role in communication and imaging. Although optical fiber possess the abilities of lossless and low cost, it is difficult to operate separately because of its small size and limited mode utilization. We have jointly developed some devices based on cross section of the end of fiber, which can adjust and control the fiber mode, further simplifying the size of devices after mode separation, and saving space costs for increasing communication channels and ultracompact imaging devices. </p>
+<p align = "justify">Collaborators: Prof. Fei Xu, Dr. Yifeng Xiong, Mr. Haotian Xu (Nanjing Univ., Nanjing) </p>
 </div>
 <br/>
 
