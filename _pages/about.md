@@ -79,18 +79,30 @@ Publications
 
 <!-- <img width="175" align="left" src="../images/multigrid.jpg"/> -->
 
+- &nbsp; __Fiber integrating with metasurface for mode-ensuring separator__<br/>
+&nbsp; , Haotian Xu†, __Tianyue Li†__, Geze Gao†, Shaochen Fang†, Hanwen Liu, Haotian Ding, Xi Chen, Yifeng Xiong, Ye Chen, Shuming Wang, Fei Xu. <br/>
+&nbsp; *Forthcoming*, 2025 <br/>
+
+- &nbsp; __Miniaturized snapshot polarimetric stereoscopic imaging__<br/>
+&nbsp; , Boyan Fu, Xuxi Zhou, __Tianyue Li__, Hao Zhu, Zhen Liu, Shiyu Zheng, Yifan Zhou, Yiwan Yu, Xun Cao, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
+&nbsp; *Forthcoming*, 2025 <br/>
+
+- &nbsp; __Metasurface-assisted multimodal quantum imaging__<br/>
+&nbsp; Yifan Zhou, Xiaoshu Zhu, __Tianyue Li__, Zhou Zhou, Qianhui Bi, Jun Liu, Jian Chen, Boyan Fu, Juanzi He, Xinyang Feng, Xiaojing Feng, Xingyu Liu, Qianjin Wang, Shuming Wang, Zhenlin Wang, Cheng-Wei Qiu, Shining Zhu. <br/>
+&nbsp; *Forthcoming*, 2025 <br/>
+
 - &nbsp; __Configurable hybrid topological polycrystalline photonic integrated circuitry__<br/>
-&nbsp; __Tianyue Li#__, Mengjiao Liu#, Jin Qin#, Xing Yang, Jianzheng Ren, Yang Liu, Jiahao Hou, Hongchen Chu, Yun Lai, Shuming Wang, Jian-Hua Jiang, C. T. Chan, Shining Zhu. <br/>
+&nbsp; __Tianyue Li†__, Mengjiao Liu†, Jin Qin†, Xing Yang, Jianzheng Ren, Yang Liu, Jiahao Hou, Hongchen Chu, Yun Lai, Shuming Wang, Jian-Hua Jiang, C. T. Chan, Shining Zhu. <br/>
 &nbsp; *Forthcoming*, 2025 <br/>
 
 - &nbsp; __Ultrafast metaphotonics__<br/>
-&nbsp; __Tianyue Li#__, Haotian Xu#, Mingcheng Panmai#, Tianhua Shao, Geze Gao, Fei Xu, Guangwei Hu, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
+&nbsp; __Tianyue Li†__, Haotian Xu†, Mingcheng Panmai†, Tianhua Shao, Geze Gao, Fei Xu, Guangwei Hu, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp; *Ultrafast Science*, 4, 0074, 2024 <br/>
 
 
 - &nbsp; __Chip-scale metaphotonic singularities: topological, dynamical, and practical aspects__<br/>
-&nbsp; __Tianyue Li#__, Mengjiao Liu#, Jiahao Hou, Xing Yang, Shubo Wang, Shuming Wang, Din Ping Tsai, Shining Zhu, Zhenlin Wang. <br/>
-&nbsp; *Chip*, Forthcoming, 2024 <br/>
+&nbsp; __Tianyue Li†__, Mengjiao Liu†, Jiahao Hou, Xing Yang, Shubo Wang, Shuming Wang, Din Ping Tsai, Shining Zhu, Zhenlin Wang. <br/>
+&nbsp; *Chip*, in press, 2024 <br/>
 
 
 - &nbsp; [__Realization of Spinful Metaphotonic Stokes Skyrmions (Invited)__](../files/JO.26.09LT01.Realization of spinful metaphotonic stokes skyrmions.pdf)<br/>
@@ -104,7 +116,7 @@ Publications
 
 
 - &nbsp; [__Spin-selective tri-functional metasurfaces for deforming versatile non-diffractive beams along the optical trajectory__](../files/LPR.2024.2301372.Spin-Selective Trifunctional Metasurfaces for Deforming Versatile Nondiffractive Beams along the Optical Trajectory.pdf)<br/>
-&nbsp; __Tianyue Li#__, Yun Chen#, Boyan Fu#, Mengjiao Liu, Jinwen Wang, Hong Gao, Shuming Wang, Shining Zhu. <br/>
+&nbsp; __Tianyue Li†__, Yun Chen†, Boyan Fu†, Mengjiao Liu, Jinwen Wang, Hong Gao, Shuming Wang, Shining Zhu. <br/>
 &nbsp; *Laser & Photonics Reviews*, 2301372, 2024 <br/>
 
 
@@ -119,7 +131,7 @@ Publications
 
 
 - &nbsp; [__Polarization-dependent optical forces arising from Fano interference__](../files/AdvPhysRes.2023.2200048.Polarization‐Dependent Optical Forces Arising from Fano Interference.pdf)<br/>
-&nbsp; Yao Zhang#, __Tianyue Li# (equal contribution)__, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
+&nbsp; Yao Zhang†, __Tianyue Li† (equal contribution)__, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp; *Advanced Physics Research*, 2200048, 2023 <br/>
 
 
