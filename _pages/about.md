@@ -22,19 +22,6 @@ Fundamental Research
 ======
 
 <div>
-<div style="font-size:15pt"><strong>Singularities of Light-Fields</strong></div>
-  <hr/>
-</div>
-<div style="font-size:11pt ;  font-style:italic">
- <img   width="200" align="left"  hspace= 10px src="../images/图片1.jpg"/>
-<p align = "justify">The light-field is comprised of various physical properties, including wavelength, polarization, and phase. These parameters are subject to discontinuity, resulting in a cutoff point known as an optical singularity. Our research interests lie in two specific forms of optical singularities: the phase singularity carried by vortex fields and the polarization singularity arising from the momentum space. We aim to gain a deeper understanding of the physical mechanisms associated with these singularities within the light field. </p>
-<p align = "justify">Collaborators: Dr. Din Ping Tsai (CityU, Hong Kong), Dr. Yun Chen (Xi'an Jiaotong Univ., Xi'an), and Prof. Jian-Ping Ding (Nanjing Univ., Nanjing) </p>
-</div>
-
-
-<br/>
-
-<div>
 <div style="font-size:15pt"><strong>Singularities of Eigenstates</strong></div>
   <hr/>
 </div>
@@ -42,6 +29,18 @@ Fundamental Research
  <img width="200" align="left"   hspace= 10px src="../images/图片2.jpg"/>
 <p align = "justify">Photonic band is a typical eigenvalue in optical system. Singularity occurs at the degenerate points of more than two energy bands, also known as Dirac point. The eigenvalues around Dirac points enriches physical connotations, such as the accompanying quantum spin Hall effect and quantum valley Hall effect with topological properties. Meanwhile, the photonic structures existing in open or gain-loss systems will split in the complex plane, and its non-Hermitian Hamiltonian  has also aroused our interest, aiming to find the connections between these eigenvalues. </p>
 <p align = "justify">Collaborators: Prof. C. T. Chan (HKUST, Hong Kong), Prof. Jian-Hua Jiang (SIAR-USTC, Suzhou), Prof. Yun Lai (NJU, Nanjing) </p>
+</div>
+
+<br/>
+
+<div>
+<div style="font-size:15pt"><strong>Singularities of Light-Fields</strong></div>
+  <hr/>
+</div>
+<div style="font-size:11pt ;  font-style:italic">
+ <img   width="200" align="left"  hspace= 10px src="../images/图片1.jpg"/>
+<p align = "justify">The light-field is comprised of various physical properties, including wavelength, polarization, and phase. These parameters are subject to discontinuity, resulting in a cutoff point known as an optical singularity. Our research interests lie in two specific forms of optical singularities: the phase singularity carried by vortex fields and the polarization singularity arising from the momentum space. We aim to gain a deeper understanding of the physical mechanisms associated with these singularities within the light field. </p>
+<p align = "justify">Collaborators: Prof. Din Ping Tsai (CityU, Hong Kong), Dr. Yun Chen (XJU, Xi'an), and Prof. Jian-Ping Ding (NJU, Nanjing) </p>
 </div>
 
 <br/>
@@ -56,7 +55,7 @@ Derivative Applications
 <div style="font-size:11pt ;  font-style:italic">
  <img   width="200" align="left"  hspace= 10px src="../images/图片4.jpg"/>
 <p align = "justify">Optical forces can be generated along with the light-matter interaction. Thanks to the overlap between the microstructure science and optical micromanipulation, the planar optical tweezers we developed based on plasmonic devices and metasurfaces enable to confine light into diffraction-limit level, so as to control Rayleigh particles with the ultracompact size; On the other hand, with the development of micro-nano manufacturing, we show the micro-structural materials based on photon-momentum transfer, named metavehicles. Our further research concentrates on the development of integrated on-chip optical tweezers and the mechanism of microstructural resonance. </p>
-<p align = "justify">Collaborators: Prof. Baoli Yao (XIOPM, Xi'an), Dr. Xiaohao Xu (XIOPM, Xi'an), and Dr. Jack. J. Kingsley-Smith (King's College London, UK) </p>
+<p align = "justify">Collaborators: Prof. Baoli Yao (XIOPM, Xi'an), Dr. Xiaohao Xu (XIOPM, Xi'an), and Dr. Jack. J. Kingsley-Smith (KCL, UK) </p>
 </div>
 
 <br/>
@@ -68,7 +67,7 @@ Derivative Applications
 <div style="font-size:11pt ;  font-style:italic">
  <img width="200" align="left"  hspace= 10px  src="../images/图片3.jpg"/>
 <p align = "justify">Optical communication plays an important role in communication and imaging. Although optical fiber possess the abilities of lossless and low cost, it is difficult to operate separately because of its small size and limited mode utilization. We have jointly developed some devices based on cross section of the end of fiber, which can adjust and control the fiber mode, further simplifying the size of devices after mode separation, and saving space costs for increasing communication channels and ultracompact imaging devices. </p>
-<p align = "justify">Collaborators: Prof. Fei Xu, Dr. Yifeng Xiong, Mr. Haotian Xu (Nanjing Univ., Nanjing) </p>
+<p align = "justify">Collaborators: Prof. Fei Xu, Dr. Yifeng Xiong, Mr. Haotian Xu (NJU, Nanjing) </p>
 </div>
 <br/>
 
