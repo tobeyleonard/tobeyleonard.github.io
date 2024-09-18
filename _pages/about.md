@@ -94,7 +94,7 @@ Publications
 &nbsp; __Tianyue Li†__, Mengjiao Liu†, Jin Qin†, Xing Yang, Jianzheng Ren, Yang Liu, Jiahao Hou, Hongchen Chu, Yun Lai, Shuming Wang, Jian-Hua Jiang, C. T. Chan, Shining Zhu. <br/>
 &nbsp; *Forthcoming*, 2025 <br/>
 
-- &nbsp; __Ultrafast metaphotonics__<br/>
+- &nbsp; [__Ultrafast metaphotonics__](https://spj.science.org/doi/10.34133/ultrafastscience.0074)<br/>
 &nbsp; __Tianyue Li†__, Haotian Xu†, Mingcheng Panmai†, Tianhua Shao, Geze Gao, Fei Xu, Guangwei Hu, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp; *Ultrafast Science*, 4, 0074, 2024 <br/>
 
