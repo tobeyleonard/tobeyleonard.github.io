@@ -267,7 +267,7 @@ employed as a structural prototyping tool that facilitates model design and fabr
 
 Contact
 ======
-__E-mail:__ leos4a@163.com; Tianyueli@smail.nju.edu.cn.
+__E-mail:__ leos4a@163.com.
 <br/>
 <br/>
 __Address:__ Room A-411, Cyrus Tang Building, School of Physics, Nanjing University.
