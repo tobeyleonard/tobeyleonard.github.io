@@ -79,11 +79,11 @@ Publications
 <!-- <img width="175" align="left" src="../images/multigrid.jpg"/> -->
 
 - &nbsp; __Fiber integrating with metasurface for mode-ensuring separator__<br/>
-&nbsp; , Haotian Xu†, __Tianyue Li†__, Geze Gao†, Shaochen Fang†, Hanwen Liu, Haotian Ding, Xi Chen, Yifeng Xiong, Ye Chen, Shuming Wang, Fei Xu. <br/>
+&nbsp; Haotian Xu†, __Tianyue Li†__, Geze Gao†, Shaochen Fang†, Hanwen Liu, Haotian Ding, Xi Chen, Yifeng Xiong, Ye Chen, Shuming Wang, Fei Xu. <br/>
 &nbsp; *Forthcoming*, 2025 <br/>
 
 - &nbsp; __Miniaturized snapshot polarimetric stereoscopic imaging__<br/>
-&nbsp; , Boyan Fu, Xuxi Zhou, __Tianyue Li__, Hao Zhu, Zhen Liu, Shiyu Zheng, Yifan Zhou, Yiwan Yu, Xun Cao, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
+&nbsp; Boyan Fu, Xuxi Zhou, __Tianyue Li__, Hao Zhu, Zhen Liu, Shiyu Zheng, Yifan Zhou, Yiwan Yu, Xun Cao, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp; *Forthcoming*, 2025 <br/>
 
 - &nbsp; __Metasurface-assisted multimodal quantum imaging__<br/>
