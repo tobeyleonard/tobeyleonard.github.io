@@ -99,9 +99,9 @@ Publications
 &nbsp; *Ultrafast Science*, 4, 0074, 2024 <br/>
 
 
-- &nbsp; [__Chip-scale metaphotonic singularities: topological, dynamical, and practical aspects__ (https://www.sciencedirect.com/science/article/pii/S2709472324000273?via%3Dihub)) <br/>
+- &nbsp; [__Chip-scale metaphotonic singularities: topological, dynamical, and practical aspects__(https://www.sciencedirect.com/science/article/pii/S2709472324000273?via%3Dihub)) <br/>
 &nbsp; __Tianyue Li†__, Mengjiao Liu†, Jiahao Hou, Xing Yang, Shubo Wang, Shuming Wang, Shining Zhu, Din Ping Tsai, Zhenlin Wang. <br/>
-&nbsp; *Chip*, in press, 2024 <br/>
+&nbsp; *Chip*, 3, 100109, 2024 <br/>
 
 
 - &nbsp; [__Realization of Spinful Metaphotonic Stokes Skyrmions (Invited)__](../files/JO.26.09LT01.Realization of spinful metaphotonic stokes skyrmions.pdf)<br/>
