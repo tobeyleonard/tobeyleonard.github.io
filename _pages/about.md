@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-Hi! I am employed with Nanjing University, China, currently majoring in Optics and Photonics at [Dielectric Superlattice Lab.](http://slab.nju.edu.cn/)  under the supervision of Prof. [Shining Zhu](https://physics.nju.edu.cn/sz/jcrc/zgkxyys/20210111/i184703.html), Prof. [Zhenlin Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45274.html) and Prof. [Shuming Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html).
+Hi! I am employed with Nanjing University, China, currently majoring in Optics and Photonics at [Dielectric Superlattice Lab.](http://slab.nju.edu.cn/)  under the supervision of Prof. [Shining Zhu](https://physics.nju.edu.cn/sz/jcrc/zgkxyys/20210111/i184703.html), Prof. [Zhenlin Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45274.html) and Prof. [Shuming Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html). During my academic journey, I awarded the National Scholarship of China for three times, covering the undergraduate, master's, and doctoral periods.
 
 
 <p align = "justify">My research centers around Nanophotonics, with a focus on investigating the physical mechanisms and optical singularities associated with light-matter interaction. I strive to contribute to the advancement of this field by exploring new frontiers in light-field manipulation, topological photonics, and optomechanics. Additionally, I am actively engaged in the development of versatile nano-devices for on-chip and fiber-based platforms, including applications in optical tweezers, communication, and imaging. </p>
