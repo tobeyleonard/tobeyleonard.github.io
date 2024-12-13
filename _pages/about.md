@@ -77,20 +77,28 @@ Publications
 
 <!-- <img width="175" align="left" src="../images/multigrid.jpg"/> -->
 
+- &nbsp; __Configurable hybrid topological photonic polycrystal based on synthetic hybrid dimension__<br/>
+&nbsp; __Tianyue Li†__, Mengjiao Liu†, Jin Qin†, Jiahao Hou, Jianzheng Ren, Yang Liu, Xing Yang, Hongchen Chu, Yun Lai, Shuming Wang, Jian-Hua Jiang, C. T. Chan, Shining Zhu. <br/>
+&nbsp; *Forthcoming*, 2025 <br/>
+
+- &nbsp; [__On-demand Quick Metasurface Design with Neighborhood Attention Transformer__](https://arxiv.org/abs/2412.08405)<br/>
+&nbsp; Zhi Sun†, __Tianyue Li†__, Shiqi Kuang†, Xue Yun, Minru He, Boyan Fu, Yunlai Fu, Tianyu Zhao, Shaowei Wang, Yansheng Liang, Shuming Wang, Ming Lei. <br/>
+&nbsp; *Arxiv*, 2412.08405, 2025 <br/>
+
 - &nbsp; __Fiber integrating with metasurface for mode-ensuring separator__<br/>
 &nbsp; Haotian Xu†, __Tianyue Li†__, Geze Gao†, Shaochen Fang†, Hanwen Liu, Haotian Ding, Xi Chen, Yifeng Xiong, Ye Chen, Shuming Wang, Fei Xu. <br/>
 &nbsp; *Forthcoming*, 2025 <br/>
 
 - &nbsp; __Miniaturized snapshot polarimetric stereoscopic imaging__<br/>
-&nbsp; Boyan Fu, Xuxi Zhou, __Tianyue Li__, Hao Zhu, Zhen Liu, Shiyu Zheng, Yifan Zhou, Yiwan Yu, Xun Cao, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
+&nbsp; Boyan Fu, Xuxi Zhou, __Tianyue Li†__, Hao Zhu, Zhen Liu, Shiyu Zheng, Yifan Zhou, Yiwan Yu, Xun Cao, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp; *Forthcoming*, 2025 <br/>
+
+- &nbsp; __Harnessing optical forces with advanced nanophotonic structures: principles and applications (Invited)__<br/>
+&nbsp; Geze Gao†, Tianhua Shao†, __Tianyue Li*__, Shuming Wang*. <br/>
+&nbsp; *Discover NANO*, 2025 <br/>
 
 - &nbsp; __Metasurface-assisted multimodal quantum imaging__<br/>
 &nbsp; Yifan Zhou, Xiaoshu Zhu, __Tianyue Li__, Zhou Zhou, Qianhui Bi, Jun Liu, Jian Chen, Boyan Fu, Juanzi He, Xinyang Feng, Xiaojing Feng, Xingyu Liu, Qianjin Wang, Shuming Wang, Zhenlin Wang, Cheng-Wei Qiu, Shining Zhu. <br/>
-&nbsp; *Forthcoming*, 2025 <br/>
-
-- &nbsp; __Configurable hybrid topological polycrystalline photonic integrated circuitry__<br/>
-&nbsp; __Tianyue Li†__, Mengjiao Liu†, Jin Qin†, Xing Yang, Jianzheng Ren, Yang Liu, Jiahao Hou, Hongchen Chu, Yun Lai, Shuming Wang, Jian-Hua Jiang, C. T. Chan, Shining Zhu. <br/>
 &nbsp; *Forthcoming*, 2025 <br/>
 
 - &nbsp; [__Ultrafast metaphotonics__](https://spj.science.org/doi/10.34133/ultrafastscience.0074)<br/>
