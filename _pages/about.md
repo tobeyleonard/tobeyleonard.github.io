@@ -95,7 +95,7 @@ Publications
 
 - &nbsp; __Harnessing optical forces with advanced nanophotonic structures: principles and applications (Invited)__<br/>
 &nbsp; Geze Gao†, Tianhua Shao†, __Tianyue Li*__, Shuming Wang*. <br/>
-&nbsp; *Discover NANO*, 2025 <br/>
+&nbsp; *Discover Nano*, 2025 <br/>
 
 - &nbsp; __Metasurface-assisted multimodal quantum imaging__<br/>
 &nbsp; Yifan Zhou, Xiaoshu Zhu, __Tianyue Li__, Zhou Zhou, Qianhui Bi, Jun Liu, Jian Chen, Boyan Fu, Juanzi He, Xinyang Feng, Xiaojing Feng, Xingyu Liu, Qianjin Wang, Shuming Wang, Zhenlin Wang, Cheng-Wei Qiu, Shining Zhu. <br/>
@@ -108,7 +108,7 @@ Publications
 
 - &nbsp; [__Chip-scale metaphotonic singularities: topological, dynamical, and practical aspects__](https://www.sciencedirect.com/science/article/pii/S2709472324000273?via%3Dihub) <br/>
 &nbsp; __Tianyue Li†__, Mengjiao Liu†, Jiahao Hou, Xing Yang, Shubo Wang, Shuming Wang, Shining Zhu, Din Ping Tsai, Zhenlin Wang. <br/>
-&nbsp; *Chip*, 3, 100109, 2024 <br/>
+&nbsp; *Chip*, 3 (4), 100109, 2024 <br/>
 
 
 - &nbsp; [__Realization of Spinful Metaphotonic Stokes Skyrmions (Invited)__](../files/JO.26.09LT01.Realization of spinful metaphotonic stokes skyrmions.pdf)<br/>
