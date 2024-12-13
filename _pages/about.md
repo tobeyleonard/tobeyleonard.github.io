@@ -90,7 +90,7 @@ Publications
 &nbsp; *Forthcoming*, 2025 <br/>
 
 - &nbsp; __Miniaturized snapshot polarimetric stereoscopic imaging__<br/>
-&nbsp; Boyan Fu, Xuxi Zhou, __Tianyue Li†__, Hao Zhu, Zhen Liu, Shiyu Zheng, Yifan Zhou, Yiwan Yu, Xun Cao, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
+&nbsp; Boyan Fu†, Xuxi Zhou†, __Tianyue Li†__, Hao Zhu, Zhen Liu, Shiyu Zheng, Yifan Zhou, Yiwan Yu, Xun Cao, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp; *Forthcoming*, 2025 <br/>
 
 - &nbsp; __Harnessing optical forces with advanced nanophotonic structures: principles and applications (Invited)__<br/>
