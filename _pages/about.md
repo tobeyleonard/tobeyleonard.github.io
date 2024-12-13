@@ -77,7 +77,7 @@ Publications
 
 <!-- <img width="175" align="left" src="../images/multigrid.jpg"/> -->
 
-- &nbsp; __Configurable hybrid topological photonic polycrystal based on synthetic hybrid dimension__<br/>
+- &nbsp; __Configurable topological photonic polycrystal based on synthetic hybrid dimension__<br/>
 &nbsp; __Tianyue Li†__, Mengjiao Liu†, Jin Qin†, Jiahao Hou, Jianzheng Ren, Yang Liu, Xing Yang, Hongchen Chu, Yun Lai, Shuming Wang, Jian-Hua Jiang, C. T. Chan, Shining Zhu. <br/>
 &nbsp; *Forthcoming*, 2025 <br/>
 
@@ -111,7 +111,7 @@ Publications
 &nbsp; *Chip*, 3 (4), 100109, 2024 <br/>
 
 
-- &nbsp; [__Realization of Spinful Metaphotonic Stokes Skyrmions (Invited)__](../files/JO.26.09LT01.Realization of spinful metaphotonic stokes skyrmions.pdf)<br/>
+- &nbsp; [__Realization of spinful metaphotonic stokes skyrmions (Invited)__](../files/JO.26.09LT01.Realization of spinful metaphotonic stokes skyrmions.pdf)<br/>
 &nbsp; __Tianyue Li__, Mengjiao Liu, Chen Chen, Xingyi Li, Jiahao Hou, Xing Yang, Shuming Wang, Shining Zhu. <br/>
 &nbsp; *Journal of Optics*, 26, 09LT01, 2024 <br/>
 
