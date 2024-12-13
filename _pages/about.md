@@ -85,7 +85,7 @@ Publications
 &nbsp; Zhi Sun†, __Tianyue Li†__, Shiqi Kuang†, Xue Yun, Minru He, Boyan Fu, Yunlai Fu, Tianyu Zhao, Shaowei Wang, Yansheng Liang, Shuming Wang, Ming Lei. <br/>
 &nbsp; *Arxiv*, 2412.08405, 2025 <br/>
 
-- &nbsp; __Fiber integrating with metasurface for mode-ensuring separator__<br/>
+- &nbsp; __Metasurface-integrated pattern-preserved fiber mode demultiplexer__<br/>
 &nbsp; Haotian Xu†, __Tianyue Li†__, Geze Gao†, Shaochen Fang†, Hanwen Liu, Haotian Ding, Xi Chen, Yifeng Xiong, Ye Chen, Shuming Wang, Fei Xu. <br/>
 &nbsp; *Forthcoming*, 2025 <br/>
 
