@@ -94,7 +94,7 @@ Publications
 &nbsp; *Forthcoming*, 2025 <br/>
 
 - &nbsp; __Harnessing optical forces with advanced nanophotonic structures: principles and applications (Invited)__<br/>
-&nbsp; Geze Gao†, Tianhua Shao†, __Tianyue Li\*__, Shuming Wang*. <br/>
+&nbsp; Geze Gao†, Tianhua Shao†, __Tianyue Li\*__, Shuming Wang\*. <br/>
 &nbsp; *Discover Nano*, 2025 <br/>
 
 - &nbsp; __Metasurface-assisted multimodal quantum imaging__<br/>
