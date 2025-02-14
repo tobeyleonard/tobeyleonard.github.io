@@ -81,16 +81,16 @@ Publications
 &nbsp; __Tianyue Li†__, Mengjiao Liu†, Jin Qin†, Jiahao Hou, Jianzheng Ren, Yang Liu, Xing Yang, Hongchen Chu, Yun Lai, Shuming Wang, Jian-Hua Jiang, C. T. Chan, Shining Zhu. <br/>
 &nbsp; *Forthcoming*, 2025 <br/>
 
+- &nbsp; __Miniaturized snapshot polarimetric stereoscopic imaging__<br/>
+&nbsp; Boyan Fu†, Xuxi Zhou†, __Tianyue Li†__, Hao Zhu, Zhen Liu, Shiyu Zheng, Yifan Zhou, Yiwan Yu, Xun Cao, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
+&nbsp; *Optica*, in press, 2025 <br/>
+
 - &nbsp; [__On-demand quick metasurface design with neighborhood attention transformer__](https://arxiv.org/abs/2412.08405)<br/>
 &nbsp; Zhi Sun†, __Tianyue Li†__, Shiqi Kuang†, Xue Yun, Minru He, Boyan Fu, Yunlai Fu, Tianyu Zhao, Shaowei Wang, Yansheng Liang, Shuming Wang, Ming Lei. <br/>
 &nbsp; *Arxiv*, 2412.08405, 2025 <br/>
 
-- &nbsp; __Metasurface-integrated pattern-preserved fiber mode demultiplexer__<br/>
+- &nbsp; __Metasurface-integrated pattern-preserved fiber mode separator__<br/>
 &nbsp; Haotian Xu†, __Tianyue Li†__, Geze Gao†, Shaochen Fang†, Hanwen Liu, Haotian Ding, Xi Chen, Yifeng Xiong, Ye Chen, Shuming Wang, Fei Xu. <br/>
-&nbsp; *Forthcoming*, 2025 <br/>
-
-- &nbsp; __Miniaturized snapshot polarimetric stereoscopic imaging__<br/>
-&nbsp; Boyan Fu†, Xuxi Zhou†, __Tianyue Li†__, Hao Zhu, Zhen Liu, Shiyu Zheng, Yifan Zhou, Yiwan Yu, Xun Cao, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp; *Forthcoming*, 2025 <br/>
 
 - &nbsp; __Harnessing optical forces with advanced nanophotonic structures: principles and applications (Invited)__<br/>
