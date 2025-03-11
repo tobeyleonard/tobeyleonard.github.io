@@ -83,7 +83,7 @@ Publications
 
 - &nbsp; [__Miniaturized high-efficiency snapshot polarimetric stereoscopic imaging__](https://doi.org/10.1364/OPTICA.549864)<br/>
 &nbsp; Boyan Fu†, Xuxi Zhou†, __Tianyue Li†__, Hao Zhu, Zhen Liu, Shiyu Zheng, Yifan Zhou, Yiwan Yu, Xun Cao, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp; *Optica*, in press, 2025 <br/>
+&nbsp; *Optica*, 12 (3), 391-398, 2025 <br/>
 
 - &nbsp; [__On-demand quick metasurface design with neighborhood attention transformer__](https://arxiv.org/abs/2412.08405)<br/>
 &nbsp; Zhi Sun†, __Tianyue Li†__, Shiqi Kuang†, Xue Yun, Minru He, Boyan Fu, Yunlai Fu, Tianyu Zhao, Shaowei Wang, Yansheng Liang, Shuming Wang, Ming Lei. <br/>
