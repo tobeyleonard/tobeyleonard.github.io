@@ -10,15 +10,12 @@ redirect_from:
 
 About me
 ======
-Hi! I am employed with Nanjing University, China, currently majoring in Optics and Photonics at [Dielectric Superlattice Lab.](http://slab.nju.edu.cn/)  under the supervision of Prof. [Shining Zhu](https://physics.nju.edu.cn/sz/jcrc/zgkxyys/20210111/i184703.html), Prof. [Zhenlin Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45274.html) and Prof. [Shuming Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html). During my academic journey, I achieved the 'Grand Slam' of national scholarships, being awarded this prestigious honor during my undergraduate, master's, and doctoral periods.
+Hi! I am employed with Nanjing University, China, currently majoring in Optics and Photonics at [Dielectric Superlattice Lab.](http://slab.nju.edu.cn/)  under the supervision of Prof. [Shining Zhu](https://physics.nju.edu.cn/sz/jcrc/zgkxyys/20210111/i184703.html), Prof. [Zhenlin Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45274.html) and Prof. [Shuming Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html). During my academic journey, I achieved the 'Grand Slam' of national scholarships, being awarded this prestigious honor during my undergraduate, master's, and doctoral periods. Update: I will soon be joining the Department of Physics and the Institute of Advanced Study at the Hong Kong University of Science and Technology (HKUST) as a Research Fellow in Prof. [Che Ting Chan](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=che-ting-chan-phchan)’s group.
 
 <p align = "justify">My research centers around Nanophotonics, with a focus on investigating the physical mechanisms and optical singularities associated with light-matter interaction. I strive to contribute to the advancement of this field by exploring new frontiers in light-field manipulation, topological photonics, and optomechanics. Additionally, I am actively engaged in the development of versatile nano-devices for on-chip and fiber-based platforms, including applications in optical tweezers, optical communication, photonic waveguiding circuits, and imaging. </p>
 
 <br/>
 
-<p align = "justify">News! I will soon be joining the Department of Physics and the Institute of Advanced Study at the Hong Kong University of Science and Technology (HKUST) as a Research Fellow in Prof. [Che Ting Chan](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=che-ting-chan-phchan)’s group.
-
-<br/>
 
 Fundamental Research
 ======
