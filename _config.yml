@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Nanjing, China"
+locale                   : "Hong Kong"
 title                    : "Tianyue Li"
 title_separator          : "-"
 name                     : &name "Tianyue Li"
-description              : &description "Homepage of Tianyue Li, University of Nanjing"
+description              : &description "Homepage of Tianyue Li, Hong Kong University of Science and Technology"
 url                      : https://tobeyleonard.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tobeyleonardtobeyleonard.github.io"
@@ -84,8 +84,8 @@ author:
   avatar           : "touxiang.jpg"
   bio              :
 #   "Undergrad @UofT <br/>
-                      "Tobey Leonard <br/> Ph. D @NJU "
-  location         : "Gulou, NJ"
+                      "Tobey Leonard <br/> Research fellow@HKUST "
+  location         : "Clear Water Bay, Kowloon"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=9E7qtmMAAAAJ&hl=en"
