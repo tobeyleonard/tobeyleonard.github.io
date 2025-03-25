@@ -77,9 +77,9 @@ Publications
 
 <!-- <img width="175" align="left" src="../images/multigrid.jpg"/> -->
 
-- &nbsp; __Configurable topological photonic polycrystal based on synthetic hybrid dimension__<br/>
+- &nbsp; [__Configurable topological photonic polycrystal based on synthetic hybrid dimension__](https://doi.org/10.1093/nsr/nwaf107)<br/>
 &nbsp; __Tianyue Li†__, Mengjiao Liu†, Jin Qin†, Jiahao Hou, Jianzheng Ren, Yang Liu, Xing Yang, Hongchen Chu, Yun Lai, Shuming Wang, Jian-Hua Jiang, C. T. Chan, Shining Zhu. <br/>
-&nbsp; *National Science Review*, in press, 2025 <br/>
+&nbsp; *National Science Review*, nwaf107, 2025 <br/>
 
 - &nbsp; [__Miniaturized high-efficiency snapshot polarimetric stereoscopic imaging__](https://doi.org/10.1364/OPTICA.549864)<br/>
 &nbsp; Boyan Fu†, Xuxi Zhou†, __Tianyue Li†__, Hao Zhu, Zhen Liu, Shiyu Zheng, Yifan Zhou, Yiwan Yu, Xun Cao, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
