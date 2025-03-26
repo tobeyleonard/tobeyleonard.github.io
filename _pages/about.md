@@ -77,7 +77,7 @@ Publications
 
 <!-- <img width="175" align="left" src="../images/multigrid.jpg"/> -->
 
-- &nbsp; [__Configurable topological photonic polycrystal based on synthetic hybrid dimension__](https://doi.org/10.1093/nsr/nwaf107)<br/>
+- &nbsp; [__Configurable topological photonic polycrystal based on synthetic hybrid dimension__](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf107/8092649?searchresult=1)<br/>
 &nbsp; __Tianyue Li†__, Mengjiao Liu†, Jin Qin†, Jiahao Hou, Jianzheng Ren, Yang Liu, Xing Yang, Hongchen Chu, Yun Lai, Shuming Wang, Jian-Hua Jiang, C. T. Chan, Shining Zhu. <br/>
 &nbsp; *National Science Review*, nwaf107, 2025 <br/>
 
