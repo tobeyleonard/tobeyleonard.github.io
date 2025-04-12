@@ -90,7 +90,7 @@ Publications
 &nbsp; *Arxiv*, 2412.08405, 2025 <br/>
 
 - &nbsp; [__Configurable Optical Dirac Cavity Based on Topological Metasurfaces (Invited)__](https://www.opticsjournal.net/Articles/OJfaf9bd22b5f1d178/Abstract)<br/>
-&nbsp; Huiying Liang, Jiahao Hou, __Tianyue Li*__, Shuming Wang. <br/>
+&nbsp; Huiying Liang, Jiahao Hou, __Tianyue Li\*__, Shuming Wang\*. <br/>
 &nbsp; *Acta Optica Sinica (Online)*, 2(7): 0709001, 2025 <br/>
 
 - &nbsp; __Metasurface-integrated pattern-preserved fiber mode separator__<br/>
