@@ -89,17 +89,21 @@ Publications
 &nbsp; Zhi Sun†, __Tianyue Li†__, Shiqi Kuang†, Xue Yun, Minru He, Boyan Fu, Yunlai Fu, Tianyu Zhao, Shaowei Wang, Yansheng Liang, Shuming Wang, Ming Lei. <br/>
 &nbsp; *Arxiv*, 2412.08405, 2025 <br/>
 
+- &nbsp; [__Configurable Optical Dirac Cavity Based on Topological Metasurfaces (Invited)__](https://www.opticsjournal.net/Articles/OJfaf9bd22b5f1d178/Abstract)<br/>
+&nbsp; Huiying Liang, Jiahao Hou, __Tianyue Li*__, Shuming Wang. <br/>
+&nbsp; *Acta Optica Sinica (Online)*, 2(7): 0709001, 2025 <br/>
+
 - &nbsp; __Metasurface-integrated pattern-preserved fiber mode separator__<br/>
 &nbsp; Haotian Xu†, __Tianyue Li†__, Geze Gao†, Shaochen Fang†, Hanwen Liu, Haotian Ding, Xi Chen, Yifeng Xiong, Ye Chen, Shuming Wang, Fei Xu. <br/>
 &nbsp; *Forthcoming*, 2025 <br/>
 
 - &nbsp; __Harnessing optical forces with advanced nanophotonic structures: principles and applications (Invited)__<br/>
 &nbsp; Geze Gao†, Tianhua Shao†, __Tianyue Li\*__, Shuming Wang\*. <br/>
-&nbsp; *Discover Nano*, 2025 <br/>
+&nbsp; *Discover Nano*, in press, 2025 <br/>
 
 - &nbsp; __Metasurface-assisted multimodal quantum imaging__<br/>
 &nbsp; Yifan Zhou, Xiaoshu Zhu, __Tianyue Li__, Zhou Zhou, Qianhui Bi, Jun Liu, Jian Chen, Boyan Fu, Juanzi He, Xinyang Feng, Xiaojing Feng, Xingyu Liu, Qianjin Wang, Shuming Wang, Zhenlin Wang, Cheng-Wei Qiu, Shining Zhu. <br/>
-&nbsp; *Forthcoming*, 2025 <br/>
+&nbsp; *PNAS*, in press, 2025 <br/>
 
 - &nbsp; [__Ultrafast metaphotonics__](https://spj.science.org/doi/10.34133/ultrafastscience.0074)<br/>
 &nbsp; __Tianyue Li†__, Haotian Xu†, Mingcheng Panmai†, Tianhua Shao, Geze Gao, Fei Xu, Guangwei Hu, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
