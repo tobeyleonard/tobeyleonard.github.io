@@ -101,9 +101,9 @@ Publications
 &nbsp; Geze Gao†, Tianhua Shao†, __Tianyue Li\*__, Shuming Wang\*. <br/>
 &nbsp; *Discover Nano*, in press, 2025 <br/>
 
-- &nbsp; __Metasurface-assisted multimodal quantum imaging__<br/>
+- &nbsp; [__Metasurface-assisted multimodal quantum imaging__](https://www.pnas.org/doi/10.1073/pnas.2500760122#tab-contributors)<br/>
 &nbsp; Yifan Zhou, Xiaoshu Zhu, __Tianyue Li__, Zhou Zhou, Qianhui Bi, Jun Liu, Jian Chen, Boyan Fu, Juanzi He, Xinyang Feng, Xiaojing Feng, Xingyu Liu, Qianjin Wang, Shuming Wang, Zhenlin Wang, Cheng-Wei Qiu, Shining Zhu. <br/>
-&nbsp; *PNAS*, in press, 2025 <br/>
+&nbsp; *PNAS*, 122 (18), e2500760122, 2025 <br/>
 
 - &nbsp; [__Ultrafast metaphotonics__](https://spj.science.org/doi/10.34133/ultrafastscience.0074)<br/>
 &nbsp; __Tianyue Li†__, Haotian Xu†, Mingcheng Panmai†, Tianhua Shao, Geze Gao, Fei Xu, Guangwei Hu, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
