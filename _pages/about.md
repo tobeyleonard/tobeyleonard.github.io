@@ -95,7 +95,7 @@ Publications
 
 - &nbsp; __Metasurface-integrated pattern-preserved fiber mode separator__<br/>
 &nbsp; Haotian Xu†, __Tianyue Li†__, Geze Gao†, Shaochen Fang†, Hanwen Liu, Haotian Ding, Xi Chen, Yifeng Xiong, Ye Chen, Shuming Wang, Fei Xu. <br/>
-&nbsp; *Forthcoming*, 2025 <br/>
+&nbsp; *Advanced Functional Materials*, in press, 2025 <br/>
 
 - &nbsp; __Harnessing optical forces with advanced nanophotonic structures: principles and applications (Invited)__<br/>
 &nbsp; Geze Gao†, Tianhua Shao†, __Tianyue Li\*__, Shuming Wang\*. <br/>
