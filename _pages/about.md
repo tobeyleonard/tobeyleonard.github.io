@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-Hi! I am employed with Nanjing University, China, currently majoring in Optics and Photonics at [Dielectric Superlattice Lab.](http://slab.nju.edu.cn/)  under the supervision of Prof. [Shining Zhu](https://physics.nju.edu.cn/sz/jcrc/zgkxyys/20210111/i184703.html), Prof. [Zhenlin Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45274.html) and Prof. [Shuming Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html). During my academic journey, I achieved the 'Grand Slam' of national scholarships, being awarded this prestigious honor during my undergraduate, master's, and doctoral periods. Update: I will soon be joining the Department of Physics and the Institute of Advanced Study at the Hong Kong University of Science and Technology (HKUST) as a Research Fellow in Prof. [Che Ting Chan](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=che-ting-chan-phchan)’s group.
+Hi! I am employed with the Department of Physics, Institute of Advanced Study at the Hong Kong University of Science and Technology (HKUST) as a Research Fellow in Prof. [Che Ting Chan](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=che-ting-chan-phchan)’s group.
 
 <p align = "justify">My research centers around Nanophotonics, with a focus on investigating the physical mechanisms and optical singularities associated with light-matter interaction. I strive to contribute to the advancement of this field by exploring new frontiers in light-field manipulation, topological photonics, and optomechanics. Additionally, I am actively engaged in the development of versatile nano-devices for on-chip and fiber-based platforms, including applications in optical tweezers, optical communication, photonic waveguiding circuits, and imaging. </p>
 
@@ -85,10 +85,6 @@ Publications
 &nbsp; Boyan Fu†, Xuxi Zhou†, __Tianyue Li†__, Hao Zhu, Zhen Liu, Shiyu Zheng, Yifan Zhou, Yiwan Yu, Xun Cao, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp; *Optica*, 12 (3), 391-398, 2025 <br/>
 
-- &nbsp; [__On-demand quick metasurface design with neighborhood attention transformer__](https://arxiv.org/abs/2412.08405)<br/>
-&nbsp; Zhi Sun†, __Tianyue Li†__, Shiqi Kuang†, Xue Yun, Minru He, Boyan Fu, Yunlai Fu, Tianyu Zhao, Shaowei Wang, Yansheng Liang, Shuming Wang, Ming Lei. <br/>
-&nbsp; *Arxiv*, 2412.08405, 2025 <br/>
-
 - &nbsp; [__Configurable Optical Dirac Cavity Based on Topological Metasurfaces (Invited)__](https://www.opticsjournal.net/Articles/OJfaf9bd22b5f1d178/Abstract)<br/>
 &nbsp; Huiying Liang, Jiahao Hou, __Tianyue Li\*__, Shuming Wang\*. <br/>
 &nbsp; *Acta Optica Sinica (Online)*, 2(7): 0709001, 2025 <br/>
@@ -97,9 +93,9 @@ Publications
 &nbsp; Haotian Xu†, __Tianyue Li†__, Geze Gao†, Shaochen Fang†, Hanwen Liu, Haotian Ding, Xi Chen, Yifeng Xiong, Ye Chen, Shuming Wang, Fei Xu. <br/>
 &nbsp; *Advanced Functional Materials*, in press, 2025 <br/>
 
-- &nbsp; __Harnessing optical forces with advanced nanophotonic structures: principles and applications (Invited)__<br/>
+- &nbsp; [__Harnessing optical forces with advanced nanophotonic structures: principles and applications (Invited)__](https://link.springer.com/article/10.1186/s11671-025-04252-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250503&utm_content=10.1186/s11671-025-04252-4)<br/>
 &nbsp; Geze Gao†, Tianhua Shao†, __Tianyue Li\*__, Shuming Wang\*. <br/>
-&nbsp; *Discover Nano*, in press, 2025 <br/>
+&nbsp; *Discover Nano*, 20, 76, 2025 <br/>
 
 - &nbsp; [__Metasurface-assisted multimodal quantum imaging__](https://www.pnas.org/doi/10.1073/pnas.2500760122#tab-contributors)<br/>
 &nbsp; Yifan Zhou, Xiaoshu Zhu, __Tianyue Li__, Zhou Zhou, Qianhui Bi, Jun Liu, Jian Chen, Boyan Fu, Juanzi He, Xinyang Feng, Xiaojing Feng, Xingyu Liu, Qianjin Wang, Shuming Wang, Zhenlin Wang, Cheng-Wei Qiu, Shining Zhu. <br/>
@@ -129,6 +125,9 @@ Publications
 &nbsp; __Tianyue Li†__, Yun Chen†, Boyan Fu†, Mengjiao Liu, Jinwen Wang, Hong Gao, Shuming Wang, Shining Zhu. <br/>
 &nbsp; *Laser & Photonics Reviews*, 2301372, 2024 <br/>
 
+- &nbsp; [__On-demand quick metasurface design with neighborhood attention transformer__](https://arxiv.org/abs/2412.08405)<br/>
+&nbsp; Zhi Sun†, __Tianyue Li†__, Shiqi Kuang†, Xue Yun, Minru He, Boyan Fu, Yunlai Fu, Tianyu Zhao, Shaowei Wang, Yansheng Liang, Shuming Wang, Ming Lei. <br/>
+&nbsp; *Arxiv*, 2412.08405, 2024 <br/>
 
 - &nbsp; [__Metasurfaces empowered optical micromanipulation (on the cover)__](../files/超构表面赋能光学微操控技术.pdf)<br/>
 &nbsp; Xiaohao Xu, Wenyu Gao, __Tianyue Li__, Tianhua Shao, Xingyi Li, Yuan Zhou, Geze Gao, Guoxi Wang, Shaohui Yan, Shuming Wang, Baoli Yao. <br/>
