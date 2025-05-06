@@ -81,6 +81,12 @@ Publications
 &nbsp; __Tianyue Li†__, Mengjiao Liu†, Jin Qin†, Jiahao Hou, Jianzheng Ren, Yang Liu, Xing Yang, Hongchen Chu, Yun Lai, Shuming Wang, Jian-Hua Jiang, C. T. Chan, Shining Zhu. <br/>
 &nbsp; *National Science Review*, nwaf107, 2025 <br/>
 
+
+- &nbsp; __Metasurface-integrated pattern-preserved fiber mode separator__ <br/>
+&nbsp; Haotian Xu†, __Tianyue Li†__, Geze Gao†, Shaochen Fang†, Hanwen Liu, Haotian Ding, Xi Chen, Yifeng Xiong, Ye Chen, Shuming Wang, Fei Xu. <br/>
+&nbsp; *Advanced Functional Materials*, in press, 2025 <br/>
+
+
 - &nbsp; [__Miniaturized high-efficiency snapshot polarimetric stereoscopic imaging__](https://doi.org/10.1364/OPTICA.549864)<br/>
 &nbsp; Boyan Fu†, Xuxi Zhou†, __Tianyue Li†__, Hao Zhu, Zhen Liu, Shiyu Zheng, Yifan Zhou, Yiwan Yu, Xun Cao, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp; *Optica*, 12 (3), 391-398, 2025 <br/>
@@ -88,10 +94,6 @@ Publications
 - &nbsp; [__Configurable Optical Dirac Cavity Based on Topological Metasurfaces (Invited)__](https://www.opticsjournal.net/Articles/OJfaf9bd22b5f1d178/Abstract)<br/>
 &nbsp; Huiying Liang, Jiahao Hou, __Tianyue Li\*__, Shuming Wang\*. <br/>
 &nbsp; *Acta Optica Sinica (Online)*, 2(7): 0709001, 2025 <br/>
-
-- &nbsp; __Metasurface-integrated pattern-preserved fiber mode separator__<br/>
-&nbsp; Haotian Xu†, __Tianyue Li†__, Geze Gao†, Shaochen Fang†, Hanwen Liu, Haotian Ding, Xi Chen, Yifeng Xiong, Ye Chen, Shuming Wang, Fei Xu. <br/>
-&nbsp; *Advanced Functional Materials*, in press, 2025 <br/>
 
 - &nbsp; [__Harnessing optical forces with advanced nanophotonic structures: principles and applications (Invited)__](https://link.springer.com/article/10.1186/s11671-025-04252-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250503&utm_content=10.1186/s11671-025-04252-4)<br/>
 &nbsp; Geze Gao†, Tianhua Shao†, __Tianyue Li\*__, Shuming Wang\*. <br/>
@@ -101,6 +103,11 @@ Publications
 &nbsp; Yifan Zhou, Xiaoshu Zhu, __Tianyue Li__, Zhou Zhou, Qianhui Bi, Jun Liu, Jian Chen, Boyan Fu, Juanzi He, Xinyang Feng, Xiaojing Feng, Xingyu Liu, Qianjin Wang, Shuming Wang, Zhenlin Wang, Cheng-Wei Qiu, Shining Zhu. <br/>
 &nbsp; *PNAS*, 122 (18), e2500760122, 2025 <br/>
 
+- &nbsp; __Topological selective non-hermitian skin effect__ <br/>
+&nbsp; Xing Yang, Mengjiao Liu, Jiahao Hou, __Tianyue Li__, Shuming Wang. <br/>
+&nbsp; *Acta Physica Sinica*, accepted, 2025 <br/>
+
+
 - &nbsp; [__Ultrafast metaphotonics__](https://spj.science.org/doi/10.34133/ultrafastscience.0074)<br/>
 &nbsp; __Tianyue Li†__, Haotian Xu†, Mingcheng Panmai†, Tianhua Shao, Geze Gao, Fei Xu, Guangwei Hu, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp; *Ultrafast Science*, 4, 0074, 2024 <br/>
@@ -109,6 +116,11 @@ Publications
 - &nbsp; [__Chip-scale metaphotonic singularities: topological, dynamical, and practical aspects__](https://www.sciencedirect.com/science/article/pii/S2709472324000273?via%3Dihub) <br/>
 &nbsp; __Tianyue Li†__, Mengjiao Liu†, Jiahao Hou, Xing Yang, Shubo Wang, Shuming Wang, Shining Zhu, Din Ping Tsai, Zhenlin Wang. <br/>
 &nbsp; *Chip*, 3 (4), 100109, 2024 <br/>
+
+
+- &nbsp; [__Spin-selective tri-functional metasurfaces for deforming versatile non-diffractive beams along the optical trajectory__](../files/LPR.2024.2301372.Spin-Selective Trifunctional Metasurfaces for Deforming Versatile Nondiffractive Beams along the Optical Trajectory.pdf)<br/>
+&nbsp; __Tianyue Li†__, Yun Chen†, Boyan Fu†, Mengjiao Liu, Jinwen Wang, Hong Gao, Shuming Wang, Shining Zhu. <br/>
+&nbsp; *Laser & Photonics Reviews*, 2301372, 2024 <br/>
 
 
 - &nbsp; [__Realization of spinful metaphotonic stokes skyrmions (Invited)__](../files/JO.26.09LT01.Realization of spinful metaphotonic stokes skyrmions.pdf)<br/>
@@ -121,10 +133,6 @@ Publications
 &nbsp; *Journal of Optics*, 26, 085003, 2024 <br/>
 
 
-- &nbsp; [__Spin-selective tri-functional metasurfaces for deforming versatile non-diffractive beams along the optical trajectory__](../files/LPR.2024.2301372.Spin-Selective Trifunctional Metasurfaces for Deforming Versatile Nondiffractive Beams along the Optical Trajectory.pdf)<br/>
-&nbsp; __Tianyue Li†__, Yun Chen†, Boyan Fu†, Mengjiao Liu, Jinwen Wang, Hong Gao, Shuming Wang, Shining Zhu. <br/>
-&nbsp; *Laser & Photonics Reviews*, 2301372, 2024 <br/>
-
 - &nbsp; [__On-demand quick metasurface design with neighborhood attention transformer__](https://arxiv.org/abs/2412.08405)<br/>
 &nbsp; Zhi Sun†, __Tianyue Li†__, Shiqi Kuang†, Xue Yun, Minru He, Boyan Fu, Yunlai Fu, Tianyu Zhao, Shaowei Wang, Yansheng Liang, Shuming Wang, Ming Lei. <br/>
 &nbsp; *Arxiv*, 2412.08405, 2024 <br/>
@@ -136,7 +144,7 @@ Publications
 
 - &nbsp; [__Reversible lateral optical force on phase-gradient metasurfaces for full control of metavehicles (Editor's pick)__](../files/OL.48.255.2022.Reversible lateral optical force on phase-gradient metasurfaces for full control of metavehicles.pdf)<br/>
 &nbsp; __Tianyue Li__, Jack J. Kingsley-Smith, Yanhui Hu, Xiaohao Xu, Shaohui Yan, Shuming Wang, Baoli Yao, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp; *Optical Letters*, 48 (2), 255-258, 2023 <br/>
+&nbsp; *Optics Letters*, 48 (2), 255-258, 2023 <br/>
 
 
 - &nbsp; [__Polarization-dependent optical forces arising from Fano interference__](../files/AdvPhysRes.2023.2200048.Polarization‐Dependent Optical Forces Arising from Fano Interference.pdf)<br/>
