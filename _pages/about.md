@@ -82,9 +82,9 @@ Publications
 &nbsp; *National Science Review*, nwaf107, 2025 <br/>
 
 
-- &nbsp; __Metasurface-integrated pattern-preserved fiber mode separator__ <br/>
+- &nbsp; [__Metasurface-integrated pattern-preserved fiber mode separator__](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202505081) <br/>
 &nbsp; Haotian Xu†, __Tianyue Li†__, Geze Gao†, Shaochen Fang†, Hanwen Liu, Haotian Ding, Xi Chen, Yifeng Xiong, Ye Chen, Shuming Wang, Fei Xu. <br/>
-&nbsp; *Advanced Functional Materials*, in press, 2025 <br/>
+&nbsp; *Advanced Functional Materials*, 2505081, 2025 <br/>
 
 
 - &nbsp; [__Miniaturized high-efficiency snapshot polarimetric stereoscopic imaging__](https://doi.org/10.1364/OPTICA.549864)<br/>
