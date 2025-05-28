@@ -103,7 +103,7 @@ Publications
 &nbsp; Yifan Zhou, Xiaoshu Zhu, __Tianyue Li__, Zhou Zhou, Qianhui Bi, Jun Liu, Jian Chen, Boyan Fu, Juanzi He, Xinyang Feng, Xiaojing Feng, Xingyu Liu, Qianjin Wang, Shuming Wang, Zhenlin Wang, Cheng-Wei Qiu, Shining Zhu. <br/>
 &nbsp; *PNAS*, 122 (18), e2500760122, 2025 <br/>
 
-- &nbsp; __Topological selective non-hermitian skin effect__ <br/>
+- &nbsp; [__Topological selective non-hermitian skin effect__](https://wulixb.iphy.ac.cn/article/doi/10.7498/aps.74.20250526) <br/>
 &nbsp; Xing Yang, Mengjiao Liu, Jiahao Hou, __Tianyue Li__, Shuming Wang. <br/>
 &nbsp; *Acta Physica Sinica*, accepted, 2025 <br/>
 
