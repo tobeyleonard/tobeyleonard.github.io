@@ -79,7 +79,7 @@ Publications
 
 - &nbsp; [__Configurable topological photonic polycrystal based on synthetic hybrid dimension__](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf107/8092649?searchresult=1)<br/>
 &nbsp; __Tianyue Li†__, Mengjiao Liu†, Jin Qin†, Jiahao Hou, Jianzheng Ren, Yang Liu, Xing Yang, Hongchen Chu, Yun Lai, Shuming Wang, Jian-Hua Jiang, C. T. Chan, Shining Zhu. <br/>
-&nbsp; *National Science Review*, nwaf107, 2025 <br/>
+&nbsp; *National Science Review*, 12 (6), nwaf107, 2025 <br/>
 
 
 - &nbsp; [__Metasurface-integrated pattern-preserved fiber mode separator__](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202505081) <br/>
@@ -105,7 +105,7 @@ Publications
 
 - &nbsp; [__Topological selective non-hermitian skin effect__](https://wulixb.iphy.ac.cn/article/doi/10.7498/aps.74.20250526) <br/>
 &nbsp; Xing Yang, Mengjiao Liu, Jiahao Hou, __Tianyue Li__, Shuming Wang. <br/>
-&nbsp; *Acta Physica Sinica*, accepted, 2025 <br/>
+&nbsp; *Acta Physica Sinica*, 74 (14), 144205, 2025 <br/>
 
 
 - &nbsp; [__Ultrafast metaphotonics__](https://spj.science.org/doi/10.34133/ultrafastscience.0074)<br/>
@@ -181,7 +181,6 @@ Publications
 &nbsp; __Tianyue Li__, Xiaohao Xu, Boyan Fu, Shuming Wang, Baojun Li, Zhenlin Wang, Shining Zhu. <br/>
 &nbsp;  *Photonics Research* 9 (6), 1062-1068, 2021 
 <!-- &nbsp; [*Journal-Artice*](../files/PR. Integrating the optical tweezers and spanner onto an individual single-layer metasurface.pdf)<br/> -->
-
 
 
 - &nbsp; [__Generation and conversion dynamics of dual Bessel beams with a photonic spin-dependent dielectric metasurface__](../files/PhysRevApplied.Generation and Conversion Dynamics of Dual Bessel Beams with a Photonic Spin-Dependent Dielectric Metasurface.pdf)<br/>
