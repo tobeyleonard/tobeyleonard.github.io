@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-Hi! I am employed with the Department of Physics, Institute of Advanced Study at the Hong Kong University of Science and Technology (HKUST) as a Research Fellow in Prof. [Che Ting Chan](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=che-ting-chan-phchan)’s group.
+Hi! I am employed with the Department of Physics, Jockey Club Institute of Advanced Study at the Hong Kong University of Science and Technology (HKUST) as a Research Fellow in Prof. [Che Ting Chan](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=che-ting-chan-phchan)’s group.
 
 <p align = "justify">My research centers around Nanophotonics, with a focus on investigating the physical mechanisms and optical singularities associated with light-matter interaction. I strive to contribute to the advancement of this field by exploring new frontiers in light-field manipulation, topological photonics, and optomechanics. Additionally, I am actively engaged in the development of versatile nano-devices for on-chip and fiber-based platforms, including applications in optical tweezers, optical communication, photonic waveguiding circuits, and imaging. </p>
 
@@ -284,7 +284,7 @@ employed as a structural prototyping tool that facilitates model design and fabr
 
 Contact
 ======
-__E-mail:__ leos4a@163.com.
+__E-mail:__ lity@ust.hk
 <br/>
 <br/>
 <!--__Address:__ Room A-411, Cyrus Tang Building, School of Physics, Nanjing University.-->
