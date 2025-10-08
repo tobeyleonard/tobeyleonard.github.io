@@ -68,7 +68,7 @@ Derivative Applications
 <p align = "justify">Optical communication plays an important role in communication and imaging. Although optical fiber possess the abilities of lossless and low cost, it is difficult to operate separately because of its small size and limited mode utilization. We have jointly developed some devices based on cross section of the end of fiber, which can adjust and control the fiber mode, further simplifying the size of devices after mode separation, and saving space costs for increasing communication channels and ultracompact imaging devices. </p>
 
 <br/>
-
+</div>
 <br/>
 
 Publications
