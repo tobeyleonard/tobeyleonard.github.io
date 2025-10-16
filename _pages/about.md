@@ -76,6 +76,10 @@ Publications
 
 <!-- <img width="175" align="left" src="../images/multigrid.jpg"/> -->
 
+- &nbsp; [__Scalable Generalized Meta-Spanners Enabling Parallel Multitasking Optical Manipulation__](https://arxiv.org/abs/2510.13146)<br/>
+&nbsp; __Tianyue Li†__, Wenyu Gao†, Boyan Fu†, Tianhua Shao, Yuchao Fu, Siarhei Zavatski, Jeeban Kumar Nayak, Shaohui Yan, Xiaohao Xu, Shuming Wang, Baoli Yao, Zhenlin Wang, Shining Zhu, Olivier J. F. Martin, C. T. Chan <br/>
+&nbsp; *Arxiv*, 2510.13146, 2025 <br/>
+
 - &nbsp; [__Configurable topological photonic polycrystal based on a synthetic hybrid dimension__](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf107/8092649?searchresult=1)<br/>
 &nbsp; __Tianyue Li†__, Mengjiao Liu†, Jin Qin†, Jiahao Hou, Jianzheng Ren, Yang Liu, Xing Yang, Hongchen Chu, Yun Lai, Shuming Wang, Jian-Hua Jiang, C. T. Chan, Shining Zhu. <br/>
 &nbsp; *National Science Review*, 12 (6), nwaf107, 2025 <br/>
