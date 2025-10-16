@@ -76,7 +76,7 @@ Publications
 
 <!-- <img width="175" align="left" src="../images/multigrid.jpg"/> -->
 
-- &nbsp; [__Scalable Generalized Meta-Spanners Enabling Parallel Multitasking Optical Manipulation__](https://arxiv.org/abs/2510.13146)<br/>
+- &nbsp; [__Scalable generalized meta-spanners enabling parallel multitasking optical manipulation__](https://arxiv.org/abs/2510.13146)<br/>
 &nbsp; __Tianyue Li†__, Wenyu Gao†, Boyan Fu†, Tianhua Shao, Yuchao Fu, Siarhei Zavatski, Jeeban Kumar Nayak, Shaohui Yan, Xiaohao Xu, Shuming Wang, Baoli Yao, Zhenlin Wang, Shining Zhu, Olivier J. F. Martin, C. T. Chan <br/>
 &nbsp; *Arxiv*, 2510.13146, 2025 <br/>
 
