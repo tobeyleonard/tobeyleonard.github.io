@@ -23,7 +23,7 @@ My research centers on Nanophotonics, focusing on the physical mechanisms and op
 </p>
 
 <p align="justify">
-<strong>Conference Session:</strong> I am co-chairing the session “<a href="https://suzhou2026.piers.org/session.html?sid=S013">Multifunctional Metasurfaces: Fundamentals and Applications</a>” at the <strong>Progress In Electromagnetics Research Symposium (PIERS 2026, Suzhou, China)</strong>. We invite abstract submissions for oral presentations. A limited number of invited talk slots are available; interested speakers are welcome to <a href="mailto:[Your Email Here]">contact me</a> for further information.
+<strong>Conference Session:</strong> I am co-chairing the session “<a href="https://suzhou2026.piers.org/session.html?sid=S013">Multifunctional Metasurfaces: Fundamentals and Applications</a>” at the <strong>Progress In Electromagnetics Research Symposium (PIERS 2026, Suzhou, China)</strong>. We invite abstract submissions for oral presentations. A limited number of invited talk slots are available; interested speakers are welcome to <a href="mailto:[lity@ust.hk]">contact me</a> for further information.
 </p>
 
 
