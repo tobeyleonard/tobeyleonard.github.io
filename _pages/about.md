@@ -10,11 +10,21 @@ redirect_from:
 
 About me
 ======
-Hi! I am employed with the Department of Physics, Jockey Club Institute of Advanced Study at the Hong Kong University of Science and Technology (HKUST) as a Research Fellow in Prof. [Che Ting Chan](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=che-ting-chan-phchan)’s group. I formerly earned my PhD in Optical Physics from Nanjing University, China.
+Hi! I am currently a Research Fellow with the Department of Physics at the Jockey Club Institute of Advanced Study, The Hong Kong University of Science and Technology (HKUST), working in the group of Prof. <a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=che-ting-chan-phchan">Che Ting Chan</a>. I earned my Ph.D. in Optical Physics from Nanjing University, China.
 
-<p align = "justify">My research centers around Nanophotonics, with a focus on investigating the physical mechanisms and optical singularities associated with light-matter interaction. I strive to contribute to the advancement of this field by exploring new frontiers in light-field manipulation, topological photonics, and optomechanics. Additionally, I am actively engaged in the development of versatile nano-devices for on-chip and fiber-based platforms, including applications in optical tweezers, optical communication, photonic waveguiding circuits, and imaging. </p>
+<p align="justify">
+My research centers on Nanophotonics, focusing on the physical mechanisms and optical singularities in light-matter interactions. I aim to advance this field by exploring new frontiers in light-field manipulation, topological photonics, and optomechanics. I am also actively developing versatile nano-devices for on-chip and fiber-based platforms, with applications in optical tweezers, optical communication, photonic waveguiding circuits, and imaging.
+</p>
 
-<br/>
+<h3>Call for Papers & Conference Participation</h3>
+
+<p align="justify">
+<strong>Special Issue:</strong> We are co-hosting a Special Issue titled “<a href="https://www.mdpi.com/journal/photonics/special_issues/HPH62OU5VY">Metasurfaces and Meta-Devices: From Fundamentals to Applications</a>” in the journal <em>Photonics</em>. The submission deadline is <strong>April 30, 2026</strong>. Original research and review articles relevant to the theme are welcome.
+</p>
+
+<p align="justify">
+<strong>Conference Session:</strong> I am co-chairing the session “<a href="https://suzhou2026.piers.org/session.html?sid=S013">Multifunctional Metasurfaces: Fundamentals and Applications</a>” at the <strong>Progress In Electromagnetics Research Symposium (PIERS 2026, Suzhou, China)</strong>. We invite abstract submissions for oral presentations. A limited number of invited talk slots are available; interested speakers are welcome to <a href="mailto:[Your Email Here]">contact me</a> for further information.
+</p>
 
 
 Fundamental Research
