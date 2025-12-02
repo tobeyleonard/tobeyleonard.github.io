@@ -19,11 +19,11 @@ My research centers on Nanophotonics, focusing on the physical mechanisms and op
 <h3>Call for Papers & Conference Participation</h3>
 
 <p align="justify">
-<strong>Special Issue:</strong> We are co-hosting a Special Issue titled “<a href="https://www.mdpi.com/journal/photonics/special_issues/HPH62OU5VY">Metasurfaces and Meta-Devices: From Fundamentals to Applications</a>” in the journal <em>Photonics</em>. The submission deadline is *April 30, 2026*. Original research and review articles relevant to the theme are welcome.
+<strong>Special Issue:</strong> We are co-hosting a Special Issue titled “<a href="https://www.mdpi.com/journal/photonics/special_issues/HPH62OU5VY">Metasurfaces and Meta-Devices: From Fundamentals to Applications</a>” in the journal <em>Photonics</em>. The submission deadline is <em>April 30, 2026<em>. Original research and review articles relevant to the theme are welcome.
 </p>
 
 <p align="justify">
-<strong>Conference Session:</strong> I am co-chairing the session “<a href="https://suzhou2026.piers.org/session.html?sid=S013">Multifunctional Metasurfaces: Fundamentals and Applications</a>” at the *Progress In Electromagnetics Research Symposium (PIERS 2026, Suzhou, China)*. We invite abstract submissions for oral presentations. A limited number of invited talk slots are available; interested speakers are welcome to <a href="mailto:[lity@ust.hk]">contact me</a> for further information.
+<strong>Conference Session:</strong> I am co-chairing the session “<a href="https://suzhou2026.piers.org/session.html?sid=S013">Multifunctional Metasurfaces: Fundamentals and Applications</a>” at the <em>Progress In Electromagnetics Research Symposium (PIERS 2026, Suzhou, China)<em>. We invite abstract submissions for oral presentations. A limited number of invited talk slots are available; interested speakers are welcome to <a href="mailto:[lity@ust.hk]">contact me</a> for further information.
 </p>
 
 
