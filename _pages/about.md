@@ -90,7 +90,7 @@ Publications
 &nbsp; __Tianyue Li†__, Wenyu Gao†, Boyan Fu†, Tianhua Shao, Yuchao Fu, Siarhei Zavatski, Jeeban Kumar Nayak, Shaohui Yan, Xiaohao Xu, Shuming Wang, Baoli Yao, Zhenlin Wang, Shining Zhu, Olivier J. F. Martin, C. T. Chan <br/>
 &nbsp; *Arxiv*, 2510.13146, 2025 <br/>
 
-- &nbsp; __Full-Color Stereoscopic Visualization with Janus Metafiber__<br/>
+- &nbsp; __Full-color stereoscopic visualization with Janus metafiber__<br/>
 &nbsp; Haotian Xu†, __Tianyue Li†__, Haotian Ding, Shaochen Fang, Xiangyu Ma, Haojie Chen, Ye Chen, Yifeng Xiong, Shuming Wang, Fei Xu. <br/>
 &nbsp; *Forthcoming*, 2026 <br/>
 
