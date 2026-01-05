@@ -58,7 +58,7 @@ Fundamental Research
 Derivative Applications
 ======
 <div>
-<div style="font-size:15pt"><strong>Versatile Nano-optomechanics for Meta-manipulation</strong></div>
+<div style="font-size:15pt"><strong>Versatile Meta-devices for Meta-manipulation</strong></div>
   <hr/>
 </div>
 <div style="font-size:11pt ;  font-style:italic">
@@ -70,7 +70,7 @@ Derivative Applications
 <br/>
 
 <div>
-<div style="font-size:15pt"><strong>Advanced Optical communication and endoscopy</strong></div>
+<div style="font-size:15pt"><strong>Meta-devices for Optical communication and endoscopy</strong></div>
   <hr>
 </div>
 <div style="font-size:11pt ;  font-style:italic">
