@@ -88,7 +88,7 @@ Publications
 
 - &nbsp; [__Scalable generalized meta-spanners enabling parallel multitasking optical manipulation__](https://arxiv.org/abs/2510.13146)<br/>
 &nbsp; __Tianyue Li†__, Wenyu Gao†, Boyan Fu†, Tianhua Shao, Yuchao Fu, Siarhei Zavatski, Jeeban Kumar Nayak, Shaohui Yan, Xiaohao Xu, Shuming Wang, Baoli Yao, Zhenlin Wang, Shining Zhu, Olivier J. F. Martin, C. T. Chan <br/>
-&nbsp; *Arxiv*, 2510.13146, 2025 <br/>
+&nbsp; *Forthcoming*, 2026. *Arxiv*, 2510.13146, 2025 <br/>
 
 - &nbsp; __Full-color stereoscopic visualization with Janus metafiber__<br/>
 &nbsp; Haotian Xu†, __Tianyue Li†__, Haotian Ding, Shaochen Fang, Xiangyu Ma, Haojie Chen, Ye Chen, Yifeng Xiong, Shuming Wang, Fei Xu. <br/>
@@ -101,7 +101,7 @@ Publications
 
 - &nbsp; [__Metasurface-integrated pattern-preserved fiber mode separator__](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202505081) <br/>
 &nbsp; Haotian Xu†, __Tianyue Li†__, Geze Gao†, Shaochen Fang†, Hanwen Liu, Haotian Ding, Xi Chen, Yifeng Xiong, Ye Chen, Shuming Wang, Fei Xu. <br/>
-&nbsp; *Advanced Functional Materials*, 2505081, 2025 <br/>
+&nbsp; *Advanced Functional Materials*, 35 (43), 2505081, 2025 <br/>
 
 
 - &nbsp; [__Miniaturized high-efficiency snapshot polarimetric stereoscopic imaging__](https://doi.org/10.1364/OPTICA.549864)<br/>
@@ -137,7 +137,7 @@ Publications
 
 - &nbsp; [__Spin-selective tri-functional metasurfaces for deforming versatile non-diffractive beams along the optical trajectory__](../files/LPR.2024.2301372.Spin-Selective Trifunctional Metasurfaces for Deforming Versatile Nondiffractive Beams along the Optical Trajectory.pdf)<br/>
 &nbsp; __Tianyue Li†__, Yun Chen†, Boyan Fu†, Mengjiao Liu, Jinwen Wang, Hong Gao, Shuming Wang, Shining Zhu. <br/>
-&nbsp; *Laser & Photonics Reviews*, 2301372, 2024 <br/>
+&nbsp; *Laser & Photonics Reviews*, 18, 2301372, 2024 <br/>
 
 
 - &nbsp; [__Realization of spinful metaphotonic stokes skyrmions (Invited)__](../files/JO.26.09LT01.Realization of spinful metaphotonic stokes skyrmions.pdf)<br/>
