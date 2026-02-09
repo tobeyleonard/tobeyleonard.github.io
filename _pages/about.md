@@ -88,11 +88,15 @@ Publications
 
 - &nbsp; [__Scalable generalized meta-spanners enabling parallel multitasking optical manipulation__](https://arxiv.org/abs/2510.13146)<br/>
 &nbsp; __Tianyue Li†__, Wenyu Gao†, Boyan Fu†, Tianhua Shao, Yuchao Fu, Siarhei Zavatski, Jeeban Kumar Nayak, Shaohui Yan, Xiaohao Xu, Shuming Wang, Baoli Yao, Zhenlin Wang, Shining Zhu, Olivier J. F. Martin, C. T. Chan <br/>
-&nbsp; *Forthcoming*, 2026. *Arxiv*, 2510.13146, 2025 <br/>
+&nbsp; *ArXiv*, 2510.13146, *Forthcoming*, 2026 <br/>
 
 - &nbsp; __Full-color stereoscopic visualization with Janus metafiber__<br/>
 &nbsp; Haotian Xu†, __Tianyue Li†__, Haotian Ding, Shaochen Fang, Xiangyu Ma, Haojie Chen, Ye Chen, Yifeng Xiong, Shuming Wang, Fei Xu. <br/>
 &nbsp; *Forthcoming*, 2026 <br/>
+
+- &nbsp; __Engineering Quantum Emission with Mie Voids__<br/>
+&nbsp; Yuchao Fu, Ilia Lykov, Sergejs Boroviks, Nai-Quan Zhu, __Tianyue Li__, Siarhei Zavatski, Makhlad Chahid, Olivier J. F. Martin. <br/>
+&nbsp; *ArXiv*, 2601.19420, 2026 <br/>
 
 - &nbsp; [__Configurable topological photonic polycrystal based on a synthetic hybrid dimension__](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf107/8092649?searchresult=1)<br/>
 &nbsp; __Tianyue Li†__, Mengjiao Liu†, Jin Qin†, Jiahao Hou, Jianzheng Ren, Yang Liu, Xing Yang, Hongchen Chu, Yun Lai, Shuming Wang, Jian-Hua Jiang, C. T. Chan, Shining Zhu. <br/>
@@ -147,7 +151,7 @@ Publications
 
 - &nbsp; [__On-demand quick metasurface design with neighborhood attention transformer__](https://arxiv.org/abs/2412.08405)<br/>
 &nbsp; Zhi Sun†, __Tianyue Li†__, Shiqi Kuang†, Xue Yun, Minru He, Boyan Fu, Yunlai Fu, Tianyu Zhao, Shaowei Wang, Yansheng Liang, Shuming Wang, Ming Lei. <br/>
-&nbsp; *Arxiv*, 2412.08405, 2024 <br/>
+&nbsp; *ArXiv*, 2412.08405, 2024 <br/>
 
 - &nbsp; [__Metasurfaces empowered optical micromanipulation (on the cover)__](../files/超构表面赋能光学微操控技术.pdf)<br/>
 &nbsp; Xiaohao Xu, Wenyu Gao, __Tianyue Li__, Tianhua Shao, Xingyi Li, Yuan Zhou, Geze Gao, Guoxi Wang, Shaohui Yan, Shuming Wang, Baoli Yao. <br/>
