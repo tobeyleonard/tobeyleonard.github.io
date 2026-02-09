@@ -94,7 +94,7 @@ Publications
 &nbsp; Haotian Xu†, __Tianyue Li†__, Haotian Ding, Shaochen Fang, Xiangyu Ma, Haojie Chen, Ye Chen, Yifeng Xiong, Shuming Wang, Fei Xu. <br/>
 &nbsp; *Forthcoming*, 2026 <br/>
 
-- &nbsp; __Engineering Quantum Emission with Mie Voids__<br/>
+- &nbsp; __Engineering quantum emission with mie voids__<br/>
 &nbsp; Yuchao Fu, Ilia Lykov, Sergejs Boroviks, Nai-Quan Zhu, __Tianyue Li__, Siarhei Zavatski, Makhlad Chahid, Olivier J. F. Martin. <br/>
 &nbsp; *ArXiv*, 2601.19420, 2026 <br/>
 
