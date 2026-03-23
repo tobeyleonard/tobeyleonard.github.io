@@ -95,7 +95,7 @@ Publications
 &nbsp; *Nature Communications*, *Forthcoming*, 2026 <br/>
 
 - &nbsp; __Practically Reliable High-Q Guided-Mode Resonances via Coupler-Assisted BICs__<br/>
-&nbsp; Huan Li,__Tianyue Li\*__, Jingcheng Zhang\*. <br/>
+&nbsp; Huan Li, __Tianyue Li\*__, Jingcheng Zhang\*. <br/>
 &nbsp; *Optics Express*, *Forthcoming*, 2026 <br/>
 
 - &nbsp; __Engineering quantum emission with mie voids__<br/>
