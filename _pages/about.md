@@ -88,7 +88,7 @@ Publications
 
 - &nbsp; [__Scalable generalized meta-spanners enabling parallel multitasking optical manipulation__](https://arxiv.org/abs/2510.13146)<br/>
 &nbsp; __Tianyue Li†__, Wenyu Gao†, Boyan Fu†, Tianhua Shao, Yuchao Fu, Siarhei Zavatski, Jeeban Kumar Nayak, Shaohui Yan, Xiaohao Xu, Shuming Wang, Baoli Yao, Zhenlin Wang, Shining Zhu, Olivier J. F. Martin, C. T. Chan <br/>
-&nbsp; *Science Advances*, *Forthcoming*, eaed5302, 2026 <br/>
+&nbsp; *Science Advances*, 12 (15), eaed5302, 2026 <br/>
 
 - &nbsp; __Full-color stereoscopic visualization with Janus metafiber__<br/>
 &nbsp; Haotian Xu†, __Tianyue Li†__, Haotian Ding, Shaochen Fang, Xiangyu Ma, Haojie Chen, Ye Chen, Yifeng Xiong, Shuming Wang, Fei Xu. <br/>
