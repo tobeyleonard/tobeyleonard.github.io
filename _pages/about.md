@@ -98,7 +98,7 @@ Publications
 &nbsp; Huan Li, __Tianyue Li\*__, Jingcheng Zhang\*. <br/>
 &nbsp; *Optics Express*, 34 (7), 13133-13141, 2026 <br/>
 
-- &nbsp; __Engineering quantum emission with mie voids__<br/>
+- &nbsp; [__Engineering quantum emission with mie voids__](https://arxiv.org/abs/2601.19420)<br/>
 &nbsp; Yuchao Fu, Ilia Lykov, Sergejs Boroviks, Nai-Quan Zhu, __Tianyue Li__, Siarhei Zavatski, Makhlad Chahid, Olivier J. F. Martin. <br/>
 &nbsp; *ArXiv*, 2601.19420, 2026 <br/>
 
