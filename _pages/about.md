@@ -90,6 +90,10 @@ Publications
 &nbsp; __Tianyue Li†__, Wenyu Gao†, Boyan Fu†, Tianhua Shao, Yuchao Fu, Siarhei Zavatski, Jeeban Kumar Nayak, Shaohui Yan, Xiaohao Xu, Shuming Wang, Baoli Yao, Zhenlin Wang, Shining Zhu, Olivier J. F. Martin, C. T. Chan <br/>
 &nbsp; *Science Advances*, 12 (15), eaed5302, 2026 <br/>
 
+- &nbsp; __Freeform Optical Flow Based on Meta-Conveyors for Compact, Programmable In-Situ Nanomanipulation__<br/>
+&nbsp; __Tianyue Li__, Xiao Li, Zengyang Gao, Jack Ng, Vladan Blahnik, Fan Nan, Yuebing Zheng, C. T. Chan. <br/>
+&nbsp; *Nature Communications*, *Forthcoming*, 2026 <br/>
+
 - &nbsp; __Full-color 3D visualization with Janus metafiber__<br/>
 &nbsp; Haotian Xu†, __Tianyue Li†__, Haotian Ding, Shaochen Fang, Xiangyu Ma, Haojie Chen, Ye Chen, Yifeng Xiong, Shuming Wang, Fei Xu. <br/>
 &nbsp; *Nature Communications*, *Forthcoming*, 2026 <br/>
