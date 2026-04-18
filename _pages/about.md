@@ -16,14 +16,24 @@ Hi! I am currently a Research Fellow with the Department of Physics at the Jocke
 My research centers on Nanophotonics, focusing on the physical mechanisms and optical singularities in light-matter interactions. I aim to advance this field by exploring new frontiers in light-field manipulation, topological photonics, and optomechanics. I am also actively developing versatile nano-devices for on-chip and fiber-based platforms, with applications in optical tweezers, optical communication, photonic waveguiding circuits, and imaging.
 </p>
 
+<h3>Representative/Featured publications</h3>
+
+<p align="justify">
+  <strong><a href="https://www.science.org/doi/10.1126/sciadv.aed5302" target="_blank" rel="noopener noreferrer">*Science Advances*, 12 (15), eaed5302, 2026</a></strong><br>
+  <strong><a href="https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf107/8092649?searchresult=1" target="_blank" rel="noopener noreferrer">*National Science Review*, 12 (6), nwaf107, 2025</a></strong><br>
+  <strong>*Nature Communications*, in press, 2026</strong><br>
+  <strong>*Nature Communications*, in press, 2026</strong><br>
+  <strong><a href="https://doi.org/10.1364/OPTICA.549864" target="_blank" rel="noopener noreferrer">*Optica*, 12 (3), 391-398, 2025</a></strong>
+</p>
+
 <h3>Call for Papers & Conference Participation</h3>
 
 <p align="justify">
-<strong>Special Issue:</strong> We are co-hosting a Special Issue titled "<a href="https://www.mdpi.com/journal/photonics/special_issues/HPH62OU5VY">Metasurfaces and Meta-Devices: From Fundamentals to Applications</a>" in the journal <em>Photonics</em>. The submission deadline is <strong>April 30, 2026</strong>. Original research and review articles relevant to the theme are welcome.
+  <strong>Special Issue:</strong> We are co-hosting a Special Issue titled "<a href="https://www.mdpi.com/journal/photonics/special_issues/HPH62OU5VY">Metasurfaces and Meta-Devices: From Fundamentals to Applications</a>" in the journal <em>Photonics</em>. The submission deadline is <strong>April 30, 2026</strong>. Original research and review articles relevant to the theme are welcome.
 </p>
 
 <p align="justify">
-<strong>Conference Session:</strong> We are co-chairing the session "<a href="https://suzhou2026.piers.org/session.html?sid=S013">Multifunctional Metasurfaces: Fundamentals and Applications</a>" at the <strong>Progress In Electromagnetics Research Symposium (PIERS 2026, Suzhou, China)</strong>. We invite abstract submissions for oral presentations. A limited number of invited talk slots are available; interested speakers are welcome to <a href="mailto:lity@ust.hk">contact me</a> for further information.
+  <strong>Conference Session:</strong> We are co-chairing the session "<a href="https://suzhou2026.piers.org/session.html?sid=S013">Multifunctional Metasurfaces: Fundamentals and Applications</a>" at the <strong>Progress In Electromagnetics Research Symposium (PIERS 2026, Suzhou, China)</strong>. We invite abstract submissions for oral presentations. A limited number of invited talk slots are available; interested speakers are welcome to <a href="mailto:lity@ust.hk">contact me</a> for further information.
 </p>
 
 
