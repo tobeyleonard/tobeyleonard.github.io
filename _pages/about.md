@@ -18,13 +18,13 @@ My research centers on Nanophotonics, focusing on the physical mechanisms and op
 
 <h3>Representative/Featured publications</h3>
 
-<p align="justify">
-  <strong><a href="https://www.science.org/doi/10.1126/sciadv.aed5302" target="_blank" rel="noopener noreferrer"><em>Science Advances</em>, 12 (15), eaed5302, 2026</a></strong><br>
-  <strong><a href="https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf107/8092649?searchresult=1" target="_blank" rel="noopener noreferrer"><em>National Science Review</em>, 12 (6), nwaf107, 2025</a></strong><br>
-  <strong><em>Nature Communications</em>, in press, 2026</strong><br>
-  <strong><em>Nature Communications</em>, in press, 2026</strong><br>
-  <strong><a href="https://doi.org/10.1364/OPTICA.549864" target="_blank" rel="noopener noreferrer"><em>Optica</em>, 12 (3), 391-398, 2025</a></strong>
-</p>
+<ul style="text-align: justify; list-style-type: disc; padding-left: 20px;">
+  <li><strong><a href="https://www.science.org/doi/10.1126/sciadv.aed5302" target="_blank" rel="noopener noreferrer"><em>Science Advances</em> 12(15), eaed5302 (2026)</a></strong></li>
+  <li><strong><a href="https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf107/8092649?searchresult=1" target="_blank" rel="noopener noreferrer"><em>National Science Review</em> 12(6), nwaf107 (2025)</a></strong></li>
+  <li><strong><em>Nature Communications</em>, in press (2026)</strong></li>
+  <li><strong><em>Nature Communications</em>, in press (2026)</strong></li>
+  <li><strong><a href="https://doi.org/10.1364/OPTICA.549864" target="_blank" rel="noopener noreferrer"><em>Optica</em> 12(3), 391-398 (2025)</a></strong></li>
+</ul>
 
 <h3>Call for Papers & Conference Participation</h3>
 
