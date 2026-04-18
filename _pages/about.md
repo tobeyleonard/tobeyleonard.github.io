@@ -90,7 +90,7 @@ Publications
 &nbsp; __Tianyue Li†__, Wenyu Gao†, Boyan Fu†, Tianhua Shao, Yuchao Fu, Siarhei Zavatski, Jeeban Kumar Nayak, Shaohui Yan, Xiaohao Xu, Shuming Wang, Baoli Yao, Zhenlin Wang, Shining Zhu, Olivier J. F. Martin, C. T. Chan <br/>
 &nbsp; *Science Advances*, 12 (15), eaed5302, 2026 <br/>
 
-- &nbsp; __Freeform Optical Flow Based on Meta-Conveyors for Compact, Programmable In-Situ Nanomanipulation__<br/>
+- &nbsp; __Freeform optical flow based on meta-conveyors for compact, programmable in-situ nanomanipulation__<br/>
 &nbsp; __Tianyue Li__, Xiao Li, Zengyang Gao, Jack Ng, Vladan Blahnik, Fan Nan, Yuebing Zheng, C. T. Chan. <br/>
 &nbsp; *Nature Communications*, *Forthcoming*, 2026 <br/>
 
@@ -98,7 +98,7 @@ Publications
 &nbsp; Haotian Xu†, __Tianyue Li†__, Haotian Ding, Shaochen Fang, Xiangyu Ma, Haojie Chen, Ye Chen, Yifeng Xiong, Shuming Wang, Fei Xu. <br/>
 &nbsp; *Nature Communications*, *Forthcoming*, 2026 <br/>
 
-- &nbsp; [__Practically Reliable High-Q Guided-Mode Resonances via Coupler-Assisted BICs__](https://doi.org/10.1364/OE.589048)<br/>
+- &nbsp; [__Practically reliable high-Q guided-mode resonances via coupler-assisted BICs__](https://doi.org/10.1364/OE.589048)<br/>
 &nbsp; Huan Li, __Tianyue Li\*__, Jingcheng Zhang\*. <br/>
 &nbsp; *Optics Express*, 34 (7), 13133-13141, 2026 <br/>
 
