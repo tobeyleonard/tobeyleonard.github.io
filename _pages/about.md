@@ -29,7 +29,7 @@ My research centers on Nanophotonics, focusing on the physical mechanisms and op
 <h3>Call for Papers & Conference Participation</h3>
 
 <p align="justify">
-  <strong>Special Issue:</strong> We are co-hosting a Special Issue titled "<a href="https://www.mdpi.com/journal/photonics/special_issues/HPH62OU5VY">Metasurfaces and Meta-Devices: From Fundamentals to Applications</a>" in the journal <em>Photonics</em>. The submission deadline is <strong>April 30, 2026</strong>. Original research and review articles relevant to the theme are welcome.
+  <strong>Special Issue:</strong> We are co-hosting a Special Issue titled "<a href="https://www.mdpi.com/journal/photonics/special_issues/HPH62OU5VY">Metasurfaces and Meta-Devices: From Fundamentals to Applications</a>" in the journal <em>Photonics</em>. The submission deadline is <strong>December 31, 2026</strong>. Original research and review articles relevant to the theme are welcome.
 </p>
 
 <p align="justify">
