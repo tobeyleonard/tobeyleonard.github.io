@@ -104,7 +104,7 @@ Publications
 &nbsp; __Tianyue Li__, Xiao Li, Zengyang Gao, Jack Ng, Vladan Blahnik, Fan Nan, Yuebing Zheng, C. T. Chan. <br/>
 &nbsp; *Nature Communications*, 17, 4212, 2026 <br/>
 
-- &nbsp; __Full-color 3D visualization with Janus metafiber__<br/>
+- &nbsp; [__Full-color 3D visualization with Janus metafiber__](https://doi.org/10.1038/s41467-026-74131-8)<br/>
 &nbsp; Haotian Xu†, __Tianyue Li†__, Haotian Ding, Shaochen Fang, Xiangyu Ma, Haojie Chen, Ye Chen, Yifeng Xiong, Shuming Wang, Fei Xu. <br/>
 &nbsp; *Nature Communications*, *Forthcoming*, 2026 <br/>
 
