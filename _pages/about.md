@@ -10,10 +10,10 @@ redirect_from:
 
 About me
 ======
-Hi! I am currently a Research Fellow with the Department of Physics at the Jockey Club Institute of Advanced Study, The Hong Kong University of Science and Technology (HKUST), working in the group of Prof. <a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=che-ting-chan-phchan">Che Ting Chan</a>. I earned my Ph.D. in Optical Physics from Nanjing University, China.
+Hi! I am currently a Research Fellow with the Department of Physics (Phys Dept) and the Jockey Club Institute of Advanced Study (IAS), The Hong Kong University of Science and Technology (HKUST), working in the group of Prof. <a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=che-ting-chan-phchan">Che Ting Chan</a>. I earned my Ph.D. in Optical Physics from Nanjing University, China.
 
 <p align="justify">
-My research centers on Nanophotonics, focusing on the physical mechanisms and optical singularities in light-matter interactions. I aim to advance this field by exploring new frontiers in light-field manipulation, topological photonics, and optomechanics. I am also actively developing versatile nano-devices for on-chip and fiber-based platforms, with applications in optical tweezers, optical communication, photonic waveguiding circuits, and imaging.
+My research centers on Nanophotonics, focusing on the physical mechanisms in light-matter interactions. I aim to advance this field by exploring new frontiers in light-field manipulation, topological photonics, and optical force-induced manipulation. I am also actively developing versatile nano-devices for on-chip and fiber-based platforms, with applications in optical tweezers, optical communication, photonic waveguiding circuits, and multimodal sensing.
 </p>
 
 <h3>Representative/Featured publications</h3>
