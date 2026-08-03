@@ -26,7 +26,7 @@ My research centers on Nanophotonics, focusing on the physical mechanisms in lig
   <li><strong><a href="https://doi.org/10.1364/OPTICA.549864" target="_blank" rel="noopener noreferrer"><em>Optica</em> 12(3), 391-398 (2025)</a></strong></li>
 </ul>
 
-<h3>Call for Papers & Conference Participation</h3>
+<h3>Call for Papers</h3>
 
 <p align="justify">
   <strong>Special Issue:</strong> We are co-hosting a Special Issue titled "<a href="https://www.mdpi.com/journal/photonics/special_issues/HPH62OU5VY">Metasurfaces and Meta-Devices: From Fundamentals to Applications</a>" in the journal <em>Photonics</em>. The submission deadline is <strong>December 31, 2026</strong>. Original research and review articles relevant to the theme are welcome.
