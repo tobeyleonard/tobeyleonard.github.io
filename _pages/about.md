@@ -19,8 +19,8 @@ My research centers on Nanophotonics, focusing on the physical mechanisms in lig
 <h3>Representative/Featured publications</h3>
 
 <ul style="text-align: justify; list-style-type: disc; padding-left: 20px;">
+    <li><strong><a href="https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf107/8092649?searchresult=1" target="_blank" rel="noopener noreferrer"><em>National Science Review</em> 12(6), nwaf107 (2025)</a></strong></li>
   <li><strong><a href="https://www.science.org/doi/10.1126/sciadv.aed5302" target="_blank" rel="noopener noreferrer"><em>Science Advances</em> 12(15), eaed5302 (2026)</a></strong></li>
-  <li><strong><a href="https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf107/8092649?searchresult=1" target="_blank" rel="noopener noreferrer"><em>National Science Review</em> 12(6), nwaf107 (2025)</a></strong></li>
   <li><strong><a href="https://www.nature.com/articles/s41467-026-73024-0" target="_blank" rel="noopener noreferrer"><em>Nature Communications</em> 17, 4212 (2026)</a></strong></li>
   <li><strong><a href="https://doi.org/10.1038/s41467-026-74131-8" target="_blank" rel="noopener noreferrer"><em>Nature Communications</em> 17, 7307 (2026)</a></strong></li>
   <li><strong><a href="https://doi.org/10.1364/OPTICA.549864" target="_blank" rel="noopener noreferrer"><em>Optica</em> 12(3), 391-398 (2025)</a></strong></li>
@@ -30,10 +30,6 @@ My research centers on Nanophotonics, focusing on the physical mechanisms in lig
 
 <p align="justify">
   <strong>Special Issue:</strong> We are co-hosting a Special Issue titled "<a href="https://www.mdpi.com/journal/photonics/special_issues/HPH62OU5VY">Metasurfaces and Meta-Devices: From Fundamentals to Applications</a>" in the journal <em>Photonics</em>. The submission deadline is <strong>December 31, 2026</strong>. Original research and review articles relevant to the theme are welcome.
-</p>
-
-<p align="justify">
-  <strong>Conference Session:</strong> We are co-chairing the session "<a href="https://suzhou2026.piers.org/session.html?sid=S013">Multifunctional Metasurfaces: Fundamentals and Applications</a>" at the <strong>Progress In Electromagnetics Research Symposium (PIERS 2026, Suzhou, China)</strong>. We invite abstract submissions for oral presentations. A limited number of invited talk slots are available; interested speakers are welcome to <a href="mailto:lity@ust.hk">contact me</a> for further information.
 </p>
 
 
@@ -96,13 +92,15 @@ Publications
 
 <!-- <img width="175" align="left" src="../images/multigrid.jpg"/> -->
 
-- &nbsp; [__Scalable generalized meta-spanners enabling parallel multitasking optical manipulation__](https://www.science.org/doi/10.1126/sciadv.aed5302)<br/>
-&nbsp; __Tianyue Li†__, Wenyu Gao†, Boyan Fu†, Tianhua Shao, Yuchao Fu, Siarhei Zavatski, Jeeban Kumar Nayak, Shaohui Yan, Xiaohao Xu, Shuming Wang, Baoli Yao, Zhenlin Wang, Shining Zhu, Olivier J. F. Martin, C. T. Chan <br/>
-&nbsp; *Science Advances*, 12 (15), eaed5302, 2026 <br/>
 
 - &nbsp; [__Freeform optical flow based on meta-conveyors for compact, programmable in-situ nanomanipulation__](https://www.nature.com/articles/s41467-026-73024-0)<br/>
 &nbsp; __Tianyue Li__, Xiao Li, Zengyang Gao, Jack Ng, Vladan Blahnik, Fan Nan, Yuebing Zheng, C. T. Chan. <br/>
 &nbsp; *Nature Communications*, 17, 4212, 2026 <br/>
+
+
+- &nbsp; [__Scalable generalized meta-spanners enabling parallel multitasking optical manipulation__](https://www.science.org/doi/10.1126/sciadv.aed5302)<br/>
+&nbsp; __Tianyue Li†__, Wenyu Gao†, Boyan Fu†, Tianhua Shao, Yuchao Fu, Siarhei Zavatski, Jeeban Kumar Nayak, Shaohui Yan, Xiaohao Xu, Shuming Wang, Baoli Yao, Zhenlin Wang, Shining Zhu, Olivier J. F. Martin, C. T. Chan <br/>
+&nbsp; *Science Advances*, 12 (15), eaed5302, 2026 <br/>
 
 - &nbsp; [__Full-color 3D visualization with Janus metafiber__](https://doi.org/10.1038/s41467-026-74131-8)<br/>
 &nbsp; Haotian Xu†, __Tianyue Li†__, Haotian Ding, Shaochen Fang, Xiangyu Ma, Haojie Chen, Ye Chen, Yifeng Xiong, Shuming Wang, Fei Xu. <br/>
