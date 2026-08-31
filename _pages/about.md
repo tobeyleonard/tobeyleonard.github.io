@@ -22,7 +22,7 @@ My research centers on Nanophotonics, focusing on the physical mechanisms in lig
     <li><strong><a href="https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf107/8092649?searchresult=1" target="_blank" rel="noopener noreferrer"><em>National Science Review</em> 12(6), nwaf107 (2025)</a></strong></li>
   <li><strong><a href="https://www.science.org/doi/10.1126/sciadv.aed5302" target="_blank" rel="noopener noreferrer"><em>Science Advances</em> 12(15), eaed5302 (2026)</a></strong></li>
   <li><strong><a href="https://www.nature.com/articles/s41467-026-73024-0" target="_blank" rel="noopener noreferrer"><em>Nature Communications</em> 17, 4212 (2026)</a></strong></li>
-  <li><strong><a href="https://doi.org/10.1038/s41467-026-74131-8" target="_blank" rel="noopener noreferrer"><em>Nature Communications</em> 17, 7307 (2026)</a></strong></li>
+  <li><strong><a href="https://doi.org/10.1038/s41467-026-74131-8" target="_blank" rel="noopener noreferrer"><em>Nature Communications</em> 17, 7303 (2026)</a></strong></li>
   <li><strong><a href="https://doi.org/10.1364/OPTICA.549864" target="_blank" rel="noopener noreferrer"><em>Optica</em> 12(3), 391-398 (2025)</a></strong></li>
 </ul>
 
