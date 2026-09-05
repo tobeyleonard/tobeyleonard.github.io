@@ -87,7 +87,7 @@ Derivative Applications
 </div>
 <br/>
 
-Publications List
+Publication List
 ======
 
 <!-- <img width="175" align="left" src="../images/multigrid.jpg"/> -->
