@@ -16,7 +16,7 @@ Hi! I am currently a Research Fellow with the Department of Physics (Phys Dept) 
 My research centers on Nanophotonics, focusing on the physical mechanisms in light-matter interactions. I aim to advance this field by exploring new frontiers in light-field manipulation, topological photonics, and optical force-induced manipulation. I am also actively developing versatile nano-devices for on-chip and fiber-based platforms, with applications in optical tweezers, optical communication, photonic waveguiding circuits, and multimodal sensing.
 </p>
 
-<h3>Representative/Featured publications</h3>
+<h3>Selective publications</h3>
 
 <ul style="text-align: justify; list-style-type: disc; padding-left: 20px;">
     <li><strong><a href="https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf107/8092649?searchresult=1" target="_blank" rel="noopener noreferrer"><em>National Science Review</em> 12(6), nwaf107 (2025)</a></strong></li>
@@ -87,7 +87,7 @@ Derivative Applications
 </div>
 <br/>
 
-Publications
+Publications List
 ======
 
 <!-- <img width="175" align="left" src="../images/multigrid.jpg"/> -->
