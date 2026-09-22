@@ -106,6 +106,10 @@ Publication List
 &nbsp; Haotian Xu†, __Tianyue Li†__, Haotian Ding, Shaochen Fang, Xiangyu Ma, Haojie Chen, Ye Chen, Yifeng Xiong, Shuming Wang, Fei Xu. <br/>
 &nbsp; *Nature Communications*, 17, 7303, 2026 <br/>
 
+- &nbsp; [__Rapid inverse design of large‑scale freeform meta‑optics with the neighborhood‑attention transformer__](https://doi.org/10.1038/s41467-026-74131-8)<br/>
+&nbsp; Shiqi Kuang, Zhi Sun, Boyan Fu, Xue Yun, Minru He, Tianyu Zhao, Shaowei Wang, Tianhua Shao, Geze Gao, Yunlai Fu, Yansheng Liang\*, __Tianyue Li\*__, Shuming Wang\*, Ming Lei\*. <br/>
+&nbsp; *PhotoniX*, forthcoming, 2026 <br/>
+
 - &nbsp; [__Practically reliable high-Q guided-mode resonances via coupler-assisted BICs__](https://doi.org/10.1364/OE.589048)<br/>
 &nbsp; Huan Li, __Tianyue Li\*__, Jingcheng Zhang\*. <br/>
 &nbsp; *Optics Express*, 34 (7), 13133-13141, 2026 <br/>
