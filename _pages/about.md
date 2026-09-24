@@ -19,19 +19,29 @@ My research centers on Nanophotonics, focusing on the physical mechanisms in lig
 <h3>Selective publications</h3>
 
 <ul style="text-align: justify; list-style-type: disc; padding-left: 20px;">
-    <li><strong><a href="https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf107/8092649?searchresult=1" target="_blank" rel="noopener noreferrer"><em>National Science Review</em> 12(6), nwaf107 (2025)</a></strong></li>
+  <li><strong><a href="https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf107/8092649?searchresult=1" target="_blank" rel="noopener noreferrer"><em>National Science Review</em> 12(6), nwaf107 (2025)</a></strong></li>
   <li><strong><a href="https://www.science.org/doi/10.1126/sciadv.aed5302" target="_blank" rel="noopener noreferrer"><em>Science Advances</em> 12(15), eaed5302 (2026)</a></strong></li>
   <li><strong><a href="https://www.nature.com/articles/s41467-026-73024-0" target="_blank" rel="noopener noreferrer"><em>Nature Communications</em> 17, 4212 (2026)</a></strong></li>
+  <li><strong><em>Science Advances</em>, eaeh3126 (Accepted)</strong></li>
   <li><strong><a href="https://doi.org/10.1038/s41467-026-74131-8" target="_blank" rel="noopener noreferrer"><em>Nature Communications</em> 17, 7303 (2026)</a></strong></li>
-  <li><strong><a href="https://doi.org/10.1364/OPTICA.549864" target="_blank" rel="noopener noreferrer"><em>Optica</em> 12(3), 391-398 (2025)</a></strong></li>
 </ul>
 
-<h3>Call for Papers</h3>
+<h3>Editorial &amp; Call for Papers</h3>
+
+<p align="justify">
+  <strong>Academic Service:</strong><br>
+  Young Editorial Board Member, <a href="https://www.sciencedirect.com/journal/chip"><em>Chip</em></a><br>
+  Young Editorial Board Member, <a href="https://www.sciencedirect.com/journal/ioptics"><em>iOptics</em></a><br>
+  Young Editorial Board Member (4th Cohort), <a href="https://m.researching.cn/aos_ol"><em>Acta Optica Sinica (Online)</em></a>
+</p>
 
 <p align="justify">
   <strong>Special Issue:</strong> We are co-hosting a Special Issue titled "<a href="https://www.mdpi.com/journal/photonics/special_issues/HPH62OU5VY">Metasurfaces and Meta-Devices: From Fundamentals to Applications</a>" in the journal <em>Photonics</em>. The submission deadline is <strong>December 31, 2026</strong>. Original research and review articles relevant to the theme are welcome.
 </p>
 
+<p align="justify">
+  <strong>Submissions welcome:</strong> Submissions to the above journals and the Special Issue are welcome. High-quality manuscripts may be recommended. Please feel free to get in touch.
+</p>
 
 Fundamental Research
 ======
