@@ -22,7 +22,7 @@ My research centers on Nanophotonics, focusing on the physical mechanisms in lig
   <li><strong><a href="https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf107/8092649?searchresult=1" target="_blank" rel="noopener noreferrer"><em>National Science Review</em> 12(6), nwaf107 (2025)</a></strong></li>
   <li><strong><a href="https://www.science.org/doi/10.1126/sciadv.aed5302" target="_blank" rel="noopener noreferrer"><em>Science Advances</em> 12(15), eaed5302 (2026)</a></strong></li>
   <li><strong><a href="https://www.nature.com/articles/s41467-026-73024-0" target="_blank" rel="noopener noreferrer"><em>Nature Communications</em> 17, 4212 (2026)</a></strong></li>
-  <li><strong><em>Science Advances</em>, (forthcoming)</strong></li>
+  <li><strong><em>Science Advances</em>, Accepted & In press </strong></li>
   <li><strong><a href="https://doi.org/10.1038/s41467-026-74131-8" target="_blank" rel="noopener noreferrer"><em>Nature Communications</em> 17, 7303 (2026)</a></strong></li>
 </ul>
 
@@ -111,6 +111,10 @@ Publication List
 - &nbsp; [__Scalable generalized meta-spanners enabling parallel multitasking optical manipulation__](https://www.science.org/doi/10.1126/sciadv.aed5302)<br/>
 &nbsp; __Tianyue Li†__, Wenyu Gao†, Boyan Fu†, Tianhua Shao, Yuchao Fu, Siarhei Zavatski, Jeeban Kumar Nayak, Shaohui Yan, Xiaohao Xu, Shuming Wang, Baoli Yao, Zhenlin Wang, Shining Zhu, Olivier J. F. Martin, C. T. Chan <br/>
 &nbsp; *Science Advances*, 12 (15), eaed5302, 2026 <br/>
+
+- &nbsp; __Direct visualization of light’s polarization and spectrum with a compass-like meta-device__<br/>
+&nbsp; Yifeng Xiong, Shaochen Fang, Haotian Xu, __Tianyue Li\*__, Xiangyu Ma, Hong Zhang, Ye Chen, Jinhui Chen, Yu Lei\*, C. T. Chan, and Fei Xu\* <br/>
+&nbsp; *Science Advances*, Accepted & In press <br/>
 
 - &nbsp; [__Full-color 3D visualization with Janus metafiber__](https://doi.org/10.1038/s41467-026-74131-8)<br/>
 &nbsp; Haotian Xu†, __Tianyue Li†__, Haotian Ding, Shaochen Fang, Xiangyu Ma, Haojie Chen, Ye Chen, Yifeng Xiong, Shuming Wang, Fei Xu. <br/>
