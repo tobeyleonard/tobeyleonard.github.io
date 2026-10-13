@@ -128,9 +128,9 @@ Publication List
 &nbsp; Huan Li, __Tianyue Li\*__, Jingcheng Zhang\*. <br/>
 &nbsp; *Optics Express*, 34 (7), 13133-13141, 2026 <br/>
 
-- &nbsp; [__Engineering quantum emission with mie voids__](https://arxiv.org/abs/2601.19420)<br/>
+- &nbsp; [__Engineering Photoluminescence with mie voids__](https://arxiv.org/abs/2601.19420)<br/>
 &nbsp; Yuchao Fu, Ilia Lykov, Sergejs Boroviks, Nai-Quan Zhu, __Tianyue Li__, Siarhei Zavatski, Makhlad Chahid, Olivier J. F. Martin. <br/>
-&nbsp; *ArXiv*, 2601.19420, 2026 <br/>
+&nbsp; *Advanced Photonics*, Accepted & In press <br/>
 
 - &nbsp; [__Configurable topological photonic polycrystal based on a synthetic hybrid dimension__](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf107/8092649?searchresult=1)<br/>
 &nbsp; __Tianyue Li†__, Mengjiao Liu†, Jin Qin†, Jiahao Hou, Jianzheng Ren, Yang Liu, Xing Yang, Hongchen Chu, Yun Lai, Shuming Wang, Jian-Hua Jiang, C. T. Chan, Shining Zhu. <br/>
